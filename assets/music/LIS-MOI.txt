@@ -1,0 +1,16 @@
+Musiques de Money Tricks Exposed
+================================
+
+Mets ici les musiques téléchargées sur Pixabay Music (pixabay.com/music) :
+- ambiance légère et curieuse : "upbeat", "corporate", "quirky", "lofi", "funky", "investigation" ;
+- jamais épique ni sombre (la voix explique, la musique accompagne) ;
+- plus de 90 secondes ;
+- sans paroles ;
+- le fichier .mp3 tel quel, sans le renommer.
+
+Pour l'instant, ce sont encore les 4 musiques épiques d'Alpha Mindset (copiées pour les tests) : à remplacer par
+5 à 10 musiques de la chaîne, puis à indiquer dans moods.json (au moins 2 musiques de plus de 70 s par ambiance).
+Une musique sous licence CC BY ajoute son crédit dans la description (moods.json -> credits) : préfère Pixabay.
+
+Le système fait tourner les musiques pour que deux vidéos d'affilée n'aient jamais la même,
+et démarre chaque musique après son intro calme.
