@@ -1,8 +1,51 @@
 {
-  "_help": "moods: mood -> track files; categories: plan category -> mood (empty = every track fits every video, rotated so the same track never plays twice in a row). credits: track file -> line added to the post caption (CC BY tracks only; Pixabay Music tracks need none).",
-  "moods": {},
-  "categories": {},
-  "credits": {
-    "dark-moment-dark-epic-trailer-e-erkut.mp3": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
-  }
+  "_help": "moods: mood -> track files; categories: plan category -> mood (a track in no mood fits every video; tracks rotate so the same one never plays twice in a row). urls: track file -> where audio.py downloads it (the mp3 files stay out of this public repo: the Pixabay license forbids passing a track on as it is). credits: track file -> line added to the post caption (CC BY tracks only; Pixabay Music tracks need none).",
+  "moods": {
+    "malin": [
+      "midnight-tiptoe-532222.mp3",
+      "traipsing-through-the-country-154779.mp3",
+      "fun-quirky-upbeat-598323.mp3"
+    ],
+    "enquete": [
+      "comedy-detective-127185.mp3",
+      "the-hunt-60s-bongo-beatnik-cop-theme-detectives-tv-soundtrack-224606.mp3",
+      "detective-investigation-background-523193.mp3"
+    ],
+    "tension": [
+      "tension-documentary-519912.mp3",
+      "corporate-tension-background-music-293059.mp3"
+    ],
+    "positif": [
+      "uplifting-positive-614903.mp3",
+      "chillhop-jazz-coffee-shop-552792.mp3"
+    ]
+  },
+  "categories": {
+    "Sales and discounts": "malin",
+    "Supermarket tricks": "malin",
+    "Restaurants and menus": "malin",
+    "Online shopping and apps": "malin",
+    "Pricing psychology": "enquete",
+    "Advertising and influence": "enquete",
+    "Your brain on money": "enquete",
+    "Money history and strange facts": "enquete",
+    "Casinos lotteries and games": "tension",
+    "Cards debt and buy now pay later": "tension",
+    "Subscriptions loyalty and points": "tension",
+    "Travel cars and big purchases": "tension",
+    "Money habits that beat the tricks": "positif"
+  },
+  "urls": {
+    "midnight-tiptoe-532222.mp3": "https://cdn.pixabay.com/audio/2026/05/23/audio_30113de8cb.mp3",
+    "traipsing-through-the-country-154779.mp3": "https://cdn.pixabay.com/audio/2023/06/21/audio_8dc3d2befa.mp3",
+    "fun-quirky-upbeat-598323.mp3": "https://cdn.pixabay.com/audio/2026/09/06/audio_345cdb8314.mp3",
+    "comedy-detective-127185.mp3": "https://cdn.pixabay.com/audio/2022/11/26/audio_0052d925c3.mp3",
+    "the-hunt-60s-bongo-beatnik-cop-theme-detectives-tv-soundtrack-224606.mp3": "https://cdn.pixabay.com/audio/2024/07/14/audio_9798789cfe.mp3",
+    "detective-investigation-background-523193.mp3": "https://cdn.pixabay.com/audio/2026/05/07/audio_9f27bee2c9.mp3",
+    "tension-documentary-519912.mp3": "https://cdn.pixabay.com/audio/2026/04/15/audio_e444601d4d.mp3",
+    "corporate-tension-background-music-293059.mp3": "https://cdn.pixabay.com/audio/2025/01/27/audio_1225dbb5d6.mp3",
+    "uplifting-positive-614903.mp3": "https://cdn.pixabay.com/audio/2026/10/04/audio_6d34669c3b.mp3",
+    "chillhop-jazz-coffee-shop-552792.mp3": "https://cdn.pixabay.com/audio/2026/06/16/audio_912babebe1.mp3"
+  },
+  "credits": {}
 }

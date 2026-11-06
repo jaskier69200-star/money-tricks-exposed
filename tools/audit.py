@@ -165,7 +165,8 @@ style = config.get("style", {})
 check(0 < style.get("stock_share", 0) < 1, "library and real Pixabay footage in turn (style → stock_share)", str(style.get("stock_share")))
 
 section("Music and sound")
-from audio import track_seconds  # noqa: E402
+from audio import fetch_tracks, track_seconds  # noqa: E402
+fetch_tracks()
 tracks = [p for p in (ROOT / "assets/music").glob("*.mp3")]
 long_tracks = [p for p in tracks if track_seconds(p) >= 80]
 check(len(long_tracks) >= 3, "at least 3 music tracks longer than a video", f"{len(long_tracks)} of {len(tracks)}")
@@ -173,6 +174,14 @@ moods = json.loads((ROOT / "assets/music/moods.json").read_text(encoding="utf-8"
 check(all((ROOT / "assets/music" / f).exists() for f in moods.get("credits", {})), "every credited track exists")
 missing = [f for files_ in moods.get("moods", {}).values() for f in files_ if not (ROOT / "assets/music" / f).exists()]
 check(not missing, "moods.json only names existing tracks", ", ".join(missing))
+plan_categories = {t["category"] for t in json.loads((ROOT / "topic_plan.json").read_text(encoding="utf-8"))}
+no_mood = sorted(plan_categories - set(moods.get("categories", {})))
+check(not no_mood, "every plan category has a music mood", ", ".join(no_mood))
+thin = [m for m, files_ in moods.get("moods", {}).items() if len(files_) < 2]
+check(not thin, "at least 2 tracks per mood", ", ".join(thin))
+in_repo = [f for f in subprocess.run(["git", "ls-files", "assets/music"], cwd=ROOT, capture_output=True, text=True).stdout.split()
+           if f.endswith(".mp3") and f.rsplit("/", 1)[-1] in moods.get("urls", {})]
+check(not in_repo, "Pixabay tracks not in the public repo (license: moods.json → urls)", ", ".join(in_repo))
 check((ROOT / "assets/voice/reference.wav").exists(), "reference voice present (Kokoro af_heart, the owner's pick)")
 check(len(list((ROOT / "assets/sfx").glob("impact-*.mp3"))) >= 2, "two bass hits for the punch cards")
 

@@ -1,16 +1,26 @@
 Musiques de Money Tricks Exposed
 ================================
 
-Mets ici les musiques téléchargées sur Pixabay Music (pixabay.com/music) :
-- ambiance légère et curieuse : "upbeat", "corporate", "quirky", "lofi", "funky", "investigation" ;
-- jamais épique ni sombre (la voix explique, la musique accompagne) ;
-- plus de 90 secondes ;
-- sans paroles ;
-- le fichier .mp3 tel quel, sans le renommer.
+10 musiques de Pixabay Music, choisies le 6 novembre 2026 : sans marquage Content ID, pas faites par une IA,
+plus de 90 secondes. La licence Pixabay permet de les utiliser gratuitement dans les vidéos, sans crédit.
 
-Pour l'instant, ce sont encore les 4 musiques épiques d'Alpha Mindset (copiées pour les tests) : à remplacer par
-5 à 10 musiques de la chaîne, puis à indiquer dans moods.json (au moins 2 musiques de plus de 70 s par ambiance).
-Une musique sous licence CC BY ajoute son crédit dans la description (moods.json -> credits) : préfère Pixabay.
+Les fichiers .mp3 ne vont pas sur GitHub : le dépôt est public et la licence interdit de redonner un morceau tel quel.
+moods.json garde seulement le lien de chaque morceau (urls) ; le robot le télécharge quand il en a besoin.
+
+malin (promos, supermarché, restaurants, achats en ligne)
+  Midnight Tiptoe (VitMatNotes), Traipsing through the Country (GregFellman), Fun Quirky Upbeat (331music)
+
+enquete (prix, publicité, cerveau, histoire de l'argent)
+  Comedy Detective (Music_for_Creators), The Hunt (melodyayresgriffiths), Detective Investigation Background (JorisVermeer)
+
+tension (casinos, cartes et dettes, abonnements, voitures et voyages)
+  Tension Documentary (AtlasAudio), Corporate Tension Background Music (Music_for_Creators)
+
+positif (bonnes habitudes)
+  Uplifting Positive (Kulakovka), Chillhop Jazz Coffee Shop (alex-morgan)
+
+Pour changer une musique : remplacer son nom dans moods.json (moods) et son lien (urls), puis relancer tools/audit.py.
+Toujours : léger et curieux, jamais épique ni sombre, sans paroles, plus de 90 secondes.
 
 Le système fait tourner les musiques pour que deux vidéos d'affilée n'aient jamais la même,
 et démarre chaque musique après son intro calme.

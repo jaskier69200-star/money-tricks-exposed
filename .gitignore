@@ -13,3 +13,6 @@ assets/music/analysis.json
 reference/
 test-run*.log
 assets/library/test-*.mp4
+
+# Pixabay tracks: moods.json lists their links, audio.py downloads them (the license forbids passing them on as they are)
+assets/music/*.mp3

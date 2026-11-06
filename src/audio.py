@@ -8,6 +8,7 @@ VOICE_ABOVE_MUSIC dB louder on every line (the owner heard the music cover the v
 import random
 import re
 import subprocess
+import urllib.request
 from pathlib import Path
 
 from common import ROOT, find_ffmpeg, load_json, save_json
@@ -54,14 +55,34 @@ def music_rotation(topic, index, tracks, topics, moods):
     return pool or tracks, nth
 
 
+def fetch_tracks():
+    """Download the tracks missing here (assets/music/moods.json → urls) and return that list. The mp3 files stay out
+    of the repo: it is public, and the Pixabay license forbids passing a track on as it is. GitHub's cache keeps them."""
+    urls = load_json(MUSIC_DIR / "moods.json", {}).get("urls", {})
+    for name, url in urls.items():
+        if (MUSIC_DIR / name).exists():
+            continue
+        try:
+            request = urllib.request.Request(url, headers={"User-Agent": "money-tricks-exposed"})
+            with urllib.request.urlopen(request, timeout=60) as response:
+                data = response.read()
+            (MUSIC_DIR / name).write_bytes(data)
+        except OSError as e:  # a track taken down or a network blip: the other tracks will do
+            print(f"  music {name}: download failed ({type(e).__name__})")
+    return urls
+
+
 def pick_music(topic, index, total):
     """Choose the background music for a topic: a track whose mood fits the topic's category
     (assets/music/moods.json), rotated so neighbouring videos don't share a track, long enough
     for the whole video, and started after its quiet intro at a point that changes every video.
-    Returns (path, start second) or None if there is no music."""
+    Returns (path, start second) or None if the channel has no music."""
+    urls = fetch_tracks()
     tracks = sorted(p for p in MUSIC_DIR.glob("*") if p.suffix.lower() in (".mp3", ".m4a", ".wav", ".ogg"))
     tracks = [p for p in tracks if track_seconds(p) >= total + 1] or tracks
     if not tracks:
+        if urls:  # never publish a silent video because of a download problem: the run fails and Telegram says so
+            raise SystemExit("No music track could be downloaded (assets/music/moods.json → urls).")
         return None
     topics = load_json(ROOT / "topics.json")
     moods = load_json(MUSIC_DIR / "moods.json", {})
