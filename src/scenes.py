@@ -76,12 +76,12 @@ FIRST_TAGS = 5  # an uploader's first tags say what the clip shows; further down
 
 
 def names_subject(tags, roots):
-    """True if the clip's first tags are about the search. A lone word must be a whole first tag ("form" found waves
-    tagged "to form", "basket" a flower called "cape basket", "envelope" a caterpillar); of several words, one must be there."""
-    first = tags[:FIRST_TAGS]
+    """True if the clip's first tags are about the search. A lone word must be a whole tag among the first 3 ("form" found
+    waves tagged "to form", "basket" a flower called "cape basket", "milk" a nursing bison); of several words, one must be
+    among the first 5."""
     if len(roots) == 1:
-        return any(t.startswith(roots[0]) and " " not in t for t in first)
-    return any(w.startswith(r) for r in roots for t in first for w in t.split())
+        return any(t.startswith(roots[0]) and " " not in t for t in tags[:3])
+    return any(w.startswith(r) for r in roots for t in tags[:FIRST_TAGS] for w in t.split())
 
 
 def match_score(clip, query):
