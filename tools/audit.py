@@ -149,12 +149,20 @@ check(not dupes, "no long line repeated across monologues", f"{len(dupes)} repea
 start = date.fromisoformat(plan[0]["date"])
 notes.append(f"plan starts {start} (build_plan.py START): set it to the real launch day before go-live")
 
-section("Stock footage (this channel has no AI library)")
+section("AI clip library")
+lib_file = ROOT / "assets/library/library.json"
+lib = json.loads(lib_file.read_text(encoding="utf-8")) if lib_file.exists() else {"clips": [], "categories": []}
+files = {p.stem for p in (ROOT / "assets/library").glob("*.mp4") if not p.stem.startswith("test-")}
+listed = {c["id"] for c in lib["clips"]}
+check(bool(listed) and listed == files, "library.json lists exactly the clips in assets/library", f"{len(listed)} listed, {len(files)} files")
+check(all(c["seconds"] >= 5.9 for c in lib["clips"]), "every library clip lasts 6 s")
+per_cat = {c["cat"]: 0 for c in lib["categories"]}
+for c in lib["clips"]:
+    per_cat[c["cat"]] = per_cat.get(c["cat"], 0) + 1
+thin = [k for k, v in per_cat.items() if v < 3]
+check(not thin, "every scene category has at least 3 clips", ", ".join(thin[:6]))
 style = config.get("style", {})
-check(not (ROOT / "assets/library/library.json").exists() and style.get("stock_share") == 1.0,
-      "every shot is real Pixabay footage (no AI library to fall back on)")
-check(len(style.get("fallback_searches", [])) >= 3,
-      "on-theme fallback searches set (a line with no matching clip never gets a random one)")
+check(0 < style.get("stock_share", 0) < 1, "library and real Pixabay footage in turn (style → stock_share)", str(style.get("stock_share")))
 
 section("Music and sound")
 from audio import track_seconds  # noqa: E402

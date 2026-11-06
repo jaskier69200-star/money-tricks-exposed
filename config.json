@@ -28,9 +28,9 @@
   "telegram_emoji": "🟩",
   "channel_name": "Money Tricks Exposed",
   "style": {
-    "_help": "Engine B (Alpha's montage), chosen by the owner on 2 Nov 2026. No AI library: every shot is real Pixabay footage (stock_share 1.0), with a lighter grade than Alpha's cinema look. fallback_searches = on-theme clips used only when a line's own words find nothing.",
+    "_help": "Engine B (Alpha's montage), chosen by the owner on 2 Nov 2026. AI clip library (assets/library, made on the owner's PC like Alpha's) and real Pixabay footage in turn: stock_share = share of real shots, used only when a clip's tags hold every word of the line's search; real clips get a lighter grade than Alpha's cinema look. fallback_searches = on-theme clips, used only if the library is ever empty.",
     "highlight_hex": "#f5c518",
-    "stock_share": 1.0,
+    "stock_share": 0.5,
     "stock_grade": "eq=contrast=1.06:saturation=1.08,vignette=angle=PI/5",
     "fallback_searches": ["money cash", "credit card payment", "shopping street city", "supermarket shopping", "coins hand money", "online shopping laptop"]
   }

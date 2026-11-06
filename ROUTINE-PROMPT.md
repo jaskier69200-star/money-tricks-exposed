@@ -43,17 +43,21 @@ Rules for the script (one per plan entry, about its title and category):
   Contractions are fine.
 - card: on 5 to 10 of the strongest lines, including always line 1: the line's key words, 1 to 3 UPPERCASE words,
   16 characters max with spaces (e.g. "THE MIDDLE TRAP", "SLACK FILL", "BEAT IT"). The last line's card is "FOLLOW".
-- scene: a short lowercase label of what the shot shows (e.g. "checkout", "wallet", "casino"). This channel has no AI
-  library: the label only keeps two lines in a row from looking the same, so never repeat it on consecutive lines.
+- scene: the AI library category whose clips best show the line, written exactly as in
+  assets/library/library.json ("categories": each cat with its tags), e.g. "checkout", "wallet", "casino", "bank",
+  "thinking" for a person doubting, "city-night" for streets. Never the same category on two lines in a row
+  (add_content.py checks both). The library clip is shown on about half of the lines, and on every line whose search
+  finds no real clip. When no category fits (an anchor, a maze), use "thinking" and make the search words concrete.
 - search: for EVERY line, line 1 included, 2 to 5 lowercase words to find real footage on Pixabay of what the line
   shows. A clip is used only if its tags contain EVERY word, so: name filmable things people tag videos with, noun
   first ("popcorn bucket", not "large popcorn"): supermarket, shopping cart, cashier, credit card, wallet, coins, cash,
-  receipt, laptop, phone, restaurant, menu, waiter, wine, casino, slot machine, dice, car dealership, airport, hotel,
+  receipt, laptop, phone, restaurant, menu, waiter, wine, casino, roulette, dice, car dealership, airport, hotel,
   calendar, calculator, warehouse, delivery, city street. Never ideas or verbs ("comparing", "decision", "trick"),
   never start with an adjective ("car used", not "used car"; "turkey frozen" is wrong too: write "turkey freezer"),
-  never brands or people's names. When the full search finds nothing, the system tries pairs of its words, then
-  each noun alone in the order written, so put the most important noun first. Write woman or man only when a person matters. Words like wedding, christmas, party,
-  baby or halloween are fine when the line is about them.
+  never brands or people's names. When the full search finds nothing, the system tries pairs of its words (and each
+  noun alone when no category fits the line), then shows the library clip, so put the most important noun first.
+  Write woman or man only when a person matters. Words like wedding, christmas, party, baby or halloween are fine
+  when the line is about them.
 - gap: pause after the line in seconds: 0.6 to 0.8 after a strong line or a card, 0.3 to 0.5 otherwise.
 - caption: one sentence of 8 to 30 words, with words people search for (money tips, save money, the trick's name...),
   no hashtags. hashtags: exactly 4 lowercase topic hashtags; never #moneytricksexposed (added automatically).

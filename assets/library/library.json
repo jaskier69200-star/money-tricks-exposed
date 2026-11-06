@@ -1,0 +1,3152 @@
+{
+ "style": "Realistic cinematic photograph, soft natural light, shallow depth of field, rich natural colors, modern American setting, vertical composition, sharp focus on the subject, no readable text, no letters, no numbers, no logos, no brand names.",
+ "categories": [
+  {
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ]
+  },
+  {
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ]
+  },
+  {
+   "cat": "calculator",
+   "tags": [
+    "calculator",
+    "math",
+    "budget",
+    "numbers"
+   ]
+  },
+  {
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ]
+  },
+  {
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ]
+  },
+  {
+   "cat": "wallet",
+   "tags": [
+    "wallet",
+    "money",
+    "cash",
+    "empty"
+   ]
+  },
+  {
+   "cat": "shopping-bags",
+   "tags": [
+    "shopping",
+    "bags",
+    "spree",
+    "store"
+   ]
+  },
+  {
+   "cat": "calendar",
+   "tags": [
+    "calendar",
+    "date",
+    "deadline",
+    "month"
+   ]
+  },
+  {
+   "cat": "price-tags",
+   "tags": [
+    "price",
+    "tag",
+    "label",
+    "sale"
+   ]
+  },
+  {
+   "cat": "coins",
+   "tags": [
+    "coins",
+    "change",
+    "cents",
+    "money"
+   ]
+  },
+  {
+   "cat": "credit-card",
+   "tags": [
+    "card",
+    "credit",
+    "payment",
+    "plastic"
+   ]
+  },
+  {
+   "cat": "clock-time",
+   "tags": [
+    "clock",
+    "time",
+    "deadline",
+    "hour"
+   ]
+  },
+  {
+   "cat": "journal-list",
+   "tags": [
+    "list",
+    "journal",
+    "plan",
+    "notes"
+   ]
+  },
+  {
+   "cat": "cash",
+   "tags": [
+    "cash",
+    "bills",
+    "dollars",
+    "money"
+   ]
+  },
+  {
+   "cat": "receipt",
+   "tags": [
+    "receipt",
+    "bill",
+    "total",
+    "checkout"
+   ]
+  },
+  {
+   "cat": "checkout",
+   "tags": [
+    "checkout",
+    "cashier",
+    "register",
+    "pay"
+   ]
+  },
+  {
+   "cat": "savings-jar",
+   "tags": [
+    "savings",
+    "jar",
+    "piggy bank",
+    "save"
+   ]
+  },
+  {
+   "cat": "government",
+   "tags": [
+    "government",
+    "regulator",
+    "law",
+    "rules"
+   ]
+  },
+  {
+   "cat": "crowd-shopping",
+   "tags": [
+    "crowd",
+    "people",
+    "busy",
+    "store"
+   ]
+  },
+  {
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ]
+  },
+  {
+   "cat": "factory",
+   "tags": [
+    "factory",
+    "production",
+    "warehouse",
+    "packaging"
+   ]
+  },
+  {
+   "cat": "brain",
+   "tags": [
+    "brain",
+    "mind",
+    "psychology",
+    "neuroscience"
+   ]
+  },
+  {
+   "cat": "courtroom",
+   "tags": [
+    "court",
+    "judge",
+    "lawsuit",
+    "law"
+   ]
+  },
+  {
+   "cat": "tap-to-pay",
+   "tags": [
+    "contactless",
+    "tap",
+    "terminal",
+    "phone pay"
+   ]
+  },
+  {
+   "cat": "home-sofa",
+   "tags": [
+    "home",
+    "sofa",
+    "relax",
+    "evening"
+   ]
+  },
+  {
+   "cat": "shopping-mall",
+   "tags": [
+    "mall",
+    "escalator",
+    "stores",
+    "walk"
+   ]
+  },
+  {
+   "cat": "store-sale",
+   "tags": [
+    "sale",
+    "discount",
+    "sign",
+    "store"
+   ]
+  },
+  {
+   "cat": "restaurant",
+   "tags": [
+    "restaurant",
+    "menu",
+    "dinner",
+    "waiter"
+   ]
+  },
+  {
+   "cat": "wine",
+   "tags": [
+    "wine",
+    "bottle",
+    "glass",
+    "restaurant"
+   ]
+  },
+  {
+   "cat": "coffee-shop",
+   "tags": [
+    "coffee",
+    "cafe",
+    "barista",
+    "cup"
+   ]
+  },
+  {
+   "cat": "cinema-popcorn",
+   "tags": [
+    "popcorn",
+    "cinema",
+    "movie",
+    "snack"
+   ]
+  },
+  {
+   "cat": "casino",
+   "tags": [
+    "casino",
+    "slots",
+    "gambling",
+    "chips"
+   ]
+  },
+  {
+   "cat": "car-dealership",
+   "tags": [
+    "car",
+    "dealership",
+    "keys",
+    "showroom"
+   ]
+  },
+  {
+   "cat": "travel-airport",
+   "tags": [
+    "airport",
+    "travel",
+    "hotel",
+    "flight"
+   ]
+  },
+  {
+   "cat": "jewelry-wedding",
+   "tags": [
+    "diamond",
+    "ring",
+    "jewelry",
+    "wedding"
+   ]
+  },
+  {
+   "cat": "delivery",
+   "tags": [
+    "delivery",
+    "package",
+    "boxes",
+    "door"
+   ]
+  },
+  {
+   "cat": "office-meeting",
+   "tags": [
+    "office",
+    "business",
+    "meeting",
+    "marketing"
+   ]
+  },
+  {
+   "cat": "research",
+   "tags": [
+    "research",
+    "study",
+    "university",
+    "science"
+   ]
+  },
+  {
+   "cat": "vintage",
+   "tags": [
+    "vintage",
+    "history",
+    "old",
+    "past"
+   ]
+  },
+  {
+   "cat": "bills-documents",
+   "tags": [
+    "bills",
+    "documents",
+    "paperwork",
+    "debt"
+   ]
+  },
+  {
+   "cat": "gaming",
+   "tags": [
+    "video game",
+    "gamer",
+    "loot",
+    "console"
+   ]
+  },
+  {
+   "cat": "grocery-food",
+   "tags": [
+    "groceries",
+    "food",
+    "snacks",
+    "candy"
+   ]
+  },
+  {
+   "cat": "bank",
+   "tags": [
+    "bank",
+    "atm",
+    "loan",
+    "interest",
+    "fees"
+   ]
+  },
+  {
+   "cat": "gifts",
+   "tags": [
+    "gift",
+    "present",
+    "holiday",
+    "christmas"
+   ]
+  }
+ ],
+ "clips": [
+  {
+   "id": "city-night-1",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A busy shopping street at dusk, glowing shop windows and wet pavement reflecting warm lights, people walking past.",
+   "seed": 1468487162,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-2",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A city crosswalk at night seen from street level, blurred headlights and softly glowing shop windows in the background, no signs and no writing anywhere.",
+   "seed": 849620735,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-3",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A downtown skyline at blue hour seen from a rooftop, office windows lit, soft haze over the city.",
+   "seed": 98667675,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-4",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A young woman walking past bright store windows on a city street at night, seen from behind, bokeh lights.",
+   "seed": 4259475293,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-5",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A wet city street reflecting soft warm streetlights and glowing windows after the rain at night, a few people with umbrellas, no signs and no writing anywhere.",
+   "seed": 954165031,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-6",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A busy intersection at night seen from above, light trails of cars and glowing store fronts.",
+   "seed": 1598306937,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-7",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A quiet American residential street at dusk, warm light in the windows of the houses, parked cars, a person walking a dog in the distance, no signs and no writing anywhere.",
+   "seed": 3449476651,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-8",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A man waiting alone at a plain glass bus shelter at night under a streetlight, seen from the side, blurred car lights passing, no posters, no signs and no writing anywhere.",
+   "seed": 3341249362,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-9",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "An almost empty parking lot at night lit by tall lamps, one car with its lights on, soft haze in the air, no signs and no writing anywhere.",
+   "seed": 949249110,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "city-night-10",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "street",
+    "night",
+    "lights"
+   ],
+   "scene": "A city sidewalk at night seen through a cafe window with raindrops on the glass, blurred people and warm lights outside, no signs and no writing anywhere.",
+   "seed": 1211030389,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-1",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A young woman standing in a store aisle holding a product, frowning slightly as she thinks, soft store light.",
+   "seed": 577270875,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-2",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A man in his thirties sitting at a kitchen table at night, chin on his hand, looking thoughtfully at a paper receipt.",
+   "seed": 1332681233,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-3",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A woman sitting on a sofa looking at her phone with a doubtful expression, warm lamp light in the evening.",
+   "seed": 3077693599,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-4",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "Close-up of a thoughtful young man looking out of a cafe window, rain drops on the glass, cup in his hands.",
+   "seed": 2641674758,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-5",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A young woman biting her lip while looking at her laptop at a kitchen table, morning light from a window.",
+   "seed": 1840075160,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-6",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A man rubbing his forehead while looking at his phone, sitting on the edge of his bed in the evening.",
+   "seed": 625763996,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-7",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A woman in a clothing store holding two sweaters side by side and comparing them, soft store light.",
+   "seed": 1523019412,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-8",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A thoughtful older man sitting on a park bench in autumn, looking into the distance.",
+   "seed": 2855827286,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-9",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A woman in her fifties sitting at a dining table in soft window light, reading glasses in one hand, looking away as she thinks.",
+   "seed": 2524389788,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-10",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A young man sitting in a parked car at dusk, hands resting on the steering wheel, staring ahead, lost in thought.",
+   "seed": 2638368506,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-11",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A young woman leaning on a kitchen counter in the morning, holding a mug with both hands, staring out of the window, deep in thought.",
+   "seed": 3845891063,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "thinking-12",
+   "cat": "thinking",
+   "tags": [
+    "thinking",
+    "doubt",
+    "decision",
+    "person"
+   ],
+   "scene": "A Black man in his forties standing on an apartment balcony at sunset, arms on the railing, looking into the distance, thoughtful.",
+   "seed": 1100118964,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calculator-1",
+   "cat": "calculator",
+   "tags": [
+    "calculator",
+    "math",
+    "budget",
+    "numbers"
+   ],
+   "scene": "Hands using a black calculator on a wooden kitchen table covered with receipts and a cup of coffee.",
+   "seed": 393376026,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calculator-2",
+   "cat": "calculator",
+   "tags": [
+    "calculator",
+    "math",
+    "budget",
+    "numbers"
+   ],
+   "scene": "Close-up of a finger pressing a calculator key, coins and folded bills blurred beside it.",
+   "seed": 50771535,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calculator-3",
+   "cat": "calculator",
+   "tags": [
+    "calculator",
+    "math",
+    "budget",
+    "numbers"
+   ],
+   "scene": "A woman at a desk checking her budget with a calculator and a notebook, focused, afternoon window light.",
+   "seed": 3812213213,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calculator-4",
+   "cat": "calculator",
+   "tags": [
+    "calculator",
+    "math",
+    "budget",
+    "numbers"
+   ],
+   "scene": "A calculator lying on a pile of household bills and envelopes, soft side light, top view.",
+   "seed": 2895678022,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "phone-shopping-1",
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ],
+   "scene": "Close-up of a hand holding a smartphone with a blurred colorful shopping app, a thumb hovering over a button.",
+   "seed": 3492442763,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "phone-shopping-2",
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ],
+   "scene": "A young woman lying on her bed at night shopping on her phone, her face lit by the screen.",
+   "seed": 1823698792,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "phone-shopping-3",
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ],
+   "scene": "A man scrolling his phone on a subway train, the screen glow on his face, blurred passengers around.",
+   "seed": 1797018206,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "phone-shopping-4",
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ],
+   "scene": "A smartphone on a coffee table lighting up with a notification, a person's hand reaching for it.",
+   "seed": 776072921,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "phone-shopping-5",
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ],
+   "scene": "A woman in a store aisle comparing prices on her phone while holding a product.",
+   "seed": 646151160,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "phone-shopping-6",
+   "cat": "phone-shopping",
+   "tags": [
+    "phone",
+    "app",
+    "online",
+    "scrolling"
+   ],
+   "scene": "A teenage girl sitting on the stairs at home scrolling her phone with a big smile.",
+   "seed": 2551052827,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "laptop-shopping-1",
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ],
+   "scene": "A woman at a laptop holding a credit card, about to pay online, cozy home office, warm daylight.",
+   "seed": 4232083320,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "laptop-shopping-2",
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ],
+   "scene": "A man at a desk late at night browsing an online store on his laptop, the blurred screen lighting the room.",
+   "seed": 3808589136,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "laptop-shopping-3",
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ],
+   "scene": "A laptop open on a bed next to shopping bags and a cup of tea, the screen blurred, evening light.",
+   "seed": 3807810009,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "laptop-shopping-4",
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ],
+   "scene": "Close-up of hands typing on a laptop keyboard, a credit card resting next to the trackpad.",
+   "seed": 3718522606,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "laptop-shopping-5",
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ],
+   "scene": "Over the shoulder view of a laptop screen with a blurred online store full of colorful product photos.",
+   "seed": 1015099115,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "laptop-shopping-6",
+   "cat": "laptop-shopping",
+   "tags": [
+    "laptop",
+    "online",
+    "website",
+    "checkout"
+   ],
+   "scene": "A young woman shopping online on a laptop at a cafe table, a coffee cup next to her.",
+   "seed": 1992411127,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wallet-1",
+   "cat": "wallet",
+   "tags": [
+    "wallet",
+    "money",
+    "cash",
+    "empty"
+   ],
+   "scene": "An open brown leather wallet with a few dollar bills inside, held in two hands, shallow focus.",
+   "seed": 4018427017,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wallet-2",
+   "cat": "wallet",
+   "tags": [
+    "wallet",
+    "money",
+    "cash",
+    "empty"
+   ],
+   "scene": "An empty open wallet held upside down over a table, nothing falling out, dramatic side light.",
+   "seed": 2796009368,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wallet-3",
+   "cat": "wallet",
+   "tags": [
+    "wallet",
+    "money",
+    "cash",
+    "empty"
+   ],
+   "scene": "A man putting a worn leather wallet back into his jeans pocket in a store, close-up.",
+   "seed": 1512565601,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wallet-4",
+   "cat": "wallet",
+   "tags": [
+    "wallet",
+    "money",
+    "cash",
+    "empty"
+   ],
+   "scene": "A wallet lying on a wooden table with credit cards sticking out and a few coins beside it.",
+   "seed": 1962845984,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-bags-1",
+   "cat": "shopping-bags",
+   "tags": [
+    "shopping",
+    "bags",
+    "spree",
+    "store"
+   ],
+   "scene": "A smiling woman walking through a bright mall carrying many colorful paper shopping bags.",
+   "seed": 3036399445,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-bags-2",
+   "cat": "shopping-bags",
+   "tags": [
+    "shopping",
+    "bags",
+    "spree",
+    "store"
+   ],
+   "scene": "Shopping bags piled on the back seat of a car, seen through the open door, afternoon light.",
+   "seed": 3123352960,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-bags-3",
+   "cat": "shopping-bags",
+   "tags": [
+    "shopping",
+    "bags",
+    "spree",
+    "store"
+   ],
+   "scene": "A heap of paper shopping bags and boxes on a bed in a bright bedroom.",
+   "seed": 3113047413,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-bags-4",
+   "cat": "shopping-bags",
+   "tags": [
+    "shopping",
+    "bags",
+    "spree",
+    "store"
+   ],
+   "scene": "Close-up of hands holding the rope handles of several shopping bags on a busy street.",
+   "seed": 3397011884,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calendar-1",
+   "cat": "calendar",
+   "tags": [
+    "calendar",
+    "date",
+    "deadline",
+    "month"
+   ],
+   "scene": "A blank paper wall calendar grid with empty squares and no numbers, one square circled in red marker, morning light.",
+   "seed": 3019713637,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calendar-2",
+   "cat": "calendar",
+   "tags": [
+    "calendar",
+    "date",
+    "deadline",
+    "month"
+   ],
+   "scene": "An open planner on a desk with a pen and colored sticky notes, the writing out of focus.",
+   "seed": 4124399072,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calendar-3",
+   "cat": "calendar",
+   "tags": [
+    "calendar",
+    "date",
+    "deadline",
+    "month"
+   ],
+   "scene": "A hand flipping the page of a blank desk calendar with no numbers, motion blur on the paper, warm office light.",
+   "seed": 2391533790,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "calendar-4",
+   "cat": "calendar",
+   "tags": [
+    "calendar",
+    "date",
+    "deadline",
+    "month"
+   ],
+   "scene": "A phone showing a blurred calendar reminder next to a coffee cup on a kitchen counter.",
+   "seed": 398508767,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "price-tags-1",
+   "cat": "price-tags",
+   "tags": [
+    "price",
+    "tag",
+    "label",
+    "sale"
+   ],
+   "scene": "Close-up of blank white paper price tags with no writing, hanging from clothes on a rack, shallow focus.",
+   "seed": 3422878722,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "price-tags-2",
+   "cat": "price-tags",
+   "tags": [
+    "price",
+    "tag",
+    "label",
+    "sale"
+   ],
+   "scene": "A supermarket shelf with plain blank labels in a row under colorful products, cool store light.",
+   "seed": 2132137706,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "price-tags-3",
+   "cat": "price-tags",
+   "tags": [
+    "price",
+    "tag",
+    "label",
+    "sale"
+   ],
+   "scene": "A hand turning over a blank price tag with no writing on a sweater in a clothing store, shallow focus.",
+   "seed": 2901471845,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "price-tags-4",
+   "cat": "price-tags",
+   "tags": [
+    "price",
+    "tag",
+    "label",
+    "sale"
+   ],
+   "scene": "Plain red and yellow blank tags with no writing clipped to a row of shirts in a store.",
+   "seed": 2336631770,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coins-1",
+   "cat": "coins",
+   "tags": [
+    "coins",
+    "change",
+    "cents",
+    "money"
+   ],
+   "scene": "A pile of shiny coins on a dark wooden table, warm side light, macro detail.",
+   "seed": 1663497576,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coins-2",
+   "cat": "coins",
+   "tags": [
+    "coins",
+    "change",
+    "cents",
+    "money"
+   ],
+   "scene": "Hands counting coins into small stacks on a kitchen table.",
+   "seed": 1479662075,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coins-3",
+   "cat": "coins",
+   "tags": [
+    "coins",
+    "change",
+    "cents",
+    "money"
+   ],
+   "scene": "Coins falling into an open palm in slow motion style, dark background, sparkle on the metal.",
+   "seed": 1485377885,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coins-4",
+   "cat": "coins",
+   "tags": [
+    "coins",
+    "change",
+    "cents",
+    "money"
+   ],
+   "scene": "A few coins and a small receipt on a store counter, a hand reaching for them.",
+   "seed": 935813031,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "credit-card-1",
+   "cat": "credit-card",
+   "tags": [
+    "card",
+    "credit",
+    "payment",
+    "plastic"
+   ],
+   "scene": "Close-up of a hand holding a plain dark credit card with no writing, a softly blurred street behind with only warm lights, no signs and no shop names.",
+   "seed": 2695416728,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "credit-card-2",
+   "cat": "credit-card",
+   "tags": [
+    "card",
+    "credit",
+    "payment",
+    "plastic"
+   ],
+   "scene": "A credit card being slid into a payment terminal at a store counter, close-up.",
+   "seed": 3482910324,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "credit-card-3",
+   "cat": "credit-card",
+   "tags": [
+    "card",
+    "credit",
+    "payment",
+    "plastic"
+   ],
+   "scene": "A fan of plain colored credit cards with no writing on a wooden table, soft light.",
+   "seed": 3681264715,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "credit-card-4",
+   "cat": "credit-card",
+   "tags": [
+    "card",
+    "credit",
+    "payment",
+    "plastic"
+   ],
+   "scene": "A woman pulling a credit card from her wallet at a checkout, smiling cashier blurred behind.",
+   "seed": 1589252212,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "clock-time-1",
+   "cat": "clock-time",
+   "tags": [
+    "clock",
+    "time",
+    "deadline",
+    "hour"
+   ],
+   "scene": "A round wall clock in a quiet room, the second hand blurred by motion, warm evening light.",
+   "seed": 3974718088,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "clock-time-2",
+   "cat": "clock-time",
+   "tags": [
+    "clock",
+    "time",
+    "deadline",
+    "hour"
+   ],
+   "scene": "An hourglass with sand running on a desk next to a notebook, shallow focus.",
+   "seed": 277840153,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "clock-time-3",
+   "cat": "clock-time",
+   "tags": [
+    "clock",
+    "time",
+    "deadline",
+    "hour"
+   ],
+   "scene": "An alarm clock glowing on a bedside table in a dark bedroom at night.",
+   "seed": 3412220627,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "clock-time-4",
+   "cat": "clock-time",
+   "tags": [
+    "clock",
+    "time",
+    "deadline",
+    "hour"
+   ],
+   "scene": "Close-up of a wristwatch on a man's wrist as he checks the time on a busy street.",
+   "seed": 2485615628,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "journal-list-1",
+   "cat": "journal-list",
+   "tags": [
+    "list",
+    "journal",
+    "plan",
+    "notes"
+   ],
+   "scene": "A hand writing a shopping list on a small notepad on a kitchen counter, the words blurred.",
+   "seed": 1269563537,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "journal-list-2",
+   "cat": "journal-list",
+   "tags": [
+    "list",
+    "journal",
+    "plan",
+    "notes"
+   ],
+   "scene": "An open budget journal with a pen and a coffee cup on a desk, handwriting out of focus.",
+   "seed": 204824757,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "journal-list-3",
+   "cat": "journal-list",
+   "tags": [
+    "list",
+    "journal",
+    "plan",
+    "notes"
+   ],
+   "scene": "Colorful blank sticky notes on a fridge door with a magnet, completely empty notes with no writing at all, morning light.",
+   "seed": 2513381825,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "journal-list-4",
+   "cat": "journal-list",
+   "tags": [
+    "list",
+    "journal",
+    "plan",
+    "notes"
+   ],
+   "scene": "A woman writing in a notebook at a cafe table, focused, the pages out of focus.",
+   "seed": 252016139,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cash-1",
+   "cat": "cash",
+   "tags": [
+    "cash",
+    "bills",
+    "dollars",
+    "money"
+   ],
+   "scene": "A neat stack of green dollar bills on a table, shallow focus, warm light, no readable print.",
+   "seed": 1249953753,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cash-2",
+   "cat": "cash",
+   "tags": [
+    "cash",
+    "bills",
+    "dollars",
+    "money"
+   ],
+   "scene": "Hands counting a thick stack of dollar bills over a desk.",
+   "seed": 1498527906,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cash-3",
+   "cat": "cash",
+   "tags": [
+    "cash",
+    "bills",
+    "dollars",
+    "money"
+   ],
+   "scene": "Dollar bills fanned out in a hand against a blurred city background.",
+   "seed": 2306449540,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cash-4",
+   "cat": "cash",
+   "tags": [
+    "cash",
+    "bills",
+    "dollars",
+    "money"
+   ],
+   "scene": "A few banknotes and coins left on a restaurant table next to an empty coffee cup.",
+   "seed": 956049557,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "receipt-1",
+   "cat": "receipt",
+   "tags": [
+    "receipt",
+    "bill",
+    "total",
+    "checkout"
+   ],
+   "scene": "A very long thin white paper receipt strip held up in one hand in a supermarket aisle, the strip covered only with faint gray lines and no writing at all, no header, shelves blurred behind.",
+   "seed": 2002934428,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "receipt-2",
+   "cat": "receipt",
+   "tags": [
+    "receipt",
+    "bill",
+    "total",
+    "checkout"
+   ],
+   "scene": "Crumpled paper receipts piled on a kitchen table, soft daylight.",
+   "seed": 2044755042,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "receipt-3",
+   "cat": "receipt",
+   "tags": [
+    "receipt",
+    "bill",
+    "total",
+    "checkout"
+   ],
+   "scene": "A receipt printing out of a cash register at a store counter, close-up, the paper strip covered only with faint gray lines and no writing at all.",
+   "seed": 1850978385,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "receipt-4",
+   "cat": "receipt",
+   "tags": [
+    "receipt",
+    "bill",
+    "total",
+    "checkout"
+   ],
+   "scene": "A woman looking at a long receipt with a surprised face in a store parking lot.",
+   "seed": 3414772203,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "checkout-1",
+   "cat": "checkout",
+   "tags": [
+    "checkout",
+    "cashier",
+    "register",
+    "pay"
+   ],
+   "scene": "A supermarket checkout lane with a cashier scanning groceries on a moving belt, bright store light.",
+   "seed": 2250233528,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "checkout-2",
+   "cat": "checkout",
+   "tags": [
+    "checkout",
+    "cashier",
+    "register",
+    "pay"
+   ],
+   "scene": "A customer paying at a store register while the cashier hands over a bag, friendly atmosphere.",
+   "seed": 2347813333,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "checkout-3",
+   "cat": "checkout",
+   "tags": [
+    "checkout",
+    "cashier",
+    "register",
+    "pay"
+   ],
+   "scene": "Groceries moving along a checkout conveyor belt, close-up, shallow focus.",
+   "seed": 3449697312,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "checkout-4",
+   "cat": "checkout",
+   "tags": [
+    "checkout",
+    "cashier",
+    "register",
+    "pay"
+   ],
+   "scene": "A self checkout area in a supermarket with a woman scanning an item.",
+   "seed": 1065650526,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "savings-jar-1",
+   "cat": "savings-jar",
+   "tags": [
+    "savings",
+    "jar",
+    "piggy bank",
+    "save"
+   ],
+   "scene": "A glass jar filled with coins and rolled bills on a sunny windowsill.",
+   "seed": 3890954480,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "savings-jar-2",
+   "cat": "savings-jar",
+   "tags": [
+    "savings",
+    "jar",
+    "piggy bank",
+    "save"
+   ],
+   "scene": "A ceramic piggy bank on a wooden shelf with a few coins in front of it, soft light.",
+   "seed": 2437123067,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "savings-jar-3",
+   "cat": "savings-jar",
+   "tags": [
+    "savings",
+    "jar",
+    "piggy bank",
+    "save"
+   ],
+   "scene": "A hand dropping a coin into a glass savings jar, close-up, slow motion feeling.",
+   "seed": 1354683621,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "savings-jar-4",
+   "cat": "savings-jar",
+   "tags": [
+    "savings",
+    "jar",
+    "piggy bank",
+    "save"
+   ],
+   "scene": "Three glass jars with growing amounts of coins in a row on a kitchen table.",
+   "seed": 3843817695,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "government-1",
+   "cat": "government",
+   "tags": [
+    "government",
+    "regulator",
+    "law",
+    "rules"
+   ],
+   "scene": "The front of a large classical government building with white columns under a blue sky.",
+   "seed": 145257000,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "government-2",
+   "cat": "government",
+   "tags": [
+    "government",
+    "regulator",
+    "law",
+    "rules"
+   ],
+   "scene": "A grand stone building with a dome at sunset, flags waving in front.",
+   "seed": 1088655252,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "government-3",
+   "cat": "government",
+   "tags": [
+    "government",
+    "regulator",
+    "law",
+    "rules"
+   ],
+   "scene": "Officials in suits sitting around a long table in a formal meeting room, documents in front of them.",
+   "seed": 996745756,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "government-4",
+   "cat": "government",
+   "tags": [
+    "government",
+    "regulator",
+    "law",
+    "rules"
+   ],
+   "scene": "The steps of a federal building with people walking up, low angle, morning light.",
+   "seed": 699081105,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "crowd-shopping-1",
+   "cat": "crowd-shopping",
+   "tags": [
+    "crowd",
+    "people",
+    "busy",
+    "store"
+   ],
+   "scene": "A crowded shopping mall with people walking in every direction, motion blur, bright light.",
+   "seed": 1200665934,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "crowd-shopping-2",
+   "cat": "crowd-shopping",
+   "tags": [
+    "crowd",
+    "people",
+    "busy",
+    "store"
+   ],
+   "scene": "A long line of shoppers waiting outside a store early in the morning, cold breath visible.",
+   "seed": 71841132,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "crowd-shopping-3",
+   "cat": "crowd-shopping",
+   "tags": [
+    "crowd",
+    "people",
+    "busy",
+    "store"
+   ],
+   "scene": "Shoppers pushing through a busy store entrance during a big sale, slight motion blur.",
+   "seed": 1177013734,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "crowd-shopping-4",
+   "cat": "crowd-shopping",
+   "tags": [
+    "crowd",
+    "people",
+    "busy",
+    "store"
+   ],
+   "scene": "A busy pedestrian shopping street seen from above, many people carrying bags.",
+   "seed": 2198218045,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "supermarket-aisle-1",
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ],
+   "scene": "A long bright supermarket aisle with colorful products on both sides, no readable packaging.",
+   "seed": 3937874189,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "supermarket-aisle-2",
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ],
+   "scene": "A woman pushing a shopping cart down a supermarket aisle, seen from behind.",
+   "seed": 1119502469,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "supermarket-aisle-3",
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ],
+   "scene": "Supermarket shelves at eye level packed with colorful boxes, shallow focus, no brands.",
+   "seed": 1008659856,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "supermarket-aisle-4",
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ],
+   "scene": "The refrigerated dairy aisle of a supermarket with milk bottles behind glass doors.",
+   "seed": 2239304533,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "supermarket-aisle-5",
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ],
+   "scene": "A man reaching for a product on the top shelf of a supermarket aisle.",
+   "seed": 3327418559,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "supermarket-aisle-6",
+   "cat": "supermarket-aisle",
+   "tags": [
+    "supermarket",
+    "aisle",
+    "shelves",
+    "grocery"
+   ],
+   "scene": "A big display of stacked colorful products in plain solid-color boxes with no labels and no writing at the end of a supermarket aisle, shoppers blurred behind.",
+   "seed": 3108049413,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "factory-1",
+   "cat": "factory",
+   "tags": [
+    "factory",
+    "production",
+    "warehouse",
+    "packaging"
+   ],
+   "scene": "A food packaging line in a clean factory with boxes moving on a conveyor belt.",
+   "seed": 1941785060,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "factory-2",
+   "cat": "factory",
+   "tags": [
+    "factory",
+    "production",
+    "warehouse",
+    "packaging"
+   ],
+   "scene": "A huge warehouse with tall shelves full of boxes and a forklift in the aisle.",
+   "seed": 3679784018,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "factory-3",
+   "cat": "factory",
+   "tags": [
+    "factory",
+    "production",
+    "warehouse",
+    "packaging"
+   ],
+   "scene": "Workers in hairnets checking products on a production line, bright industrial light.",
+   "seed": 3836986787,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "factory-4",
+   "cat": "factory",
+   "tags": [
+    "factory",
+    "production",
+    "warehouse",
+    "packaging"
+   ],
+   "scene": "Bottles moving fast on a bottling line in a factory, motion blur.",
+   "seed": 3046413605,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "brain-1",
+   "cat": "brain",
+   "tags": [
+    "brain",
+    "mind",
+    "psychology",
+    "neuroscience"
+   ],
+   "scene": "A scientist looking at colorful brain scan images on a large monitor in a dark lab.",
+   "seed": 1599173962,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "brain-2",
+   "cat": "brain",
+   "tags": [
+    "brain",
+    "mind",
+    "psychology",
+    "neuroscience"
+   ],
+   "scene": "A modern MRI scanner in a clean hospital room, soft blue light.",
+   "seed": 3015939635,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "brain-3",
+   "cat": "brain",
+   "tags": [
+    "brain",
+    "mind",
+    "psychology",
+    "neuroscience"
+   ],
+   "scene": "A realistic glowing network of light points and lines in the dark, like neurons firing.",
+   "seed": 926163891,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "brain-4",
+   "cat": "brain",
+   "tags": [
+    "brain",
+    "mind",
+    "psychology",
+    "neuroscience"
+   ],
+   "scene": "Extreme close-up of a human eye with the iris in sharp detail, store lights reflected in it.",
+   "seed": 1505100926,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "courtroom-1",
+   "cat": "courtroom",
+   "tags": [
+    "court",
+    "judge",
+    "lawsuit",
+    "law"
+   ],
+   "scene": "A wooden judge's gavel on a desk in a courtroom, warm light, shallow focus.",
+   "seed": 3167104411,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "courtroom-2",
+   "cat": "courtroom",
+   "tags": [
+    "court",
+    "judge",
+    "lawsuit",
+    "law"
+   ],
+   "scene": "An empty wood-paneled courtroom with the judge's bench in the background.",
+   "seed": 3689151019,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "courtroom-3",
+   "cat": "courtroom",
+   "tags": [
+    "court",
+    "judge",
+    "lawsuit",
+    "law"
+   ],
+   "scene": "A lawyer in a suit carrying a stack of documents up the steps of a courthouse.",
+   "seed": 539613682,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "courtroom-4",
+   "cat": "courtroom",
+   "tags": [
+    "court",
+    "judge",
+    "lawsuit",
+    "law"
+   ],
+   "scene": "Rows of old law books on a shelf in a dim library, warm lamp light.",
+   "seed": 1473025408,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "tap-to-pay-1",
+   "cat": "tap-to-pay",
+   "tags": [
+    "contactless",
+    "tap",
+    "terminal",
+    "phone pay"
+   ],
+   "scene": "A smartphone held near a card payment terminal at a cafe counter, close-up.",
+   "seed": 792424467,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "tap-to-pay-2",
+   "cat": "tap-to-pay",
+   "tags": [
+    "contactless",
+    "tap",
+    "terminal",
+    "phone pay"
+   ],
+   "scene": "A smartwatch tapping a payment terminal in a store, shallow focus.",
+   "seed": 3391862809,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "tap-to-pay-3",
+   "cat": "tap-to-pay",
+   "tags": [
+    "contactless",
+    "tap",
+    "terminal",
+    "phone pay"
+   ],
+   "scene": "A hand tapping a plain card on a contactless reader, a soft glow on the reader.",
+   "seed": 4039717318,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "tap-to-pay-4",
+   "cat": "tap-to-pay",
+   "tags": [
+    "contactless",
+    "tap",
+    "terminal",
+    "phone pay"
+   ],
+   "scene": "A cashier holding out a payment terminal to a customer at a busy counter.",
+   "seed": 115056821,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "home-sofa-1",
+   "cat": "home-sofa",
+   "tags": [
+    "home",
+    "sofa",
+    "relax",
+    "evening"
+   ],
+   "scene": "A woman relaxing on a cozy sofa with a tablet and a blanket, warm evening lamp light.",
+   "seed": 2265791016,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "home-sofa-2",
+   "cat": "home-sofa",
+   "tags": [
+    "home",
+    "sofa",
+    "relax",
+    "evening"
+   ],
+   "scene": "A couple sitting on a couch looking at a laptop together, relaxed living room.",
+   "seed": 1041378469,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "home-sofa-3",
+   "cat": "home-sofa",
+   "tags": [
+    "home",
+    "sofa",
+    "relax",
+    "evening"
+   ],
+   "scene": "A cozy living room in the evening with a soft lamp, a sofa and a coffee table, nobody there.",
+   "seed": 3095206351,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "home-sofa-4",
+   "cat": "home-sofa",
+   "tags": [
+    "home",
+    "sofa",
+    "relax",
+    "evening"
+   ],
+   "scene": "A man stretched out on a sofa watching television in the dark, his face lit by the screen.",
+   "seed": 1289336552,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-mall-1",
+   "cat": "shopping-mall",
+   "tags": [
+    "mall",
+    "escalator",
+    "stores",
+    "walk"
+   ],
+   "scene": "The interior of a large shopping mall with glass railings, escalators and bright store fronts.",
+   "seed": 2837821614,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-mall-2",
+   "cat": "shopping-mall",
+   "tags": [
+    "mall",
+    "escalator",
+    "stores",
+    "walk"
+   ],
+   "scene": "Escalators crossing in a mall atrium, shoppers riding up and down, soft daylight from the roof.",
+   "seed": 1677224232,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-mall-3",
+   "cat": "shopping-mall",
+   "tags": [
+    "mall",
+    "escalator",
+    "stores",
+    "walk"
+   ],
+   "scene": "A long mall corridor lined with brightly lit store windows, curved path, people walking.",
+   "seed": 155576949,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "shopping-mall-4",
+   "cat": "shopping-mall",
+   "tags": [
+    "mall",
+    "escalator",
+    "stores",
+    "walk"
+   ],
+   "scene": "A mall food court at lunchtime, busy tables, warm light.",
+   "seed": 3997890781,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "store-sale-1",
+   "cat": "store-sale",
+   "tags": [
+    "sale",
+    "discount",
+    "sign",
+    "store"
+   ],
+   "scene": "Big plain red banners with no writing hanging in a clothing store window, clothes on racks behind the glass.",
+   "seed": 1221497718,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "store-sale-2",
+   "cat": "store-sale",
+   "tags": [
+    "sale",
+    "discount",
+    "sign",
+    "store"
+   ],
+   "scene": "A clearance rack crowded with clothes and bright blank discount tags with no writing.",
+   "seed": 688644551,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "store-sale-3",
+   "cat": "store-sale",
+   "tags": [
+    "sale",
+    "discount",
+    "sign",
+    "store"
+   ],
+   "scene": "A store window display with mannequins in front of a large plain red sign with no writing.",
+   "seed": 3530061878,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "store-sale-4",
+   "cat": "store-sale",
+   "tags": [
+    "sale",
+    "discount",
+    "sign",
+    "store"
+   ],
+   "scene": "A shopper flipping through clothes on a discount rack, bright store light.",
+   "seed": 3486341956,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "restaurant-1",
+   "cat": "restaurant",
+   "tags": [
+    "restaurant",
+    "menu",
+    "dinner",
+    "waiter"
+   ],
+   "scene": "Hands holding a closed elegant leather restaurant menu, candle light on the table.",
+   "seed": 1761228098,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "restaurant-2",
+   "cat": "restaurant",
+   "tags": [
+    "restaurant",
+    "menu",
+    "dinner",
+    "waiter"
+   ],
+   "scene": "A waiter serving plates to a couple in a warm, stylish restaurant.",
+   "seed": 3744794249,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "restaurant-3",
+   "cat": "restaurant",
+   "tags": [
+    "restaurant",
+    "menu",
+    "dinner",
+    "waiter"
+   ],
+   "scene": "A couple having dinner at a restaurant table by the window, city lights outside.",
+   "seed": 3016510838,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "restaurant-4",
+   "cat": "restaurant",
+   "tags": [
+    "restaurant",
+    "menu",
+    "dinner",
+    "waiter"
+   ],
+   "scene": "The interior of a busy upscale restaurant in the evening, soft warm lights.",
+   "seed": 1315470072,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wine-1",
+   "cat": "wine",
+   "tags": [
+    "wine",
+    "bottle",
+    "glass",
+    "restaurant"
+   ],
+   "scene": "Red wine being poured into a glass at a restaurant table, close-up, warm light.",
+   "seed": 4270162567,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wine-2",
+   "cat": "wine",
+   "tags": [
+    "wine",
+    "bottle",
+    "glass",
+    "restaurant"
+   ],
+   "scene": "A waiter presenting a wine bottle to a customer at a candle-lit table, the label blurred.",
+   "seed": 2117885724,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wine-3",
+   "cat": "wine",
+   "tags": [
+    "wine",
+    "bottle",
+    "glass",
+    "restaurant"
+   ],
+   "scene": "Rows of wine bottles on wooden shelves in a wine shop, labels blurred.",
+   "seed": 3466312005,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "wine-4",
+   "cat": "wine",
+   "tags": [
+    "wine",
+    "bottle",
+    "glass",
+    "restaurant"
+   ],
+   "scene": "Two wine glasses clinking in a toast over a restaurant table, bokeh lights.",
+   "seed": 2039086708,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coffee-shop-1",
+   "cat": "coffee-shop",
+   "tags": [
+    "coffee",
+    "cafe",
+    "barista",
+    "cup"
+   ],
+   "scene": "A barista making a latte behind a coffee shop counter, steam rising, morning light.",
+   "seed": 2863047943,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coffee-shop-2",
+   "cat": "coffee-shop",
+   "tags": [
+    "coffee",
+    "cafe",
+    "barista",
+    "cup"
+   ],
+   "scene": "A takeaway coffee cup on a wooden cafe counter next to a small card reader, a bright window with green plants softly blurred behind.",
+   "seed": 1390259656,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coffee-shop-3",
+   "cat": "coffee-shop",
+   "tags": [
+    "coffee",
+    "cafe",
+    "barista",
+    "cup"
+   ],
+   "scene": "A busy coffee shop with customers waiting in line, warm wood interior.",
+   "seed": 1071473626,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "coffee-shop-4",
+   "cat": "coffee-shop",
+   "tags": [
+    "coffee",
+    "cafe",
+    "barista",
+    "cup"
+   ],
+   "scene": "A paper coffee cup in a hand on a city sidewalk in the morning.",
+   "seed": 1961299056,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cinema-popcorn-1",
+   "cat": "cinema-popcorn",
+   "tags": [
+    "popcorn",
+    "cinema",
+    "movie",
+    "snack"
+   ],
+   "scene": "A big bucket of buttered popcorn in a plain red and white striped bucket with no writing, sitting on a movie theater seat, the screen glowing in the dark.",
+   "seed": 1337094688,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cinema-popcorn-2",
+   "cat": "cinema-popcorn",
+   "tags": [
+    "popcorn",
+    "cinema",
+    "movie",
+    "snack"
+   ],
+   "scene": "A movie theater snack counter with popcorn machines and drink cups in three sizes.",
+   "seed": 1079811693,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cinema-popcorn-3",
+   "cat": "cinema-popcorn",
+   "tags": [
+    "popcorn",
+    "cinema",
+    "movie",
+    "snack"
+   ],
+   "scene": "People sitting in a dark cinema lit by the screen, eating popcorn.",
+   "seed": 3754057632,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "cinema-popcorn-4",
+   "cat": "cinema-popcorn",
+   "tags": [
+    "popcorn",
+    "cinema",
+    "movie",
+    "snack"
+   ],
+   "scene": "A popcorn machine full of fresh popcorn under warm light, close-up.",
+   "seed": 3522348606,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "casino-1",
+   "cat": "casino",
+   "tags": [
+    "casino",
+    "slots",
+    "gambling",
+    "chips"
+   ],
+   "scene": "A row of glowing slot machines in a dark casino, colorful lights, no readable screens.",
+   "seed": 1888608376,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "casino-2",
+   "cat": "casino",
+   "tags": [
+    "casino",
+    "slots",
+    "gambling",
+    "chips"
+   ],
+   "scene": "A roulette wheel spinning with the ball in motion, close-up, warm light.",
+   "seed": 2400106122,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "casino-3",
+   "cat": "casino",
+   "tags": [
+    "casino",
+    "slots",
+    "gambling",
+    "chips"
+   ],
+   "scene": "Stacks of colorful casino chips on a green felt table, shallow focus.",
+   "seed": 190091122,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "casino-4",
+   "cat": "casino",
+   "tags": [
+    "casino",
+    "slots",
+    "gambling",
+    "chips"
+   ],
+   "scene": "A man sitting alone at a slot machine late at night, his face lit by the glowing screen, the machine shows only abstract colorful lights and symbols, no words and no numbers.",
+   "seed": 3667735384,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "car-dealership-1",
+   "cat": "car-dealership",
+   "tags": [
+    "car",
+    "dealership",
+    "keys",
+    "showroom"
+   ],
+   "scene": "A bright car dealership showroom with shiny new cars and glass walls.",
+   "seed": 3202350542,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "car-dealership-2",
+   "cat": "car-dealership",
+   "tags": [
+    "car",
+    "dealership",
+    "keys",
+    "showroom"
+   ],
+   "scene": "A salesman handing car keys to a smiling customer in a showroom.",
+   "seed": 2989769687,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "car-dealership-3",
+   "cat": "car-dealership",
+   "tags": [
+    "car",
+    "dealership",
+    "keys",
+    "showroom"
+   ],
+   "scene": "A couple looking at a new car in a dealership, the salesman talking beside them.",
+   "seed": 566455274,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "car-dealership-4",
+   "cat": "car-dealership",
+   "tags": [
+    "car",
+    "dealership",
+    "keys",
+    "showroom"
+   ],
+   "scene": "Papers and a pen on a dealership desk with car keys on top, close-up.",
+   "seed": 2136442920,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "travel-airport-1",
+   "cat": "travel-airport",
+   "tags": [
+    "airport",
+    "travel",
+    "hotel",
+    "flight"
+   ],
+   "scene": "A traveler pulling a suitcase through a bright airport terminal, big windows with planes outside.",
+   "seed": 2623228849,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "travel-airport-2",
+   "cat": "travel-airport",
+   "tags": [
+    "airport",
+    "travel",
+    "hotel",
+    "flight"
+   ],
+   "scene": "A modern hotel lobby with warm light and a reception desk.",
+   "seed": 2209557851,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "travel-airport-3",
+   "cat": "travel-airport",
+   "tags": [
+    "airport",
+    "travel",
+    "hotel",
+    "flight"
+   ],
+   "scene": "A view of clouds and a wing through an airplane window at sunset.",
+   "seed": 2238615418,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "travel-airport-4",
+   "cat": "travel-airport",
+   "tags": [
+    "airport",
+    "travel",
+    "hotel",
+    "flight"
+   ],
+   "scene": "A woman standing at a hotel reception desk handing over a card, warm light.",
+   "seed": 2463575014,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "jewelry-wedding-1",
+   "cat": "jewelry-wedding",
+   "tags": [
+    "diamond",
+    "ring",
+    "jewelry",
+    "wedding"
+   ],
+   "scene": "A sparkling diamond engagement ring in an open velvet box, macro, soft light.",
+   "seed": 541444400,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "jewelry-wedding-2",
+   "cat": "jewelry-wedding",
+   "tags": [
+    "diamond",
+    "ring",
+    "jewelry",
+    "wedding"
+   ],
+   "scene": "A jewelry store counter with glass cases full of rings and a saleswoman, warm light.",
+   "seed": 3453953425,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "jewelry-wedding-3",
+   "cat": "jewelry-wedding",
+   "tags": [
+    "diamond",
+    "ring",
+    "jewelry",
+    "wedding"
+   ],
+   "scene": "A man on one knee proposing to a woman in a park at sunset, ring in hand.",
+   "seed": 457269041,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "jewelry-wedding-4",
+   "cat": "jewelry-wedding",
+   "tags": [
+    "diamond",
+    "ring",
+    "jewelry",
+    "wedding"
+   ],
+   "scene": "A wedding cake and flowers on a table at an elegant reception, soft focus.",
+   "seed": 438065160,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "delivery-1",
+   "cat": "delivery",
+   "tags": [
+    "delivery",
+    "package",
+    "boxes",
+    "door"
+   ],
+   "scene": "Cardboard delivery boxes stacked on a front doorstep, morning light.",
+   "seed": 624162718,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "delivery-2",
+   "cat": "delivery",
+   "tags": [
+    "delivery",
+    "package",
+    "boxes",
+    "door"
+   ],
+   "scene": "A delivery rider on a bike with an insulated bag riding through a city street.",
+   "seed": 1190236199,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "delivery-3",
+   "cat": "delivery",
+   "tags": [
+    "delivery",
+    "package",
+    "boxes",
+    "door"
+   ],
+   "scene": "A person's hands opening a large brown cardboard shipping box with packing tape on a kitchen table, flaps folded open, a wrapped product and crumpled paper packing inside.",
+   "seed": 3781312655,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "delivery-4",
+   "cat": "delivery",
+   "tags": [
+    "delivery",
+    "package",
+    "boxes",
+    "door"
+   ],
+   "scene": "A delivery driver handing a package to a woman at her front door.",
+   "seed": 4080702577,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "office-meeting-1",
+   "cat": "office-meeting",
+   "tags": [
+    "office",
+    "business",
+    "meeting",
+    "marketing"
+   ],
+   "scene": "A marketing team in a modern office looking at charts on a big screen, the charts blurred.",
+   "seed": 2653274722,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "office-meeting-2",
+   "cat": "office-meeting",
+   "tags": [
+    "office",
+    "business",
+    "meeting",
+    "marketing"
+   ],
+   "scene": "A business meeting around a glass table in a high-rise office, city view behind.",
+   "seed": 385620610,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "office-meeting-3",
+   "cat": "office-meeting",
+   "tags": [
+    "office",
+    "business",
+    "meeting",
+    "marketing"
+   ],
+   "scene": "A businessman giving a presentation with a blurred chart, colleagues watching.",
+   "seed": 1388823603,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "office-meeting-4",
+   "cat": "office-meeting",
+   "tags": [
+    "office",
+    "business",
+    "meeting",
+    "marketing"
+   ],
+   "scene": "Two business people shaking hands in a bright modern office lobby.",
+   "seed": 397017126,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "research-1",
+   "cat": "research",
+   "tags": [
+    "research",
+    "study",
+    "university",
+    "science"
+   ],
+   "scene": "A university campus with old brick buildings and students walking, autumn trees.",
+   "seed": 1633069204,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "research-2",
+   "cat": "research",
+   "tags": [
+    "research",
+    "study",
+    "university",
+    "science"
+   ],
+   "scene": "A researcher reading printed charts at a desk in a library, glasses on, focused.",
+   "seed": 1029684366,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "research-3",
+   "cat": "research",
+   "tags": [
+    "research",
+    "study",
+    "university",
+    "science"
+   ],
+   "scene": "A young scientist writing notes in a lab with computers and monitors behind her.",
+   "seed": 303784297,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "research-4",
+   "cat": "research",
+   "tags": [
+    "research",
+    "study",
+    "university",
+    "science"
+   ],
+   "scene": "Long rows of books in a quiet university library, warm light through tall windows.",
+   "seed": 1783745522,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "vintage-1",
+   "cat": "vintage",
+   "tags": [
+    "vintage",
+    "history",
+    "old",
+    "past"
+   ],
+   "scene": "A nineteen fifties grocery store with wooden shelves and a shopkeeper in an apron, faded film colors.",
+   "seed": 4104195887,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "vintage-2",
+   "cat": "vintage",
+   "tags": [
+    "vintage",
+    "history",
+    "old",
+    "past"
+   ],
+   "scene": "An old brass cash register on a wooden shop counter, warm vintage light.",
+   "seed": 853922312,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "vintage-3",
+   "cat": "vintage",
+   "tags": [
+    "vintage",
+    "history",
+    "old",
+    "past"
+   ],
+   "scene": "A thick stack of old yellowed folded newspapers on a wooden table, seen from the side so only the folded paper edges show, no headlines and no print.",
+   "seed": 166442096,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "vintage-4",
+   "cat": "vintage",
+   "tags": [
+    "vintage",
+    "history",
+    "old",
+    "past"
+   ],
+   "scene": "Vintage glass soda bottles in a wooden crate, faded film colors.",
+   "seed": 1929634158,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bills-documents-1",
+   "cat": "bills-documents",
+   "tags": [
+    "bills",
+    "documents",
+    "paperwork",
+    "debt"
+   ],
+   "scene": "A pile of unopened bills and envelopes on a kitchen table, soft daylight.",
+   "seed": 907703767,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bills-documents-2",
+   "cat": "bills-documents",
+   "tags": [
+    "bills",
+    "documents",
+    "paperwork",
+    "debt"
+   ],
+   "scene": "A worried woman sitting at a table looking at a stack of bills, hand on her forehead.",
+   "seed": 483074833,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bills-documents-3",
+   "cat": "bills-documents",
+   "tags": [
+    "bills",
+    "documents",
+    "paperwork",
+    "debt"
+   ],
+   "scene": "A person signing a contract with a pen, close-up, the text blurred.",
+   "seed": 3273104462,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bills-documents-4",
+   "cat": "bills-documents",
+   "tags": [
+    "bills",
+    "documents",
+    "paperwork",
+    "debt"
+   ],
+   "scene": "Paperwork spread across a desk with a laptop and a cup of coffee, the writing blurred.",
+   "seed": 808445305,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gaming-1",
+   "cat": "gaming",
+   "tags": [
+    "video game",
+    "gamer",
+    "loot",
+    "console"
+   ],
+   "scene": "A teenager wearing a headset playing a video game in a dark room lit by colorful screen light.",
+   "seed": 115370999,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gaming-2",
+   "cat": "gaming",
+   "tags": [
+    "video game",
+    "gamer",
+    "loot",
+    "console"
+   ],
+   "scene": "Close-up of hands holding a game controller, colorful light on the fingers.",
+   "seed": 1855189497,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gaming-3",
+   "cat": "gaming",
+   "tags": [
+    "video game",
+    "gamer",
+    "loot",
+    "console"
+   ],
+   "scene": "A child playing a game on a tablet on a sofa, the screen light on his face.",
+   "seed": 2098768831,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gaming-4",
+   "cat": "gaming",
+   "tags": [
+    "video game",
+    "gamer",
+    "loot",
+    "console"
+   ],
+   "scene": "A glowing treasure chest opening with golden light pouring out, dark background, realistic render.",
+   "seed": 2490380170,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "grocery-food-1",
+   "cat": "grocery-food",
+   "tags": [
+    "groceries",
+    "food",
+    "snacks",
+    "candy"
+   ],
+   "scene": "Colorful candy and chocolate bars displayed at a supermarket checkout, no brands.",
+   "seed": 1265643372,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "grocery-food-2",
+   "cat": "grocery-food",
+   "tags": [
+    "groceries",
+    "food",
+    "snacks",
+    "candy"
+   ],
+   "scene": "A shelf of chips and snacks in bright shiny bags of solid blue, red, yellow and green foil with completely blank fronts, no printing and no words, shallow focus.",
+   "seed": 3277812690,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "grocery-food-3",
+   "cat": "grocery-food",
+   "tags": [
+    "groceries",
+    "food",
+    "snacks",
+    "candy"
+   ],
+   "scene": "Fresh fruit and vegetables in a supermarket produce section, misted, bright light.",
+   "seed": 51572848,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "grocery-food-4",
+   "cat": "grocery-food",
+   "tags": [
+    "groceries",
+    "food",
+    "snacks",
+    "candy"
+   ],
+   "scene": "A family Thanksgiving dinner table with a roast turkey and side dishes, warm light.",
+   "seed": 2860547417,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bank-1",
+   "cat": "bank",
+   "tags": [
+    "bank",
+    "atm",
+    "loan",
+    "interest",
+    "fees"
+   ],
+   "scene": "The front of a grand old bank building with tall stone columns on a city street, people walking past.",
+   "seed": 2410438815,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bank-2",
+   "cat": "bank",
+   "tags": [
+    "bank",
+    "atm",
+    "loan",
+    "interest",
+    "fees"
+   ],
+   "scene": "A person taking cash from an ATM on a city street at night, the screen blurred.",
+   "seed": 1454143946,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bank-3",
+   "cat": "bank",
+   "tags": [
+    "bank",
+    "atm",
+    "loan",
+    "interest",
+    "fees"
+   ],
+   "scene": "A customer talking to a bank teller across the counter in a bright modern bank branch.",
+   "seed": 3949226029,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "bank-4",
+   "cat": "bank",
+   "tags": [
+    "bank",
+    "atm",
+    "loan",
+    "interest",
+    "fees"
+   ],
+   "scene": "A heavy round steel bank vault door standing open, soft light inside.",
+   "seed": 1973439818,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gifts-1",
+   "cat": "gifts",
+   "tags": [
+    "gift",
+    "present",
+    "holiday",
+    "christmas"
+   ],
+   "scene": "Wrapped gift boxes with shiny ribbons under a glowing Christmas tree in a cozy living room.",
+   "seed": 2123051156,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gifts-2",
+   "cat": "gifts",
+   "tags": [
+    "gift",
+    "present",
+    "holiday",
+    "christmas"
+   ],
+   "scene": "Hands wrapping a present in red paper with a gold ribbon on a wooden table.",
+   "seed": 2002443610,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gifts-3",
+   "cat": "gifts",
+   "tags": [
+    "gift",
+    "present",
+    "holiday",
+    "christmas"
+   ],
+   "scene": "A shiny red and gold plastic gift card with a ribbon pattern and no writing, held in a hand next to a wrapped present.",
+   "seed": 2532892293,
+   "seconds": 6,
+   "luma": 0
+  },
+  {
+   "id": "gifts-4",
+   "cat": "gifts",
+   "tags": [
+    "gift",
+    "present",
+    "holiday",
+    "christmas"
+   ],
+   "scene": "A woman carrying wrapped presents through a busy holiday shopping street with warm lights.",
+   "seed": 1669291839,
+   "seconds": 6,
+   "luma": 0
+  }
+ ]
+}

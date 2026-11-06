@@ -1,16 +1,16 @@
 """Merge written monologues from content/*.json into topics.json, in the order of topic_plan.json, and check them.
 
 Each content file is a list of topics:
-  {"id": "am0001",
-   "lines": [{"text": "Nobody is coming to save you.", "card": "NOBODY IS COMING", "scene": "rain-alone",
-              "search": "man rain night city", "gap": 0.6}, ...],
+  {"id": "the-middle-size-trap",
+   "lines": [{"text": "The middle size on the menu is often a trap.", "card": "THE MIDDLE TRAP",
+              "scene": "cinema-popcorn", "search": "cinema popcorn", "gap": 0.6}, ...],
    "caption": "One searchable sentence about the video.",
-   "hashtags": "#discipline #selfimprovement #mindset #motivation"}
+   "hashtags": "#moneytips #psychology #personalfinance #savemoney"}
 - text: what the voice says (one short sentence or two), written for the voice: no digits, no symbols.
 - card: optional big punch word(s) shown at the top (≤ 3 words). The hook line always has one.
-- scene: a short label of the shot (an AI library category when assets/library/library.json exists); never the same
-  on two lines in a row.
-- search: 2-5 words to find real Pixabay footage for this line, the hook included (this channel has no AI library).
+- scene: the AI library category of the shot (assets/library/library.json; free label when there is no library);
+  never the same on two lines in a row.
+- search: 2-5 words to find real Pixabay footage for this line (noun first: "popcorn bucket", not "large popcorn").
 - gap: optional pause after the line, in seconds (default 0.45; 0.6-0.8 after a strong line).
 
 Run: python src/add_content.py   (plain Python, no packages needed: the Monday cloud routine runs it too)
