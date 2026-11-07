@@ -5,9 +5,9 @@
 name: Daily Money Tricks Exposed videos
 
 on:
-  # schedule:   # OFF until go-live: remove the # of these three lines then (tools/audit.py --go-live checks it)
-  #   - cron: "37 2 * * *"   # 02:37 UTC = 03:37 Paris in winter, 04:37 in summer: early, because GitHub often starts 30-60 min late
-  #   - cron: "57 4 * * *"   # backup in case GitHub skipped the first one; it skips slots already sent today
+  schedule:
+    - cron: "37 2 * * *"   # 02:37 UTC = 03:37 Paris in winter, 04:37 in summer: early, because GitHub often starts 30-60 min late
+    - cron: "57 4 * * *"   # backup in case GitHub skipped the first one; it skips slots already sent today
   workflow_dispatch:       # "Run workflow" button for tests
     inputs:
       mode:

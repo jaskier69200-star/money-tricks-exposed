@@ -11,8 +11,9 @@ from datetime import date, timedelta
 
 from common import ROOT, save_json
 
-START = date(2026, 11, 9)  # launch day (the job posts topics in order) — provisional, set the real day before go-live
+START = date(2026, 11, 7)  # launch day (the job posts topics in order)
 SLOTS = ["08:00", "20:00"]
+FIRST_SLOT = 1  # launched at midday: the launch day only has its evening video
 
 CATEGORIES = {
     "Supermarket tricks": """Why the milk is at the back, Eye level is buy level, The shelf at your kid's eye level,
@@ -268,7 +269,7 @@ def main():
     # then each dated topic goes in the morning slot of its date (evening if the morning is taken)
     wanted = {}
     for s, day in SEASONAL.items():
-        i = (date.fromisoformat(day) - START).days * 2
+        i = (date.fromisoformat(day) - START).days * 2 - FIRST_SLOT
         while i in wanted:
             i += 1
         wanted[i] = s
@@ -278,7 +279,8 @@ def main():
     plan = []
     for i, s in enumerate(order):
         category, title = category_of[s]
-        plan.append({"n": i + 1, "date": str(START + timedelta(days=i // 2)), "time": SLOTS[i % 2],
+        slot = i + FIRST_SLOT
+        plan.append({"n": i + 1, "date": str(START + timedelta(days=slot // 2)), "time": SLOTS[slot % 2],
                      "id": s, "category": category, "title": title})
     save_json(ROOT / "topic_plan.json", plan)
     print(f"{len(plan)} topics, {plan[0]['date']} -> {plan[-1]['date']}")

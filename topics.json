@@ -4246,126 +4246,6 @@
     }
   },
   {
-    "id": "thanksgiving-grocery-tricks",
-    "category": "Sales and discounts",
-    "title": {
-      "en": "Thanksgiving grocery tricks"
-    },
-    "lines": {
-      "en": [
-        {
-          "text": "That cheap Thanksgiving turkey is bait.",
-          "card": "THE BAIT",
-          "scene": "grocery-food",
-          "search": "roast turkey",
-          "gap": 0.6
-        },
-        {
-          "text": "Every November, stores slash turkey prices, sometimes below what they paid.",
-          "scene": "thinking",
-          "search": "frozen turkey"
-        },
-        {
-          "text": "Some even give one away when you spend enough.",
-          "scene": "supermarket-aisle",
-          "search": "shopping cart full",
-          "gap": 0.5
-        },
-        {
-          "text": "It is called a loss leader.",
-          "card": "LOSS LEADER",
-          "scene": "thinking",
-          "search": "supermarket aisle",
-          "gap": 0.6
-        },
-        {
-          "text": "The store loses on the bird, and wins on everything around it.",
-          "scene": "supermarket-aisle",
-          "search": "grocery shopping"
-        },
-        {
-          "text": "Stuffing. Cranberries. Pie. Wine. Candles. A new roasting pan.",
-          "scene": "grocery-food",
-          "search": "pumpkin pie",
-          "gap": 0.5
-        },
-        {
-          "text": "The turkey gets you in the door. The cart pays for it.",
-          "scene": "supermarket-aisle",
-          "search": "full shopping cart",
-          "gap": 0.6
-        },
-        {
-          "text": "In twenty twenty five, the American Farm Bureau priced a classic dinner for ten at about fifty five dollars.",
-          "scene": "restaurant",
-          "search": "thanksgiving dinner table"
-        },
-        {
-          "text": "The turkey alone averaged about twenty one dollars, its smallest share of the bill since two thousand.",
-          "scene": "grocery-food",
-          "search": "turkey dinner",
-          "gap": 0.5
-        },
-        {
-          "text": "So the bird is rarely what blows the budget.",
-          "card": "NOT THE BIRD",
-          "scene": "receipt",
-          "search": "receipt paper",
-          "gap": 0.6
-        },
-        {
-          "text": "It is the extras that ride along in the cart.",
-          "scene": "gifts",
-          "search": "holiday decorations store",
-          "gap": 0.5
-        },
-        {
-          "text": "Here is the plan.",
-          "card": "THE PLAN",
-          "scene": "journal-list",
-          "search": "woman writing journal",
-          "gap": 0.5
-        },
-        {
-          "text": "Write the full menu first, and buy only what is on it.",
-          "scene": "shopping-bags",
-          "search": "shopping list"
-        },
-        {
-          "text": "Grab the turkey deal, then walk past the holiday displays.",
-          "scene": "shopping-mall",
-          "search": "store display"
-        },
-        {
-          "text": "Check what is already in your pantry before you shop.",
-          "scene": "grocery-food",
-          "search": "kitchen pantry",
-          "gap": 0.5
-        },
-        {
-          "text": "Let the store lose money on the turkey. Do not make it up for them.",
-          "card": "LET THEM LOSE",
-          "scene": "home-sofa",
-          "search": "family dinner",
-          "gap": 0.6
-        },
-        {
-          "text": "Follow for more holiday tricks before they reach your cart.",
-          "card": "FOLLOW",
-          "scene": "city-night",
-          "search": "city street night",
-          "gap": 0.3
-        }
-      ]
-    },
-    "caption": {
-      "en": "Why stores sell Thanksgiving turkeys so cheap: the loss leader trick, what the Farm Bureau found about dinner costs, and how to keep the extras out of your cart."
-    },
-    "hashtags": {
-      "en": "#thanksgiving #grocerytips #savemoney #moneytips"
-    }
-  },
-  {
     "id": "chips-instead-of-cash",
     "category": "Casinos lotteries and games",
     "title": {
@@ -4492,125 +4372,6 @@
     }
   },
   {
-    "id": "black-friday-tricks",
-    "category": "Sales and discounts",
-    "title": {
-      "en": "Black Friday tricks"
-    },
-    "lines": {
-      "en": [
-        {
-          "text": "Black Friday deals are often not the best price.",
-          "card": "BLACK FRIDAY",
-          "scene": "store-sale",
-          "search": "black friday sale",
-          "gap": 0.6
-        },
-        {
-          "text": "A British consumer group called Which tracked Black Friday prices.",
-          "scene": "city-night",
-          "search": "london street shopping"
-        },
-        {
-          "text": "They followed the same products for six months before and after.",
-          "scene": "calendar",
-          "search": "calendar pages"
-        },
-        {
-          "text": "In one year, ninety eight percent of the deals were the same price or cheaper at other times.",
-          "scene": "price-tags",
-          "search": "price tags store",
-          "gap": 0.6
-        },
-        {
-          "text": "The next year, it was still about nine in ten.",
-          "scene": "shopping-bags",
-          "search": "shopping bags woman",
-          "gap": 0.5
-        },
-        {
-          "text": "So what is Black Friday really selling?",
-          "card": "WHAT IT SELLS",
-          "scene": "crowd-shopping",
-          "search": "shopping mall crowd",
-          "gap": 0.6
-        },
-        {
-          "text": "Urgency. Crowds. Countdown clocks. The feeling that you must buy today.",
-          "scene": "shopping-mall",
-          "search": "people shopping store"
-        },
-        {
-          "text": "Doorbusters are often limited to a handful of units per store.",
-          "scene": "home-sofa",
-          "search": "electronics store tv"
-        },
-        {
-          "text": "They pull you in, and the rest of the store does the selling.",
-          "card": "PULLED IN",
-          "scene": "shopping-mall",
-          "search": "store entrance",
-          "gap": 0.6
-        },
-        {
-          "text": "And some was prices are not the price anyone actually paid.",
-          "scene": "price-tags",
-          "search": "price tag clothing",
-          "gap": 0.5
-        },
-        {
-          "text": "Here is how to shop it like a pro.",
-          "card": "SHOP SMART",
-          "scene": "phone-shopping",
-          "search": "woman shopping phone",
-          "gap": 0.5
-        },
-        {
-          "text": "Make your list before the ads start.",
-          "scene": "journal-list",
-          "search": "shopping list"
-        },
-        {
-          "text": "Check each item's price history with a price tracker.",
-          "scene": "laptop-shopping",
-          "search": "laptop shopping"
-        },
-        {
-          "text": "If the deal is only good compared with a fake was price, skip it.",
-          "scene": "store-sale",
-          "search": "sale sign store",
-          "gap": 0.5
-        },
-        {
-          "text": "And if you did not need it in October, you probably do not need it now.",
-          "scene": "city-night",
-          "search": "autumn street",
-          "gap": 0.6
-        },
-        {
-          "text": "The best Black Friday deal is the thing you did not buy.",
-          "card": "BEST DEAL",
-          "scene": "savings-jar",
-          "search": "money savings jar",
-          "gap": 0.6
-        },
-        {
-          "text": "Follow for more tricks before the holiday sales hit.",
-          "card": "FOLLOW",
-          "scene": "city-night",
-          "search": "city street night",
-          "gap": 0.3
-        }
-      ]
-    },
-    "caption": {
-      "en": "Black Friday deals exposed: a consumer group found nine in ten were the same price or cheaper at other times, and here is how to shop smart."
-    },
-    "hashtags": {
-      "en": "#blackfriday #shoppingtips #moneytips #savemoney"
-    }
-  },
-  {
     "id": "the-wedding-markup",
     "category": "Travel cars and big purchases",
     "title": {
@@ -4733,136 +4494,6 @@
     },
     "hashtags": {
       "en": "#wedding #weddingplanning #moneytips #savemoney"
-    }
-  },
-  {
-    "id": "where-black-friday-got-its-name",
-    "category": "Money history and strange facts",
-    "title": {
-      "en": "Where Black Friday got its name"
-    },
-    "lines": {
-      "en": [
-        {
-          "text": "Black Friday was never named for profits.",
-          "card": "THE REAL NAME",
-          "scene": "shopping-bags",
-          "search": "black friday shopping",
-          "gap": 0.6
-        },
-        {
-          "text": "You have probably heard the story.",
-          "scene": "restaurant",
-          "search": "thanksgiving dinner",
-          "gap": 0.4
-        },
-        {
-          "text": "Stores finally go into the black, meaning profit, the day after Thanksgiving.",
-          "scene": "calculator",
-          "search": "accounting calculator"
-        },
-        {
-          "text": "It is a nice story. It came decades too late.",
-          "card": "TOO LATE",
-          "scene": "office-meeting",
-          "search": "old newspaper",
-          "gap": 0.6
-        },
-        {
-          "text": "The name started with police officers in Philadelphia, in the nineteen fifties and sixties.",
-          "scene": "city-night",
-          "search": "philadelphia city"
-        },
-        {
-          "text": "The day after Thanksgiving brought huge crowds of shoppers downtown.",
-          "scene": "crowd-shopping",
-          "search": "crowd shopping street"
-        },
-        {
-          "text": "And the famous Army Navy football game was played that Saturday.",
-          "scene": "gaming",
-          "search": "american football game",
-          "gap": 0.5
-        },
-        {
-          "text": "Traffic jams, packed sidewalks, shoplifters, chaos.",
-          "scene": "city-night",
-          "search": "traffic jam city",
-          "gap": 0.5
-        },
-        {
-          "text": "Officers had to work long shifts, and they gave the day a dark name.",
-          "scene": "thinking",
-          "search": "police officer street"
-        },
-        {
-          "text": "Some had their days off canceled.",
-          "scene": "car-dealership",
-          "search": "police car",
-          "gap": 0.5
-        },
-        {
-          "text": "Black Friday.",
-          "card": "BLACK FRIDAY",
-          "scene": "store-sale",
-          "search": "black friday sign",
-          "gap": 0.8
-        },
-        {
-          "text": "Merchants hated it. They even tried to rename it Big Friday.",
-          "card": "BIG FRIDAY",
-          "scene": "vintage",
-          "search": "vintage store",
-          "gap": 0.6
-        },
-        {
-          "text": "It did not stick.",
-          "scene": "city-night",
-          "search": "old street city",
-          "gap": 0.5
-        },
-        {
-          "text": "The happier profit story only shows up in print around nineteen eighty one.",
-          "scene": "office-meeting",
-          "search": "newspaper printing"
-        },
-        {
-          "text": "Retailers took a name about chaos and sold it back to us as a party.",
-          "scene": "shopping-mall",
-          "search": "shopping mall sale",
-          "gap": 0.5
-        },
-        {
-          "text": "Today it is one of the biggest shopping days of the year in America.",
-          "scene": "shopping-bags",
-          "search": "shopping bags crowd"
-        },
-        {
-          "text": "So when the crowds and countdowns start, remember the original meaning.",
-          "scene": "shopping-mall",
-          "search": "store crowd"
-        },
-        {
-          "text": "It was a warning, not a celebration.",
-          "card": "A WARNING",
-          "scene": "store-sale",
-          "search": "warning sign",
-          "gap": 0.6
-        },
-        {
-          "text": "Follow for more surprising stories behind how we shop.",
-          "card": "FOLLOW",
-          "scene": "city-night",
-          "search": "city street night",
-          "gap": 0.3
-        }
-      ]
-    },
-    "caption": {
-      "en": "Where Black Friday got its name: not from profits, but from Philadelphia police who dreaded the crowds and traffic the day after Thanksgiving."
-    },
-    "hashtags": {
-      "en": "#blackfriday #history #thanksgiving #funfacts"
     }
   },
   {
@@ -4993,6 +4624,126 @@
     }
   },
   {
+    "id": "thanksgiving-grocery-tricks",
+    "category": "Sales and discounts",
+    "title": {
+      "en": "Thanksgiving grocery tricks"
+    },
+    "lines": {
+      "en": [
+        {
+          "text": "That cheap Thanksgiving turkey is bait.",
+          "card": "THE BAIT",
+          "scene": "grocery-food",
+          "search": "roast turkey",
+          "gap": 0.6
+        },
+        {
+          "text": "Every November, stores slash turkey prices, sometimes below what they paid.",
+          "scene": "thinking",
+          "search": "frozen turkey"
+        },
+        {
+          "text": "Some even give one away when you spend enough.",
+          "scene": "supermarket-aisle",
+          "search": "shopping cart full",
+          "gap": 0.5
+        },
+        {
+          "text": "It is called a loss leader.",
+          "card": "LOSS LEADER",
+          "scene": "thinking",
+          "search": "supermarket aisle",
+          "gap": 0.6
+        },
+        {
+          "text": "The store loses on the bird, and wins on everything around it.",
+          "scene": "supermarket-aisle",
+          "search": "grocery shopping"
+        },
+        {
+          "text": "Stuffing. Cranberries. Pie. Wine. Candles. A new roasting pan.",
+          "scene": "grocery-food",
+          "search": "pumpkin pie",
+          "gap": 0.5
+        },
+        {
+          "text": "The turkey gets you in the door. The cart pays for it.",
+          "scene": "supermarket-aisle",
+          "search": "full shopping cart",
+          "gap": 0.6
+        },
+        {
+          "text": "In twenty twenty five, the American Farm Bureau priced a classic dinner for ten at about fifty five dollars.",
+          "scene": "restaurant",
+          "search": "thanksgiving dinner table"
+        },
+        {
+          "text": "The turkey alone averaged about twenty one dollars, its smallest share of the bill since two thousand.",
+          "scene": "grocery-food",
+          "search": "turkey dinner",
+          "gap": 0.5
+        },
+        {
+          "text": "So the bird is rarely what blows the budget.",
+          "card": "NOT THE BIRD",
+          "scene": "receipt",
+          "search": "receipt paper",
+          "gap": 0.6
+        },
+        {
+          "text": "It is the extras that ride along in the cart.",
+          "scene": "gifts",
+          "search": "holiday decorations store",
+          "gap": 0.5
+        },
+        {
+          "text": "Here is the plan.",
+          "card": "THE PLAN",
+          "scene": "journal-list",
+          "search": "woman writing journal",
+          "gap": 0.5
+        },
+        {
+          "text": "Write the full menu first, and buy only what is on it.",
+          "scene": "shopping-bags",
+          "search": "shopping list"
+        },
+        {
+          "text": "Grab the turkey deal, then walk past the holiday displays.",
+          "scene": "shopping-mall",
+          "search": "store display"
+        },
+        {
+          "text": "Check what is already in your pantry before you shop.",
+          "scene": "grocery-food",
+          "search": "kitchen pantry",
+          "gap": 0.5
+        },
+        {
+          "text": "Let the store lose money on the turkey. Do not make it up for them.",
+          "card": "LET THEM LOSE",
+          "scene": "home-sofa",
+          "search": "family dinner",
+          "gap": 0.6
+        },
+        {
+          "text": "Follow for more holiday tricks before they reach your cart.",
+          "card": "FOLLOW",
+          "scene": "city-night",
+          "search": "city street night",
+          "gap": 0.3
+        }
+      ]
+    },
+    "caption": {
+      "en": "Why stores sell Thanksgiving turkeys so cheap: the loss leader trick, what the Farm Bureau found about dinner costs, and how to keep the extras out of your cart."
+    },
+    "hashtags": {
+      "en": "#thanksgiving #grocerytips #savemoney #moneytips"
+    }
+  },
+  {
     "id": "the-hoover-free-flights-fiasco",
     "category": "Money history and strange facts",
     "title": {
@@ -5119,6 +4870,125 @@
     }
   },
   {
+    "id": "black-friday-tricks",
+    "category": "Sales and discounts",
+    "title": {
+      "en": "Black Friday tricks"
+    },
+    "lines": {
+      "en": [
+        {
+          "text": "Black Friday deals are often not the best price.",
+          "card": "BLACK FRIDAY",
+          "scene": "store-sale",
+          "search": "black friday sale",
+          "gap": 0.6
+        },
+        {
+          "text": "A British consumer group called Which tracked Black Friday prices.",
+          "scene": "city-night",
+          "search": "london street shopping"
+        },
+        {
+          "text": "They followed the same products for six months before and after.",
+          "scene": "calendar",
+          "search": "calendar pages"
+        },
+        {
+          "text": "In one year, ninety eight percent of the deals were the same price or cheaper at other times.",
+          "scene": "price-tags",
+          "search": "price tags store",
+          "gap": 0.6
+        },
+        {
+          "text": "The next year, it was still about nine in ten.",
+          "scene": "shopping-bags",
+          "search": "shopping bags woman",
+          "gap": 0.5
+        },
+        {
+          "text": "So what is Black Friday really selling?",
+          "card": "WHAT IT SELLS",
+          "scene": "crowd-shopping",
+          "search": "shopping mall crowd",
+          "gap": 0.6
+        },
+        {
+          "text": "Urgency. Crowds. Countdown clocks. The feeling that you must buy today.",
+          "scene": "shopping-mall",
+          "search": "people shopping store"
+        },
+        {
+          "text": "Doorbusters are often limited to a handful of units per store.",
+          "scene": "home-sofa",
+          "search": "electronics store tv"
+        },
+        {
+          "text": "They pull you in, and the rest of the store does the selling.",
+          "card": "PULLED IN",
+          "scene": "shopping-mall",
+          "search": "store entrance",
+          "gap": 0.6
+        },
+        {
+          "text": "And some was prices are not the price anyone actually paid.",
+          "scene": "price-tags",
+          "search": "price tag clothing",
+          "gap": 0.5
+        },
+        {
+          "text": "Here is how to shop it like a pro.",
+          "card": "SHOP SMART",
+          "scene": "phone-shopping",
+          "search": "woman shopping phone",
+          "gap": 0.5
+        },
+        {
+          "text": "Make your list before the ads start.",
+          "scene": "journal-list",
+          "search": "shopping list"
+        },
+        {
+          "text": "Check each item's price history with a price tracker.",
+          "scene": "laptop-shopping",
+          "search": "laptop shopping"
+        },
+        {
+          "text": "If the deal is only good compared with a fake was price, skip it.",
+          "scene": "store-sale",
+          "search": "sale sign store",
+          "gap": 0.5
+        },
+        {
+          "text": "And if you did not need it in October, you probably do not need it now.",
+          "scene": "city-night",
+          "search": "autumn street",
+          "gap": 0.6
+        },
+        {
+          "text": "The best Black Friday deal is the thing you did not buy.",
+          "card": "BEST DEAL",
+          "scene": "savings-jar",
+          "search": "money savings jar",
+          "gap": 0.6
+        },
+        {
+          "text": "Follow for more tricks before the holiday sales hit.",
+          "card": "FOLLOW",
+          "scene": "city-night",
+          "search": "city street night",
+          "gap": 0.3
+        }
+      ]
+    },
+    "caption": {
+      "en": "Black Friday deals exposed: a consumer group found nine in ten were the same price or cheaper at other times, and here is how to shop smart."
+    },
+    "hashtags": {
+      "en": "#blackfriday #shoppingtips #moneytips #savemoney"
+    }
+  },
+  {
     "id": "eye-level-is-buy-level",
     "category": "Supermarket tricks",
     "title": {
@@ -5239,118 +5109,121 @@
     }
   },
   {
-    "id": "cyber-monday-tricks",
-    "category": "Sales and discounts",
+    "id": "where-black-friday-got-its-name",
+    "category": "Money history and strange facts",
     "title": {
-      "en": "Cyber Monday tricks"
+      "en": "Where Black Friday got its name"
     },
     "lines": {
       "en": [
         {
-          "text": "Cyber Monday was invented in a press release.",
-          "card": "CYBER MONDAY",
-          "scene": "laptop-shopping",
-          "search": "laptop online shopping",
+          "text": "Black Friday was never named for profits.",
+          "card": "THE REAL NAME",
+          "scene": "shopping-bags",
+          "search": "black friday shopping",
           "gap": 0.6
         },
         {
-          "text": "In two thousand five, an online retail group coined the name in a press release.",
-          "scene": "office-meeting",
-          "search": "office computer work"
-        },
-        {
-          "text": "The idea was that people shopped online from work the Monday after Thanksgiving.",
-          "scene": "laptop-shopping",
-          "search": "office worker laptop",
-          "gap": 0.5
-        },
-        {
-          "text": "Today it is the biggest online shopping day in America.",
-          "scene": "phone-shopping",
-          "search": "online shopping phone"
-        },
-        {
-          "text": "In twenty twenty five, Americans spent about fourteen billion dollars online in one day.",
-          "scene": "cash",
-          "search": "dollar bills",
-          "gap": 0.5
-        },
-        {
-          "text": "At the peak, that was about sixteen million dollars a minute.",
-          "scene": "clock-time",
-          "search": "clock time",
-          "gap": 0.6
-        },
-        {
-          "text": "And over a billion of it was paid with buy now, pay later.",
-          "scene": "credit-card",
-          "search": "credit card laptop",
-          "gap": 0.5
-        },
-        {
-          "text": "That last number tells you how the day works.",
-          "card": "SPEND NOW",
-          "scene": "thinking",
-          "search": "woman shopping phone",
-          "gap": 0.6
-        },
-        {
-          "text": "Cyber Monday is built for speed.",
-          "scene": "laptop-shopping",
-          "search": "typing laptop",
+          "text": "You have probably heard the story.",
+          "scene": "restaurant",
+          "search": "thanksgiving dinner",
           "gap": 0.4
         },
         {
-          "text": "Saved cards. One click. Flash deals that last an hour.",
-          "scene": "phone-shopping",
-          "search": "phone shopping app",
-          "gap": 0.5
-        },
-        {
-          "text": "Every step that used to make you pause has been removed.",
-          "card": "NO PAUSE",
-          "scene": "tap-to-pay",
-          "search": "phone tap screen",
-          "gap": 0.6
-        },
-        {
-          "text": "And many deals simply continue from Black Friday, with a new name.",
-          "scene": "store-sale",
-          "search": "black friday sale",
-          "gap": 0.5
-        },
-        {
-          "text": "Here is how to keep your head.",
-          "card": "KEEP YOUR HEAD",
-          "scene": "home-sofa",
-          "search": "woman relaxing coffee",
-          "gap": 0.5
-        },
-        {
-          "text": "Shop from a list you made before the weekend.",
-          "scene": "journal-list",
-          "search": "shopping list"
-        },
-        {
-          "text": "Leave items in your cart overnight, and see if you still want them.",
-          "scene": "city-night",
-          "search": "moon night sky"
-        },
-        {
-          "text": "Check the price history, and skip any deal that needs paying later.",
+          "text": "Stores finally go into the black, meaning profit, the day after Thanksgiving.",
           "scene": "calculator",
-          "search": "calculator receipt",
-          "gap": 0.5
+          "search": "accounting calculator"
         },
         {
-          "text": "The day was named to sell. You do not have to buy.",
-          "card": "NAMED TO SELL",
-          "scene": "savings-jar",
-          "search": "money savings jar",
+          "text": "It is a nice story. It came decades too late.",
+          "card": "TOO LATE",
+          "scene": "office-meeting",
+          "search": "old newspaper",
           "gap": 0.6
         },
         {
-          "text": "Follow so the next big sale day does not spend for you.",
+          "text": "The name started with police officers in Philadelphia, in the nineteen fifties and sixties.",
+          "scene": "city-night",
+          "search": "philadelphia city"
+        },
+        {
+          "text": "The day after Thanksgiving brought huge crowds of shoppers downtown.",
+          "scene": "crowd-shopping",
+          "search": "crowd shopping street"
+        },
+        {
+          "text": "And the famous Army Navy football game was played that Saturday.",
+          "scene": "gaming",
+          "search": "american football game",
+          "gap": 0.5
+        },
+        {
+          "text": "Traffic jams, packed sidewalks, shoplifters, chaos.",
+          "scene": "city-night",
+          "search": "traffic jam city",
+          "gap": 0.5
+        },
+        {
+          "text": "Officers had to work long shifts, and they gave the day a dark name.",
+          "scene": "thinking",
+          "search": "police officer street"
+        },
+        {
+          "text": "Some had their days off canceled.",
+          "scene": "car-dealership",
+          "search": "police car",
+          "gap": 0.5
+        },
+        {
+          "text": "Black Friday.",
+          "card": "BLACK FRIDAY",
+          "scene": "store-sale",
+          "search": "black friday sign",
+          "gap": 0.8
+        },
+        {
+          "text": "Merchants hated it. They even tried to rename it Big Friday.",
+          "card": "BIG FRIDAY",
+          "scene": "vintage",
+          "search": "vintage store",
+          "gap": 0.6
+        },
+        {
+          "text": "It did not stick.",
+          "scene": "city-night",
+          "search": "old street city",
+          "gap": 0.5
+        },
+        {
+          "text": "The happier profit story only shows up in print around nineteen eighty one.",
+          "scene": "office-meeting",
+          "search": "newspaper printing"
+        },
+        {
+          "text": "Retailers took a name about chaos and sold it back to us as a party.",
+          "scene": "shopping-mall",
+          "search": "shopping mall sale",
+          "gap": 0.5
+        },
+        {
+          "text": "Today it is one of the biggest shopping days of the year in America.",
+          "scene": "shopping-bags",
+          "search": "shopping bags crowd"
+        },
+        {
+          "text": "So when the crowds and countdowns start, remember the original meaning.",
+          "scene": "shopping-mall",
+          "search": "store crowd"
+        },
+        {
+          "text": "It was a warning, not a celebration.",
+          "card": "A WARNING",
+          "scene": "store-sale",
+          "search": "warning sign",
+          "gap": 0.6
+        },
+        {
+          "text": "Follow for more surprising stories behind how we shop.",
           "card": "FOLLOW",
           "scene": "city-night",
           "search": "city street night",
@@ -5359,10 +5232,10 @@
       ]
     },
     "caption": {
-      "en": "Cyber Monday tricks: how a retail group named the day in two thousand five, the record spending in twenty twenty five, and how to keep your head."
+      "en": "Where Black Friday got its name: not from profits, but from Philadelphia police who dreaded the crowds and traffic the day after Thanksgiving."
     },
     "hashtags": {
-      "en": "#cybermonday #onlineshopping #moneytips #savemoney"
+      "en": "#blackfriday #history #thanksgiving #funfacts"
     }
   },
   {
@@ -5753,6 +5626,133 @@
     },
     "hashtags": {
       "en": "#darkpatterns #onlineshopping #techtips #moneytips"
+    }
+  },
+  {
+    "id": "cyber-monday-tricks",
+    "category": "Sales and discounts",
+    "title": {
+      "en": "Cyber Monday tricks"
+    },
+    "lines": {
+      "en": [
+        {
+          "text": "Cyber Monday was invented in a press release.",
+          "card": "CYBER MONDAY",
+          "scene": "laptop-shopping",
+          "search": "laptop online shopping",
+          "gap": 0.6
+        },
+        {
+          "text": "In two thousand five, an online retail group coined the name in a press release.",
+          "scene": "office-meeting",
+          "search": "office computer work"
+        },
+        {
+          "text": "The idea was that people shopped online from work the Monday after Thanksgiving.",
+          "scene": "laptop-shopping",
+          "search": "office worker laptop",
+          "gap": 0.5
+        },
+        {
+          "text": "Today it is the biggest online shopping day in America.",
+          "scene": "phone-shopping",
+          "search": "online shopping phone"
+        },
+        {
+          "text": "In twenty twenty five, Americans spent about fourteen billion dollars online in one day.",
+          "scene": "cash",
+          "search": "dollar bills",
+          "gap": 0.5
+        },
+        {
+          "text": "At the peak, that was about sixteen million dollars a minute.",
+          "scene": "clock-time",
+          "search": "clock time",
+          "gap": 0.6
+        },
+        {
+          "text": "And over a billion of it was paid with buy now, pay later.",
+          "scene": "credit-card",
+          "search": "credit card laptop",
+          "gap": 0.5
+        },
+        {
+          "text": "That last number tells you how the day works.",
+          "card": "SPEND NOW",
+          "scene": "thinking",
+          "search": "woman shopping phone",
+          "gap": 0.6
+        },
+        {
+          "text": "Cyber Monday is built for speed.",
+          "scene": "laptop-shopping",
+          "search": "typing laptop",
+          "gap": 0.4
+        },
+        {
+          "text": "Saved cards. One click. Flash deals that last an hour.",
+          "scene": "phone-shopping",
+          "search": "phone shopping app",
+          "gap": 0.5
+        },
+        {
+          "text": "Every step that used to make you pause has been removed.",
+          "card": "NO PAUSE",
+          "scene": "tap-to-pay",
+          "search": "phone tap screen",
+          "gap": 0.6
+        },
+        {
+          "text": "And many deals simply continue from Black Friday, with a new name.",
+          "scene": "store-sale",
+          "search": "black friday sale",
+          "gap": 0.5
+        },
+        {
+          "text": "Here is how to keep your head.",
+          "card": "KEEP YOUR HEAD",
+          "scene": "home-sofa",
+          "search": "woman relaxing coffee",
+          "gap": 0.5
+        },
+        {
+          "text": "Shop from a list you made before the weekend.",
+          "scene": "journal-list",
+          "search": "shopping list"
+        },
+        {
+          "text": "Leave items in your cart overnight, and see if you still want them.",
+          "scene": "city-night",
+          "search": "moon night sky"
+        },
+        {
+          "text": "Check the price history, and skip any deal that needs paying later.",
+          "scene": "calculator",
+          "search": "calculator receipt",
+          "gap": 0.5
+        },
+        {
+          "text": "The day was named to sell. You do not have to buy.",
+          "card": "NAMED TO SELL",
+          "scene": "savings-jar",
+          "search": "money savings jar",
+          "gap": 0.6
+        },
+        {
+          "text": "Follow so the next big sale day does not spend for you.",
+          "card": "FOLLOW",
+          "scene": "city-night",
+          "search": "city street night",
+          "gap": 0.3
+        }
+      ]
+    },
+    "caption": {
+      "en": "Cyber Monday tricks: how a retail group named the day in two thousand five, the record spending in twenty twenty five, and how to keep your head."
+    },
+    "hashtags": {
+      "en": "#cybermonday #onlineshopping #moneytips #savemoney"
     }
   },
   {
