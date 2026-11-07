@@ -18,6 +18,7 @@ Run: python src/add_content.py   (plain Python, no packages needed: the Monday c
 import json
 import re
 import sys
+from collections import Counter
 
 from common import ROOT, load_json, save_json
 
@@ -27,11 +28,26 @@ WORDS = (175, 215)          # 154 words still needed the maximum stretch to pass
 CARDS = (5, 10)
 BANNED = ("females", "kill yourself", "kys")  # dehumanising or harmful wording never goes out
 VOICE_UNSAFE = re.compile(r"[0-9%&$#@\"()\[\]{}*_/\\<>|~^=+]")
+# variety across one content file: a routine once put "brain head" on 80 lines, so the same few shots came back daily
+MAX_SAME_SEARCH = 20        # lines with one search (the follow line excepted)
+MAX_LINES_PER_CLIP = 13     # lines of a category, per clip it has in the library
 
 
 def categories():
     lib = load_json(ROOT / "assets" / "library" / "library.json", {})
     return {c["cat"] for c in lib.get("categories", [])}
+
+
+def check_variety(name, items):
+    """Return the problems of one content file: the same search or the same few library clips over and over."""
+    clips = Counter(c["cat"] for c in load_json(ROOT / "assets" / "library" / "library.json", {}).get("clips", []))
+    searches = Counter(l.get("search", "") for item in items for l in item.get("lines", [])[:-1])
+    scenes = Counter(l.get("scene", "") for item in items for l in item.get("lines", []))
+    problems = [f"{name}: search '{s}' on {n} lines (max {MAX_SAME_SEARCH}): show the script's own subject instead"
+                for s, n in searches.items() if s and n > MAX_SAME_SEARCH]
+    problems += [f"{name}: scene '{s}' on {n} lines (max {MAX_LINES_PER_CLIP * clips[s]} for its {clips[s]} clips)"
+                 for s, n in scenes.items() if clips[s] and n > MAX_LINES_PER_CLIP * clips[s]]
+    return problems
 
 
 def check_topic(item, cats):
@@ -105,7 +121,9 @@ def main():
 
     written, problems = {}, []
     for path in sorted((ROOT / "content").glob("*.json")):
-        for item in json.loads(path.read_text(encoding="utf-8")):
+        items = json.loads(path.read_text(encoding="utf-8"))
+        problems += check_variety(path.name, items)
+        for item in items:
             if item.get("id") not in plan_ids:
                 problems.append(f"{path.name}: '{item.get('id')}' is not in topic_plan.json")
                 continue

@@ -54,10 +54,16 @@ Rules for the script (one per plan entry, about its title and category):
   receipt, laptop, phone, restaurant, menu, waiter, wine, casino, roulette, dice, car dealership, airport, hotel,
   calendar, calculator, warehouse, delivery, city street. Never ideas or verbs ("comparing", "decision", "trick"),
   never start with an adjective ("car used", not "used car"; "turkey frozen" is wrong too: write "turkey freezer"),
-  never brands or people's names. When the full search finds nothing, the system tries pairs of its words (and each
-  noun alone when no category fits the line), then shows the library clip, so put the most important noun first.
+  never brands or people's names. When the full search finds nothing, the system tries the pairs holding its first noun
+  (and that noun alone when no category fits the line), then shows the library clip, so put the most important noun first.
   Write woman or man only when a person matters. Words like wedding, christmas, party, baby or halloween are fine
   when the line is about them.
+- Variety across the file (add_content.py checks it): one search on at most 20 lines, follow lines excepted; one category
+  on at most 13 lines per clip it has in assets/library/library.json. No filler: never put "brain head", "wallet cash",
+  "savings jar" or "notebook pen" on a line that is not about those things. When a line is abstract (advice, a conclusion,
+  a why), show the script's own subject: the airport in a script about airlines, the store in a script about sales, the
+  phone in a script about apps, and switch between two or three categories of that subject so that no category comes
+  twice in a row. Use "brain" only when the line is about the brain or the mind.
 - gap: pause after the line in seconds: 0.6 to 0.8 after a strong line or a card, 0.3 to 0.5 otherwise.
 - caption: one sentence of 8 to 30 words, with words people search for (money tips, save money, the trick's name...),
   no hashtags. hashtags: exactly 4 lowercase topic hashtags; never #moneytricksexposed (added automatically).

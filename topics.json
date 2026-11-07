@@ -7625,8 +7625,8 @@
         },
         {
           "text": "Psychologists call it anchoring.",
-          "scene": "research",
-          "search": "scientist laboratory",
+          "scene": "store-sale",
+          "search": "clothing sale rack",
           "gap": 0.4
         },
         {
@@ -7643,8 +7643,8 @@
         },
         {
           "text": "Compare the item at two other stores before you decide.",
-          "scene": "phone-shopping",
-          "search": "phone price comparison",
+          "scene": "store-sale",
+          "search": "clothing sale rack",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -7656,14 +7656,14 @@
         },
         {
           "text": "Ask yourself one question: would I pay this if the tag said nothing else?",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "store-sale",
+          "search": "clothing sale rack",
           "gap": 0.4
         },
         {
           "text": "The only number that matters is the one you actually pay.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "price-tags",
+          "search": "price tag clothes",
           "card": "WHAT YOU PAY",
           "gap": 0.7
         },
@@ -7818,8 +7818,8 @@
       "en": [
         {
           "text": "You may owe more than you think you do.",
-          "scene": "phone-shopping",
-          "search": "phone checkout online",
+          "scene": "credit-card",
+          "search": "credit card payment",
           "card": "THE HIDDEN DEBT",
           "gap": 0.7
         },
@@ -7855,8 +7855,8 @@
         },
         {
           "text": "None of them looks big, but together they add up.",
-          "scene": "bills-documents",
-          "search": "bills stack",
+          "scene": "credit-card",
+          "search": "credit card payment",
           "card": "THE PILE",
           "gap": 0.7
         },
@@ -7874,8 +7874,8 @@
         },
         {
           "text": "Why does it work? Splitting a price makes it feel lighter.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "credit-card",
+          "search": "credit card payment",
           "gap": 0.4
         },
         {
@@ -7911,8 +7911,8 @@
         },
         {
           "text": "Then ask if you could pay the full price today.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "credit-card",
+          "search": "credit card payment",
           "gap": 0.4
         },
         {
@@ -7980,14 +7980,14 @@
         },
         {
           "text": "Before that, historians say, bulbs often lasted fifteen hundred hours.",
-          "scene": "research",
-          "search": "laboratory testing",
+          "scene": "vintage",
+          "search": "bulb light old",
           "gap": 0.4
         },
         {
           "text": "Each factory sent samples to a lab in Switzerland, and paid fines if its bulbs lasted too long.",
-          "scene": "bills-documents",
-          "search": "fine paper documents",
+          "scene": "home-sofa",
+          "search": "lamp home",
           "gap": 0.4
         },
         {
@@ -7998,8 +7998,8 @@
         },
         {
           "text": "The logic was simple: a bulb that dies sooner gets bought again sooner.",
-          "scene": "brain",
-          "search": "brain thinking",
+          "scene": "factory",
+          "search": "bulb production",
           "card": "THE LOGIC",
           "gap": 0.7
         },
@@ -8018,8 +8018,8 @@
         },
         {
           "text": "Not every product is built to fail, but the idea has a name: planned obsolescence.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "factory",
+          "search": "bulb production",
           "gap": 0.4
         },
         {
@@ -8030,8 +8030,8 @@
         },
         {
           "text": "Check the warranty length before you buy anything expensive.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "vintage",
+          "search": "bulb light old",
           "card": "WARRANTY FIRST",
           "gap": 0.7
         },
@@ -8049,8 +8049,8 @@
         },
         {
           "text": "Sometimes the cheapest option is paying more for something that lasts.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "home-sofa",
+          "search": "lamp home",
           "card": "BUY ONCE",
           "gap": 0.7
         },
@@ -8130,14 +8130,14 @@
         },
         {
           "text": "Writers on gambling describe a trance called the machine zone.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "casino",
+          "search": "casino slot",
           "gap": 0.4
         },
         {
           "text": "It is the feeling that hours vanished while you played.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "city-night",
+          "search": "las vegas night",
           "gap": 0.4
         },
         {
@@ -8155,8 +8155,8 @@
         },
         {
           "text": "So set your limits before you walk in.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "coins",
+          "search": "coins slot",
           "gap": 0.4
         },
         {
@@ -8180,8 +8180,8 @@
         },
         {
           "text": "Entertainment should have a price you set first.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "cash",
+          "search": "cash hand",
           "card": "YOUR CALL",
           "gap": 0.7
         },
@@ -8211,8 +8211,8 @@
       "en": [
         {
           "text": "The best sale might be the one you skip.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "calendar",
+          "search": "calendar days",
           "card": "THIRTY DAY LIST",
           "gap": 0.7
         },
@@ -8230,8 +8230,8 @@
         },
         {
           "text": "There is a trick for that moment, and it costs nothing at all.",
-          "scene": "thinking",
-          "search": "woman thinking",
+          "scene": "calendar",
+          "search": "calendar days",
           "gap": 0.4
         },
         {
@@ -8249,8 +8249,8 @@
         },
         {
           "text": "So you have to build your own.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop online cart",
           "gap": 0.4
         },
         {
@@ -8262,8 +8262,8 @@
         },
         {
           "text": "When you want something, write it down with the date and the price.",
-          "scene": "phone-shopping",
-          "search": "phone notes",
+          "scene": "laptop-shopping",
+          "search": "laptop online cart",
           "gap": 0.4
         },
         {
@@ -8280,8 +8280,8 @@
         },
         {
           "text": "Psychologists say wanting and liking are different things in the brain.",
-          "scene": "research",
-          "search": "researcher laptop",
+          "scene": "calendar",
+          "search": "calendar days",
           "gap": 0.4
         },
         {
@@ -8299,14 +8299,14 @@
         },
         {
           "text": "If not, move the price into your savings.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "shopping-bags",
+          "search": "shopping bags woman",
           "gap": 0.4
         },
         {
           "text": "Add up what you skipped at the end of the year.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "store-sale",
+          "search": "store sale sign",
           "gap": 0.4
         },
         {
@@ -8355,26 +8355,26 @@
         {
           "text": "Then they asked people what percent of African countries were in the United Nations.",
           "scene": "thinking",
-          "search": "man thinking",
+          "search": "person thinking",
           "gap": 0.4
         },
         {
           "text": "People who saw ten guessed about twenty five.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "casino",
+          "search": "roulette wheel",
           "card": "THE RESULT",
           "gap": 0.7
         },
         {
           "text": "People who saw sixty five guessed about forty five.",
-          "scene": "research",
-          "search": "results chart",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "The wheel meant nothing, and still it pulled their answers a long way.",
-          "scene": "thinking",
-          "search": "woman thinking",
+          "scene": "casino",
+          "search": "roulette wheel",
           "gap": 0.4
         },
         {
@@ -8484,8 +8484,8 @@
         },
         {
           "text": "The trade even has a name for it: pester power.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "grocery-food",
+          "search": "candy store",
           "card": "THE PESTER POWER",
           "gap": 0.7
         },
@@ -8504,8 +8504,8 @@
         },
         {
           "text": "The best spots can go to whoever pays the store, not whoever is cheapest for you.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelves child",
           "gap": 0.4
         },
         {
@@ -8578,8 +8578,8 @@
       "en": [
         {
           "text": "Only two left in stock may mean nothing at all.",
-          "scene": "phone-shopping",
-          "search": "phone online store",
+          "scene": "store-sale",
+          "search": "store sale",
           "card": "ONLY TWO LEFT",
           "gap": 0.7
         },
@@ -8604,8 +8604,8 @@
         },
         {
           "text": "Same cookie, but fewer of them.",
-          "scene": "research",
-          "search": "scientist laboratory",
+          "scene": "store-sale",
+          "search": "store sale",
           "gap": 0.4
         },
         {
@@ -8634,8 +8634,8 @@
         },
         {
           "text": "The group found about half of the only one room left messages on one big site gave a misleading picture.",
-          "scene": "bills-documents",
-          "search": "report paper",
+          "scene": "crowd-shopping",
+          "search": "crowd store",
           "card": "THE TEST",
           "gap": 0.7
         },
@@ -8660,20 +8660,20 @@
         },
         {
           "text": "Set a price alert, and let the store come to you.",
-          "scene": "phone-shopping",
-          "search": "phone price alert",
+          "scene": "crowd-shopping",
+          "search": "crowd store",
           "gap": 0.4
         },
         {
           "text": "Ask if you would want it at all without the warning.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "store-sale",
+          "search": "store sale",
           "gap": 0.4
         },
         {
           "text": "Real bargains can wait for a calm mind.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "crowd-shopping",
+          "search": "crowd store",
           "card": "CALM WINS",
           "gap": 0.7
         },
@@ -8716,8 +8716,8 @@
         },
         {
           "text": "He surveyed students about gifts they got at Christmas.",
-          "scene": "bills-documents",
-          "search": "survey questionnaire",
+          "scene": "gifts",
+          "search": "christmas gifts",
           "gap": 0.4
         },
         {
@@ -8728,8 +8728,8 @@
         },
         {
           "text": "That means a gap between what givers pay and what receivers value.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "gifts",
+          "search": "christmas gifts",
           "card": "THE GAP",
           "gap": 0.7
         },
@@ -8760,8 +8760,8 @@
         },
         {
           "text": "Panic makes people pay more, think less, and buy things nobody needed.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "crowd-shopping",
+          "search": "christmas shopping crowd",
           "gap": 0.4
         },
         {
@@ -8773,8 +8773,8 @@
         },
         {
           "text": "Ask people for a wish list, or ask what they actually need.",
-          "scene": "phone-shopping",
-          "search": "phone wish list",
+          "scene": "crowd-shopping",
+          "search": "christmas shopping crowd",
           "gap": 0.4
         },
         {
@@ -8791,8 +8791,8 @@
         },
         {
           "text": "Spend well on the people, not on the pressure.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "shopping-mall",
+          "search": "mall christmas",
           "card": "THE GOAL",
           "gap": 0.7
         },
@@ -8835,14 +8835,14 @@
         },
         {
           "text": "A rich looking customer might hear a higher price.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "vintage",
+          "search": "vintage store",
           "gap": 0.4
         },
         {
           "text": "A poor looking one might get a lower one.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
@@ -8866,8 +8866,8 @@
         },
         {
           "text": "He was not the only merchant to try fixed prices.",
-          "scene": "research",
-          "search": "historian books",
+          "scene": "vintage",
+          "search": "vintage store",
           "gap": 0.4
         },
         {
@@ -8878,15 +8878,15 @@
         },
         {
           "text": "Fixed prices meant everyone walking in paid the same price.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "crowd-shopping",
+          "search": "people shopping street",
           "card": "THE TRUST",
           "gap": 0.7
         },
         {
           "text": "That made shopping faster, and fairer for people who hated haggling.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "vintage",
+          "search": "vintage store",
           "gap": 0.4
         },
         {
@@ -8904,20 +8904,20 @@
         },
         {
           "text": "The number printed on it is only the start of the story.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "Check what is included, what is extra, and what it costs per use.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "shopping-mall",
+          "search": "department store",
           "gap": 0.4
         },
         {
           "text": "A price tag is information, not a verdict.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "crowd-shopping",
+          "search": "people shopping street",
           "card": "SMARTER NOW",
           "gap": 0.7
         },
@@ -8973,8 +8973,8 @@
         },
         {
           "text": "It was granted in nineteen ninety nine.",
-          "scene": "bills-documents",
-          "search": "patent document",
+          "scene": "laptop-shopping",
+          "search": "laptop online shopping",
           "gap": 0.4
         },
         {
@@ -8991,8 +8991,8 @@
         },
         {
           "text": "Why does it work? Paying hurts a little, and friction makes the hurt feel real.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop online shopping",
           "card": "PAIN OF PAYING",
           "gap": 0.7
         },
@@ -9023,26 +9023,26 @@
         },
         {
           "text": "Put things in your cart, and leave them there overnight.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "laptop-shopping",
+          "search": "laptop online shopping",
           "gap": 0.4
         },
         {
           "text": "In the morning, ask yourself whether you still really want it.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "home-sofa",
+          "search": "woman sofa phone",
           "gap": 0.4
         },
         {
           "text": "If you do, it will still be there.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "delivery",
+          "search": "package door",
           "gap": 0.4
         },
         {
           "text": "A single night is the cheapest brake you will ever own.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop online shopping",
           "card": "THE PAUSE",
           "gap": 0.7
         },
@@ -9104,8 +9104,8 @@
         },
         {
           "text": "The numbers only menu got the highest spending.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "gap": 0.4
         },
         {
@@ -9141,14 +9141,14 @@
         },
         {
           "text": "None of that is illegal, and some of it is just good design.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "wine",
+          "search": "wine dinner",
           "gap": 0.4
         },
         {
           "text": "Read the whole menu, middle included.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -9160,14 +9160,14 @@
         },
         {
           "text": "Ask yourself if you would order it without the fancy words.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "price-tags",
+          "search": "menu price",
           "gap": 0.4
         },
         {
           "text": "Once you see the design, it loses its grip.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "card": "THE POWER",
           "gap": 0.7
         },
@@ -9222,8 +9222,8 @@
         },
         {
           "text": "Airlines call this unbundling: sell the flight cheap, then charge for every extra.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "travel-airport",
+          "search": "airplane cabin",
           "card": "THE UNBUNDLE",
           "gap": 0.7
         },
@@ -9242,14 +9242,14 @@
         },
         {
           "text": "The rule was proposed that August, but check its status before you fly.",
-          "scene": "research",
-          "search": "report paper",
+          "scene": "travel-airport",
+          "search": "airplane cabin",
           "gap": 0.4
         },
         {
           "text": "The fee works because you fear a middle seat and a bad trip.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -9260,27 +9260,27 @@
         },
         {
           "text": "Seats are often assigned free at check in.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "credit-card",
+          "search": "credit card laptop",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Check in as early as you can, because the best free seats go first.",
-          "scene": "phone-shopping",
-          "search": "phone airline app",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
           "text": "Compare the total price with the fee included, then decide.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "travel-airport",
+          "search": "airplane cabin",
           "gap": 0.4
         },
         {
           "text": "Sometimes a pricier fare with the seat included is actually the cheaper choice.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -9348,8 +9348,8 @@
         },
         {
           "text": "Now picture a thousand dollars left unpaid.",
-          "scene": "bills-documents",
-          "search": "credit card bill",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
@@ -9360,8 +9360,8 @@
         },
         {
           "text": "The minimum payment is set to feel easy.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "bank",
+          "search": "bank interest",
           "card": "THE MINIMUM TRAP",
           "gap": 0.7
         },
@@ -9379,21 +9379,21 @@
         },
         {
           "text": "It is usually much longer than people expect.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
           "text": "Pay the full statement balance every month if you can.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "bills-documents",
+          "search": "card statement paper",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "If you cannot, put extra money toward the card with the highest rate.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "bank",
+          "search": "bank interest",
           "gap": 0.4
         },
         {
@@ -9460,8 +9460,8 @@
         },
         {
           "text": "That is a bump of two dollars and fifty cents every single month.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "home-sofa",
+          "search": "television remote sofa",
           "gap": 0.4
         },
         {
@@ -9478,21 +9478,21 @@
         },
         {
           "text": "That is the point of a small increase.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "phone-shopping",
+          "search": "phone streaming",
           "card": "THE DEFAULT",
           "gap": 0.7
         },
         {
           "text": "It is too small to feel, while cancelling takes time and effort.",
-          "scene": "research",
-          "search": "researcher laptop",
+          "scene": "home-sofa",
+          "search": "television remote sofa",
           "gap": 0.4
         },
         {
           "text": "Services also push you toward bundles and annual plans.",
-          "scene": "bills-documents",
-          "search": "bills papers",
+          "scene": "phone-shopping",
+          "search": "phone streaming",
           "gap": 0.4
         },
         {
@@ -9528,8 +9528,8 @@
         },
         {
           "text": "You can still watch everything you love, just not all at the same time.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop video",
           "card": "THE ROTATION",
           "gap": 0.7
         },
@@ -9559,21 +9559,21 @@
       "en": [
         {
           "text": "Losing money hurts more than finding it feels good.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "coffee-shop",
+          "search": "coffee mug",
           "card": "LOSS AVERSION",
           "gap": 0.7
         },
         {
           "text": "Psychologists call it loss aversion.",
-          "scene": "research",
-          "search": "scientist laboratory",
+          "scene": "thinking",
+          "search": "woman thinking",
           "gap": 0.4
         },
         {
           "text": "Daniel Kahneman and Amos Tversky made the idea famous, and Kahneman later won a Nobel Prize.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "coffee-shop",
+          "search": "coffee mug",
           "gap": 0.4
         },
         {
@@ -9585,8 +9585,8 @@
         },
         {
           "text": "They asked the mug owners what price they would sell it for.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "coffee-shop",
+          "search": "coffee mug",
           "gap": 0.4
         },
         {
@@ -9634,8 +9634,8 @@
         },
         {
           "text": "Ask yourself if you would buy it today, at this price.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "cash",
+          "search": "cash hand",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -9653,8 +9653,8 @@
         },
         {
           "text": "Notice the feeling, name it, and let your head make the final call.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "cash",
+          "search": "cash hand",
           "card": "THE SHIFT",
           "gap": 0.7
         },
@@ -9735,20 +9735,20 @@
         },
         {
           "text": "Some items are made only for outlets, in different quality.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "Either way, compare at invites you to feel smart.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "shopping-mall",
+          "search": "outlet mall",
           "gap": 0.4
         },
         {
           "text": "Search the exact product name and model number online.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "store-sale",
+          "search": "clearance sign",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -9760,8 +9760,8 @@
         },
         {
           "text": "Judge by quality and need, not by the crossed out number on the tag.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "shopping-mall",
+          "search": "outlet mall",
           "gap": 0.4
         },
         {
@@ -9772,8 +9772,8 @@
         },
         {
           "text": "Is this worth the money I will actually hand over today?",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "price-tags",
+          "search": "price tag",
           "card": "THE QUESTION",
           "gap": 0.7
         },
@@ -9822,8 +9822,8 @@
         },
         {
           "text": "Some casino designers say loud patterns keep your eyes up on the machines, not down on the floor.",
-          "scene": "research",
-          "search": "designer notes",
+          "scene": "city-night",
+          "search": "las vegas night",
           "card": "THE DESIGN IDEA",
           "gap": 0.7
         },
@@ -9860,14 +9860,14 @@
         },
         {
           "text": "Her book, Addiction by Design, came out in twenty twelve.",
-          "scene": "research",
-          "search": "book researcher",
+          "scene": "coins",
+          "search": "coins slot",
           "gap": 0.4
         },
         {
           "text": "It describes how the whole space and the machines can pull people into a rhythm.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "casino",
+          "search": "casino floor",
           "gap": 0.4
         },
         {
@@ -9879,8 +9879,8 @@
         },
         {
           "text": "Decide your budget and your time before you go in.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "city-night",
+          "search": "las vegas night",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -9892,14 +9892,14 @@
         },
         {
           "text": "Leave when either one runs out, no exceptions.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "coins",
+          "search": "coins slot",
           "gap": 0.4
         },
         {
           "text": "Never chase a loss, because the house edge does not care.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "cash",
+          "search": "cash hand",
           "card": "SET LIMITS",
           "gap": 0.7
         },
@@ -9961,14 +9961,14 @@
         },
         {
           "text": "The researcher suggested a shopping list to keep attention on target.",
-          "scene": "bills-documents",
-          "search": "study paper",
+          "scene": "grocery-food",
+          "search": "grocery cart",
           "gap": 0.4
         },
         {
           "text": "Estimates of unplanned buying vary a lot, depending on how researchers count it.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "supermarket-aisle",
+          "search": "supermarket aisle",
           "gap": 0.4
         },
         {
@@ -10022,8 +10022,8 @@
         },
         {
           "text": "A list turns a giant store into a short, easy walk.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "grocery-food",
+          "search": "grocery cart",
           "card": "THE RESULT",
           "gap": 0.7
         },
@@ -10072,14 +10072,14 @@
         },
         {
           "text": "Only one thing changed: the asking price on the listing.",
-          "scene": "bills-documents",
-          "search": "listing paper house",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "Agents who saw a higher asking price valued the house at thousands of dollars more.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "house interior",
           "card": "THE ASKING PRICE",
           "gap": 0.7
         },
@@ -10091,14 +10091,14 @@
         },
         {
           "text": "Afterward, the agents said the asking price had not influenced them.",
-          "scene": "research",
-          "search": "scientist laboratory",
+          "scene": "car-dealership",
+          "search": "car showroom",
           "gap": 0.4
         },
         {
           "text": "It had, and by a lot.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "home-sofa",
+          "search": "house interior",
           "gap": 0.4
         },
         {
@@ -10140,15 +10140,15 @@
         },
         {
           "text": "Be ready to walk away from a number you did not choose.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "price-tags",
+          "search": "price tag",
           "card": "WALK AWAY",
           "gap": 0.7
         },
         {
           "text": "The price you pay should come from your head and your budget.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "car-dealership",
+          "search": "car showroom",
           "gap": 0.4
         },
         {
@@ -10208,8 +10208,8 @@
         },
         {
           "text": "Food companies can pay for prime spots, and stores can accept.",
-          "scene": "bills-documents",
-          "search": "contract paper",
+          "scene": "supermarket-aisle",
+          "search": "supermarket display",
           "card": "THE PAID SPOT",
           "gap": 0.7
         },
@@ -10227,8 +10227,8 @@
         },
         {
           "text": "Sometimes even when the price did not move.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "supermarket-aisle",
+          "search": "supermarket display",
           "gap": 0.4
         },
         {
@@ -10258,8 +10258,8 @@
         },
         {
           "text": "Treat an end display as a suggestion.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "grocery-food",
+          "search": "soda snacks",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -10277,20 +10277,20 @@
         },
         {
           "text": "Remember that a pile is not a promise of a low price.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "crowd-shopping",
+          "search": "shoppers store",
           "gap": 0.4
         },
         {
           "text": "Buy it only if it was already on your list.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "checkout",
+          "search": "cashier store",
           "gap": 0.4
         },
         {
           "text": "A display is just a billboard made of food.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "supermarket-aisle",
+          "search": "supermarket display",
           "card": "THE RULE",
           "gap": 0.7
         },
@@ -10352,14 +10352,14 @@
         },
         {
           "text": "The room based message beat the usual environmental appeal.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "crowd-shopping",
+          "search": "crowd people",
           "gap": 0.4
         },
         {
           "text": "People follow what similar people did in a similar place.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "travel-airport",
+          "search": "hotel room",
           "gap": 0.4
         },
         {
@@ -10389,14 +10389,14 @@
         },
         {
           "text": "The crowd can be wrong, and it can also be bought.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "laptop-shopping",
+          "search": "laptop reviews",
           "gap": 0.4
         },
         {
           "text": "Read the three star reviews first, because they are usually the most honest.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "phone-shopping",
+          "search": "phone reviews",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -10408,26 +10408,26 @@
         },
         {
           "text": "Check the price against what you actually need.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "crowd-shopping",
+          "search": "crowd people",
           "gap": 0.4
         },
         {
           "text": "If most people buy it, ask whether most people have your needs.",
-          "scene": "thinking",
-          "search": "woman thinking",
+          "scene": "laptop-shopping",
+          "search": "laptop reviews",
           "gap": 0.4
         },
         {
           "text": "Popular is a fact about other people.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "travel-airport",
+          "search": "hotel room",
           "gap": 0.4
         },
         {
           "text": "Your budget belongs to you alone.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop reviews",
           "card": "YOUR CHOICE",
           "gap": 0.7
         },
@@ -10470,8 +10470,8 @@
         },
         {
           "text": "About forty three percent said they had at least one unused gift card, voucher or store credit.",
-          "scene": "research",
-          "search": "survey report",
+          "scene": "gifts",
+          "search": "gift card",
           "gap": 0.4
         },
         {
@@ -10482,21 +10482,21 @@
         },
         {
           "text": "And about a third said they had lost money on a gift card.",
-          "scene": "bills-documents",
-          "search": "bills papers",
+          "scene": "credit-card",
+          "search": "card wallet",
           "card": "THE LOSS",
           "gap": 0.7
         },
         {
           "text": "Twenty percent let one expire, and seventeen percent lost one.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "gifts",
+          "search": "gift card",
           "gap": 0.4
         },
         {
           "text": "Why does it happen? A gift card feels like play money.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "credit-card",
+          "search": "card wallet",
           "gap": 0.4
         },
         {
@@ -10557,8 +10557,8 @@
         },
         {
           "text": "Even a partial value beats nothing.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "credit-card",
+          "search": "card wallet",
           "gap": 0.4
         },
         {
@@ -10612,8 +10612,8 @@
         },
         {
           "text": "That story may be a legend, but the card was real.",
-          "scene": "research",
-          "search": "historian books",
+          "scene": "vintage",
+          "search": "vintage restaurant",
           "gap": 0.4
         },
         {
@@ -10625,8 +10625,8 @@
         },
         {
           "text": "Nobody had asked for them.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "vintage",
+          "search": "vintage restaurant",
           "gap": 0.4
         },
         {
@@ -10637,8 +10637,8 @@
         },
         {
           "text": "It was chaotic, and the program lost twenty million dollars in its first year.",
-          "scene": "bills-documents",
-          "search": "bills papers",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
@@ -10656,39 +10656,39 @@
         },
         {
           "text": "Plastic changed how we feel about spending.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "restaurant",
+          "search": "restaurant bill",
           "gap": 0.4
         },
         {
           "text": "You no longer hand over cash that you can count.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
           "text": "Instead you sign for a bill that arrives later.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "restaurant",
+          "search": "restaurant bill",
           "gap": 0.4
         },
         {
           "text": "A card is a great tool when you pay it off every month.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "bank",
+          "search": "bank building",
           "card": "USE IT WELL",
           "gap": 0.7
         },
         {
           "text": "It becomes a trap when you do not.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "vintage",
+          "search": "vintage restaurant",
           "gap": 0.4
         },
         {
           "text": "Treat it like cash, because the bill comes either way.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "credit-card",
+          "search": "credit card",
           "card": "THE RULE",
           "gap": 0.7
         },
@@ -10743,8 +10743,8 @@
         },
         {
           "text": "Researchers call paying a pain, and friction is what makes you feel it.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop credit card",
           "gap": 0.4
         },
         {
@@ -10755,8 +10755,8 @@
         },
         {
           "text": "There is a safety side as well.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "laptop-shopping",
+          "search": "laptop credit card",
           "card": "THE SAFETY SIDE",
           "gap": 0.7
         },
@@ -10780,8 +10780,8 @@
         },
         {
           "text": "Use a credit card for online shopping, not a debit card.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "credit-card",
+          "search": "credit card online",
           "card": "YOUR SETUP",
           "gap": 0.7
         },
@@ -10805,14 +10805,14 @@
         },
         {
           "text": "A tiny pause before paying is a good thing.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "tap-to-pay",
+          "search": "phone pay terminal",
           "gap": 0.4
         },
         {
           "text": "It gives you time to ask if you really want it.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop credit card",
           "card": "THE PAUSE",
           "gap": 0.7
         },
@@ -10867,8 +10867,8 @@
         },
         {
           "text": "Dishes at the start or end of a category were up to twice as popular as those in the middle.",
-          "scene": "bills-documents",
-          "search": "menu list dishes",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "card": "THE EDGES",
           "gap": 0.7
         },
@@ -10886,8 +10886,8 @@
         },
         {
           "text": "So restaurants may put the dishes they want to sell at the edges.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "gap": 0.4
         },
         {
@@ -10910,8 +10910,8 @@
         },
         {
           "text": "Scan the whole menu before you start to decide.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -10929,14 +10929,14 @@
         },
         {
           "text": "Then pick based on what you want, not where it sits.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "wine",
+          "search": "wine dinner",
           "gap": 0.4
         },
         {
           "text": "A menu is a map made to move your eyes.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "card": "SEE THE GRID",
           "gap": 0.7
         },
@@ -10979,8 +10979,8 @@
         },
         {
           "text": "One is cheap, and the other costs a bit more.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "phone-shopping",
+          "search": "phone travel app",
           "gap": 0.4
         },
         {
@@ -10998,26 +10998,26 @@
         },
         {
           "text": "If you want a seat with your family, the cost can jump.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "credit-card",
+          "search": "credit card laptop",
           "gap": 0.4
         },
         {
           "text": "Other airlines followed with similar fares.",
-          "scene": "bills-documents",
-          "search": "ticket rules paper",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
           "text": "Some airlines even charge for a carry on bag on those fares.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "travel-airport",
+          "search": "airplane cabin",
           "gap": 0.4
         },
         {
           "text": "Airlines use the cheap fare to win the search results.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -11028,8 +11028,8 @@
         },
         {
           "text": "The low price gets you in, and the rules push you up.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "phone-shopping",
+          "search": "phone travel app",
           "card": "THE FUNNEL",
           "gap": 0.7
         },
@@ -11041,8 +11041,8 @@
         },
         {
           "text": "Suddenly the cheap fare costs more than the regular one.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "credit-card",
+          "search": "credit card laptop",
           "gap": 0.4
         },
         {
@@ -11053,8 +11053,8 @@
         },
         {
           "text": "Before you book, add up the total for your trip.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "travel-airport",
+          "search": "airplane cabin",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -11078,8 +11078,8 @@
         },
         {
           "text": "If they are not, the flexible fare is insurance.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "card": "THE CHECK",
           "gap": 0.7
         },
@@ -11128,8 +11128,8 @@
         },
         {
           "text": "And the store may have a financing partner that benefits from late payments.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "car-dealership",
+          "search": "car dealership",
           "gap": 0.4
         },
         {
@@ -11147,8 +11147,8 @@
         },
         {
           "text": "Miss the deadline by a day, and interest is charged back to the first day.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
@@ -11178,14 +11178,14 @@
         },
         {
           "text": "The offer works because people think they will pay it off.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
           "text": "Ask one question: is this zero percent interest, or deferred interest?",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "car-dealership",
+          "search": "car dealership",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -11197,14 +11197,14 @@
         },
         {
           "text": "Aim to finish a month early.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
           "text": "A true zero percent offer does not charge back interest.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "bank",
+          "search": "bank loan",
           "card": "THE SAFE KIND",
           "gap": 0.7
         },
@@ -11247,14 +11247,14 @@
         },
         {
           "text": "People guessed they spent about eighty six dollars a month.",
-          "scene": "research",
-          "search": "survey report",
+          "scene": "laptop-shopping",
+          "search": "laptop subscription",
           "gap": 0.4
         },
         {
           "text": "When they listed every one, the average was two hundred and nineteen.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "phone-shopping",
+          "search": "phone apps",
           "card": "THE REAL TOTAL",
           "gap": 0.7
         },
@@ -11266,14 +11266,14 @@
         },
         {
           "text": "And forty two percent said they paid for something they no longer used.",
-          "scene": "bills-documents",
-          "search": "bank statement bills",
+          "scene": "credit-card",
+          "search": "credit card bill",
           "gap": 0.4
         },
         {
           "text": "Why does it happen? Each charge is small and easy to forget.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "television sofa",
           "gap": 0.4
         },
         {
@@ -11284,20 +11284,20 @@
         },
         {
           "text": "Companies count on you forgetting, because inertia is a powerful force.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "credit-card",
+          "search": "credit card bill",
           "gap": 0.4
         },
         {
           "text": "You sign up once, and the charge repeats forever.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "phone-shopping",
+          "search": "phone apps",
           "gap": 0.4
         },
         {
           "text": "Open your bank statement and find every recurring charge.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "laptop-shopping",
+          "search": "laptop subscription",
           "card": "AUDIT NOW",
           "gap": 0.7
         },
@@ -11321,8 +11321,8 @@
         },
         {
           "text": "Ask yourself whether you would sign up for it today.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "home-sofa",
+          "search": "television sofa",
           "gap": 0.4
         },
         {
@@ -11339,8 +11339,8 @@
         },
         {
           "text": "Small leaks sink big boats.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "credit-card",
+          "search": "credit card bill",
           "card": "THE SAVINGS",
           "gap": 0.7
         },
@@ -11383,8 +11383,8 @@
         },
         {
           "text": "Here is the experiment that shows it.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "cash",
+          "search": "dollar bills",
           "gap": 0.4
         },
         {
@@ -11396,14 +11396,14 @@
         },
         {
           "text": "Would you buy another ticket?",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "thinking",
+          "search": "man thinking",
           "gap": 0.4
         },
         {
           "text": "Only forty six percent said yes.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "bank",
+          "search": "bank building",
           "gap": 0.4
         },
         {
@@ -11420,8 +11420,8 @@
         },
         {
           "text": "The money lost is exactly the same.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "cinema-popcorn",
+          "search": "cinema ticket",
           "gap": 0.4
         },
         {
@@ -11445,8 +11445,8 @@
         },
         {
           "text": "The label changes how the money feels, but the value stays the same.",
-          "scene": "brain",
-          "search": "brain thinking",
+          "scene": "cinema-popcorn",
+          "search": "cinema ticket",
           "gap": 0.4
         },
         {
@@ -11457,15 +11457,15 @@
         },
         {
           "text": "Treat every dollar as the same dollar.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "cash",
+          "search": "dollar bills",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Give big windfalls a job before you spend them.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "thinking",
+          "search": "man thinking",
           "gap": 0.4
         },
         {
@@ -11526,20 +11526,20 @@
         },
         {
           "text": "That feeling is the thrill of a deal.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "shopping-mall",
+          "search": "clothing store",
           "gap": 0.4
         },
         {
           "text": "But your closet already has three coats.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "store-sale",
+          "search": "clearance rack",
           "gap": 0.4
         },
         {
           "text": "Stores mark things down in steps to clear space for new stock.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "shopping-mall",
+          "search": "clothing store",
           "card": "THE MARKDOWN",
           "gap": 0.7
         },
@@ -11551,8 +11551,8 @@
         },
         {
           "text": "And the fear of missing out gets louder.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "crowd-shopping",
+          "search": "shoppers clothes",
           "gap": 0.4
         },
         {
@@ -11563,8 +11563,8 @@
         },
         {
           "text": "Sizes can be odd, and stock may be damaged or last season.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "shopping-bags",
+          "search": "clothes closet",
           "gap": 0.4
         },
         {
@@ -11575,8 +11575,8 @@
         },
         {
           "text": "Ask whether you would buy it at full price.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "store-sale",
+          "search": "clearance rack",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -11600,14 +11600,14 @@
         },
         {
           "text": "A cheap thing worn once is expensive.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "price-tags",
+          "search": "clearance price tag",
           "gap": 0.4
         },
         {
           "text": "Cheap but unused is the most expensive kind of cheap.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "crowd-shopping",
+          "search": "shoppers clothes",
           "gap": 0.4
         },
         {
@@ -11618,8 +11618,8 @@
         },
         {
           "text": "If you hesitate, you already know the answer.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "shopping-bags",
+          "search": "clothes closet",
           "card": "THE QUESTION",
           "gap": 0.7
         },
@@ -11668,8 +11668,8 @@
         },
         {
           "text": "The staff are friendly, and the glass keeps you at the table.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "wine",
+          "search": "cocktail drink",
           "gap": 0.4
         },
         {
@@ -11693,8 +11693,8 @@
         },
         {
           "text": "Scientists call that chasing losses.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "city-night",
+          "search": "las vegas night",
           "gap": 0.4
         },
         {
@@ -11719,7 +11719,7 @@
         {
           "text": "Casinos also know a free gift makes people feel they owe something back.",
           "scene": "cash",
-          "search": "cash dollars",
+          "search": "cash hand",
           "gap": 0.4
         },
         {
@@ -11730,8 +11730,8 @@
         },
         {
           "text": "Decide how much you can lose before you walk in.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "casino",
+          "search": "casino table",
           "card": "YOUR RULES",
           "gap": 0.7
         },
@@ -11749,14 +11749,14 @@
         },
         {
           "text": "If you do drink, lower the limit, not raise it.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "wine",
+          "search": "cocktail drink",
           "gap": 0.4
         },
         {
           "text": "The goal is to leave with your plan, not your regret.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "cash",
+          "search": "cash hand",
           "card": "PROTECT IT",
           "gap": 0.7
         },
@@ -11805,14 +11805,14 @@
         },
         {
           "text": "Bulk sounds smart and sometimes it is.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelf",
           "gap": 0.4
         },
         {
           "text": "Britain's Competition and Markets Authority found bigger packs usually have a lower unit price, but not always.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "grocery-food",
+          "search": "food packs",
           "card": "THE CHECK",
           "gap": 0.7
         },
@@ -11836,8 +11836,8 @@
         },
         {
           "text": "Why does it work? Bigger looks like a better deal.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "calculator",
+          "search": "calculator grocery",
           "gap": 0.4
         },
         {
@@ -11854,8 +11854,8 @@
         },
         {
           "text": "Look at the small number on the shelf tag.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelf",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -11867,14 +11867,14 @@
         },
         {
           "text": "Compare in the same unit, like ounces to ounces.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "grocery-food",
+          "search": "food packs",
           "gap": 0.4
         },
         {
           "text": "Divide the price by the amount, then compare.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "price-tags",
+          "search": "shelf price tag",
           "gap": 0.4
         },
         {
@@ -11885,20 +11885,20 @@
         },
         {
           "text": "Bulk also fails if the food goes bad before you eat it.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "calculator",
+          "search": "calculator grocery",
           "gap": 0.4
         },
         {
           "text": "Over a year, it adds up.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "phone-shopping",
+          "search": "phone supermarket",
           "gap": 0.4
         },
         {
           "text": "Five seconds of math can beat a coupon.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelf",
           "card": "THE HABIT",
           "gap": 0.7
         },
@@ -11947,8 +11947,8 @@
         },
         {
           "text": "It sounded fair, clean and modern.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "store-sale",
+          "search": "store sale",
           "gap": 0.4
         },
         {
@@ -11966,14 +11966,14 @@
         },
         {
           "text": "Many customers loved a sale more than the lower price itself.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "The company's sales fell about twenty five percent that year.",
-          "scene": "bills-documents",
-          "search": "financial report",
+          "scene": "store-sale",
+          "search": "store sale",
           "gap": 0.4
         },
         {
@@ -11990,8 +11990,8 @@
         },
         {
           "text": "Shoppers did not want lower prices only.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "shopping-mall",
+          "search": "department store",
           "card": "THE LESSON",
           "gap": 0.7
         },
@@ -12009,14 +12009,14 @@
         },
         {
           "text": "That feeling is a product the store sells too.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "crowd-shopping",
+          "search": "shoppers sale",
           "gap": 0.4
         },
         {
           "text": "Know the real price before you shop.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "store-sale",
+          "search": "store sale",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -12034,14 +12034,14 @@
         },
         {
           "text": "Buy when your price is hit, not when the sign shouts.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "The smartest shopper enjoys the game without playing it.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "shopping-mall",
+          "search": "department store",
           "card": "THE POWER",
           "gap": 0.7
         },
@@ -12090,8 +12090,8 @@
         },
         {
           "text": "It is a design choice, not an accident.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "grocery-food",
+          "search": "flowers market",
           "gap": 0.4
         },
         {
@@ -12109,8 +12109,8 @@
         },
         {
           "text": "You are adjusting from the street.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "supermarket-aisle",
+          "search": "supermarket aisle",
           "gap": 0.4
         },
         {
@@ -12127,8 +12127,8 @@
         },
         {
           "text": "Then comes the bakery, the meat, and the snacks.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "crowd-shopping",
+          "search": "shoppers market",
           "gap": 0.4
         },
         {
@@ -12139,14 +12139,14 @@
         },
         {
           "text": "After a few apples, a treat feels fair.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "grocery-food",
+          "search": "flowers market",
           "gap": 0.4
         },
         {
           "text": "Some shoppers then feel they earned a treat.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "checkout",
+          "search": "cashier groceries",
           "gap": 0.4
         },
         {
@@ -12164,20 +12164,20 @@
         },
         {
           "text": "Stores put basic items at the back, so you pass many tempting products.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "grocery-food",
+          "search": "flowers market",
           "gap": 0.4
         },
         {
           "text": "Buy flowers if you love them, not because the store told you to.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "supermarket-aisle",
+          "search": "supermarket aisle",
           "gap": 0.4
         },
         {
           "text": "Noticing the design takes away its power.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "crowd-shopping",
+          "search": "shoppers market",
           "card": "THE POINT",
           "gap": 0.7
         },
@@ -12220,14 +12220,14 @@
         },
         {
           "text": "The ads ran across magazines and radio for years.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "vintage",
+          "search": "old magazine",
           "gap": 0.4
         },
         {
           "text": "More doctors smoke Camels than any other cigarette.",
-          "scene": "bills-documents",
-          "search": "ad slogan paper",
+          "scene": "office-meeting",
+          "search": "advertising office",
           "gap": 0.4
         },
         {
@@ -12239,8 +12239,8 @@
         },
         {
           "text": "Who could argue with a doctor?",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "office-meeting",
+          "search": "advertising office",
           "gap": 0.4
         },
         {
@@ -12251,8 +12251,8 @@
         },
         {
           "text": "That is the authority effect: we trust people in white coats.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "office-meeting",
+          "search": "advertising office",
           "card": "THE TRUST",
           "gap": 0.7
         },
@@ -12270,8 +12270,8 @@
         },
         {
           "text": "An endorser must reflect honest opinions, and experts must really have the expertise they claim.",
-          "scene": "bills-documents",
-          "search": "law rules paper",
+          "scene": "government",
+          "search": "government building",
           "gap": 0.4
         },
         {
@@ -12288,14 +12288,14 @@
         },
         {
           "text": "The look sells before the proof does.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "office-meeting",
+          "search": "advertising office",
           "gap": 0.4
         },
         {
           "text": "Ask who paid for the claim.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "government",
+          "search": "government building",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -12319,8 +12319,8 @@
         },
         {
           "text": "Talk to your own doctor before you spend.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "vintage",
+          "search": "old magazine",
           "card": "THE RULE",
           "gap": 0.7
         },
@@ -12363,27 +12363,27 @@
         },
         {
           "text": "Some gifts are returned because they are the wrong size or color.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "gifts",
+          "search": "christmas gifts",
           "gap": 0.4
         },
         {
           "text": "The National Retail Federation expected returns in twenty twenty five to reach nearly eight hundred and fifty billion dollars.",
-          "scene": "research",
-          "search": "retail report",
+          "scene": "delivery",
+          "search": "package box",
           "gap": 0.4
         },
         {
           "text": "It said retailers expect about seventeen percent of holiday sales to come back.",
-          "scene": "bills-documents",
-          "search": "financial report",
+          "scene": "shopping-mall",
+          "search": "store counter",
           "card": "THE RETURN RATE",
           "gap": 0.7
         },
         {
           "text": "That is a lot of unwanted stuff.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "delivery",
+          "search": "package box",
           "gap": 0.4
         },
         {
@@ -12394,8 +12394,8 @@
         },
         {
           "text": "Some shorten the window, charge restocking fees, or require original packaging.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "shopping-mall",
+          "search": "store counter",
           "gap": 0.4
         },
         {
@@ -12406,8 +12406,8 @@
         },
         {
           "text": "Read the return policy at the time you buy.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "receipt",
+          "search": "receipt paper",
           "card": "YOUR PLAN",
           "gap": 0.7
         },
@@ -12431,8 +12431,8 @@
         },
         {
           "text": "Honest gifts include a way out.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "delivery",
+          "search": "package box",
           "gap": 0.4
         },
         {
@@ -12449,8 +12449,8 @@
         },
         {
           "text": "A good return turns a mistake into money again.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "shopping-mall",
+          "search": "store counter",
           "card": "THE WIN",
           "gap": 0.7
         },
@@ -12505,8 +12505,8 @@
         },
         {
           "text": "The company later said it handed out millions of those tickets.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "vintage",
+          "search": "vintage bottles",
           "gap": 0.4
         },
         {
@@ -12518,14 +12518,14 @@
         },
         {
           "text": "One estimate says about one in nine Americans got a free Coke this way.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "grocery-food",
+          "search": "coupon grocery",
           "gap": 0.4
         },
         {
           "text": "Millions of tickets went out, and the habit grew.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelves",
           "gap": 0.4
         },
         {
@@ -12568,20 +12568,20 @@
         },
         {
           "text": "Compare the coupon price with the store brand.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "vintage",
+          "search": "vintage bottles",
           "gap": 0.4
         },
         {
           "text": "If the coupon makes you spend more, skip it.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "grocery-food",
+          "search": "coupon grocery",
           "gap": 0.4
         },
         {
           "text": "A discount on something you did not need is a loss.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "factory",
+          "search": "soda bottling",
           "gap": 0.4
         },
         {
@@ -12636,8 +12636,8 @@
         },
         {
           "text": "It feels like a race.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop website",
           "card": "THE CROWD EFFECT",
           "gap": 0.7
         },
@@ -12649,8 +12649,8 @@
         },
         {
           "text": "They found one thousand eight hundred and eighteen examples of what they called dark patterns.",
-          "scene": "bills-documents",
-          "search": "research report paper",
+          "scene": "phone-shopping",
+          "search": "phone notification",
           "gap": 0.4
         },
         {
@@ -12661,8 +12661,8 @@
         },
         {
           "text": "These tools can make a shop feel busy when it is quiet.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "laptop-shopping",
+          "search": "laptop website",
           "gap": 0.4
         },
         {
@@ -12674,39 +12674,39 @@
         },
         {
           "text": "The team also found companies that sell these tricks as ready made tools.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "phone-shopping",
+          "search": "phone notification",
           "gap": 0.4
         },
         {
           "text": "Not every message is fake, but you cannot tell from the screen.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "home-sofa",
+          "search": "woman phone sofa",
           "gap": 0.4
         },
         {
           "text": "Treat urgency messages like noise.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "clock-time",
+          "search": "countdown clock",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Ask whether the message is a fact or a feeling.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "woman phone sofa",
           "gap": 0.4
         },
         {
           "text": "Close the tab, and come back tomorrow.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "laptop-shopping",
+          "search": "laptop website",
           "gap": 0.4
         },
         {
           "text": "Real deals survive a night of sleep.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "phone-shopping",
+          "search": "phone notification",
           "gap": 0.4
         },
         {
@@ -12717,14 +12717,14 @@
         },
         {
           "text": "And it will often be cheaper.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "home-sofa",
+          "search": "woman phone sofa",
           "gap": 0.4
         },
         {
           "text": "Time is the strongest tool you have.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "clock-time",
+          "search": "countdown clock",
           "card": "THE POWER",
           "gap": 0.7
         },
@@ -12779,15 +12779,15 @@
         },
         {
           "text": "Hardly anyone orders it, and that is exactly the point.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "restaurant",
+          "search": "dinner plate",
           "card": "THE DEAD OPTION",
           "gap": 0.7
         },
         {
           "text": "Next to it, the fancy dish suddenly looks like a bargain.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "wine",
+          "search": "wine dinner",
           "gap": 0.4
         },
         {
@@ -12798,8 +12798,8 @@
         },
         {
           "text": "They showed that adding a worse choice can push people toward the better one next to it.",
-          "scene": "bills-documents",
-          "search": "research paper",
+          "scene": "restaurant",
+          "search": "dinner plate",
           "gap": 0.4
         },
         {
@@ -12816,40 +12816,40 @@
         },
         {
           "text": "Later research found the effect is real, but not always strong.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "card": "THE CATCH",
           "gap": 0.7
         },
         {
           "text": "Even so, businesses keep using it, because it is cheap and often works.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "restaurant",
+          "search": "dinner plate",
           "gap": 0.4
         },
         {
           "text": "Ask which option you would pick if the decoy did not exist.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "wine",
+          "search": "wine dinner",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Compare the two real choices by what you need, not how they sit.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "gap": 0.4
         },
         {
           "text": "If the middle option looks too good, find out who it is helping.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "restaurant",
+          "search": "dinner plate",
           "gap": 0.4
         },
         {
           "text": "A good deal still looks good with the decoy removed.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "wine",
+          "search": "wine dinner",
           "card": "THE QUESTION",
           "gap": 0.7
         },
@@ -12892,20 +12892,20 @@
         },
         {
           "text": "It was the first major airline to charge for it.",
-          "scene": "cash",
-          "search": "wallet cash",
+          "scene": "travel-airport",
+          "search": "suitcase airport",
           "gap": 0.4
         },
         {
           "text": "Other airlines followed within months.",
-          "scene": "bills-documents",
-          "search": "news report",
+          "scene": "calculator",
+          "search": "calculator travel",
           "gap": 0.4
         },
         {
           "text": "Soon bag fees became normal across the industry, not a special case.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -12923,32 +12923,32 @@
         },
         {
           "text": "Fees can also cost less online than at the airport counter.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "calculator",
+          "search": "calculator travel",
           "gap": 0.4
         },
         {
           "text": "Why do they work? You pay a small fee for each part, so the total feels hidden.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "travel-airport",
+          "search": "suitcase airport",
           "gap": 0.4
         },
         {
           "text": "Researchers call it partitioned pricing.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "phone-shopping",
+          "search": "phone airline",
           "gap": 0.4
         },
         {
           "text": "Splitting a price into parts makes each part feel smaller than the whole.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "travel-airport",
+          "search": "suitcase airport",
           "gap": 0.4
         },
         {
           "text": "Add the bag fee to the ticket before you compare airlines.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -12972,8 +12972,8 @@
         },
         {
           "text": "The real price is the one with everything you need.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "calculator",
+          "search": "calculator travel",
           "card": "THE TOTAL",
           "gap": 0.7
         },
@@ -13029,14 +13029,14 @@
         },
         {
           "text": "It is often between three and five percent of the amount you move.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
           "text": "Move five thousand dollars with a three percent fee, and you pay one hundred and fifty dollars.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "bills-documents",
+          "search": "statement paper",
           "gap": 0.4
         },
         {
@@ -13047,14 +13047,14 @@
         },
         {
           "text": "Then the clock starts on the promotional period.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "bank",
+          "search": "bank interest",
           "gap": 0.4
         },
         {
           "text": "When it ends, the rate jumps back to a normal, often higher, card rate.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "credit-card",
+          "search": "credit card",
           "card": "THE CLIFF",
           "gap": 0.7
         },
@@ -13066,8 +13066,8 @@
         },
         {
           "text": "Divide the balance by the months of the offer.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "credit-card",
+          "search": "credit card",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -13079,8 +13079,8 @@
         },
         {
           "text": "If you cannot afford that payment, a transfer only delays the problem.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "bank",
+          "search": "bank interest",
           "gap": 0.4
         },
         {
@@ -13148,8 +13148,8 @@
         },
         {
           "text": "The notice may arrive in an email you never open.",
-          "scene": "bills-documents",
-          "search": "renewal email paper",
+          "scene": "laptop-shopping",
+          "search": "laptop subscription",
           "gap": 0.4
         },
         {
@@ -13166,8 +13166,8 @@
         },
         {
           "text": "Amazon did not admit wrongdoing.",
-          "scene": "research",
-          "search": "report paper",
+          "scene": "phone-shopping",
+          "search": "phone subscription",
           "gap": 0.4
         },
         {
@@ -13179,14 +13179,14 @@
         },
         {
           "text": "The case shows how subscription traps are built from small hurdles.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop subscription",
           "gap": 0.4
         },
         {
           "text": "Before you pay for a year, ask if you will use it every month.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "phone-shopping",
+          "search": "phone subscription",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -13204,14 +13204,14 @@
         },
         {
           "text": "Read the cancel rules before you hand over your card.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "calendar",
+          "search": "calendar year",
           "gap": 0.4
         },
         {
           "text": "A discount is only a discount if you keep the thing.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop subscription",
           "card": "THE RULE",
           "gap": 0.7
         },
@@ -13260,8 +13260,8 @@
         },
         {
           "text": "In nineteen eighty five, Hal Arkes and Catherine Blumer tested this at Ohio University.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "car-dealership",
+          "search": "car old",
           "gap": 0.4
         },
         {
@@ -13273,20 +13273,20 @@
         },
         {
           "text": "People who paid full price went to more plays in the first half of the season.",
-          "scene": "bills-documents",
-          "search": "ticket stubs",
+          "scene": "car-dealership",
+          "search": "car old",
           "gap": 0.4
         },
         {
           "text": "Why? They did not want to waste what they paid.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "man sofa",
           "gap": 0.4
         },
         {
           "text": "The cost was gone either way, but the pain of waste stayed.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "thinking",
+          "search": "man thinking",
           "gap": 0.4
         },
         {
@@ -13304,27 +13304,27 @@
         },
         {
           "text": "At home, it looks like a gym you hate, or a car that keeps breaking.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "cinema-popcorn",
+          "search": "theater audience",
           "gap": 0.4
         },
         {
           "text": "Ask this: if I had not spent anything yet, would I start today?",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "car-dealership",
+          "search": "car old",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "If the answer is no, stop.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "home-sofa",
+          "search": "man sofa",
           "gap": 0.4
         },
         {
           "text": "The past money is gone, but the future money is still yours.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "thinking",
+          "search": "man thinking",
           "gap": 0.4
         },
         {
@@ -13385,15 +13385,15 @@
         },
         {
           "text": "One study looked at a clothing catalog and found the effect weaker when many items had the label.",
-          "scene": "bills-documents",
-          "search": "catalog paper",
+          "scene": "store-sale",
+          "search": "sale sign",
           "card": "THE LABEL",
           "gap": 0.7
         },
         {
           "text": "So a label works partly because it is rare.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "price-tags",
+          "search": "price label",
           "gap": 0.4
         },
         {
@@ -13404,8 +13404,8 @@
         },
         {
           "text": "A word like deal makes you feel smart before you check anything.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop sale",
           "gap": 0.4
         },
         {
@@ -13428,14 +13428,14 @@
         },
         {
           "text": "But a sale price is only good if it is below the usual price.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "shopping-mall",
+          "search": "store window",
           "gap": 0.4
         },
         {
           "text": "Look for the was price, and ask if it is honest.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "store-sale",
+          "search": "sale sign",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -13447,20 +13447,20 @@
         },
         {
           "text": "Know that many items go on sale on a regular cycle.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "price-tags",
+          "search": "price label",
           "gap": 0.4
         },
         {
           "text": "If you can wait, you often will see it again.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "laptop-shopping",
+          "search": "laptop sale",
           "gap": 0.4
         },
         {
           "text": "A sign is a message, not proof.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "shopping-mall",
+          "search": "store window",
           "card": "THE SIGN",
           "gap": 0.7
         },
@@ -13522,26 +13522,26 @@
         },
         {
           "text": "Some spins paid back less than the bet but still played celebration sounds.",
-          "scene": "bills-documents",
-          "search": "study paper",
+          "scene": "coins",
+          "search": "coins falling",
           "gap": 0.4
         },
         {
           "text": "Those are called losses disguised as wins.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "casino",
+          "search": "slot machine",
           "gap": 0.4
         },
         {
           "text": "With sound on, players overestimated how often they won, about twenty four percent compared with fifteen without it.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "coins",
+          "search": "coins falling",
           "gap": 0.4
         },
         {
           "text": "Skin tests also showed stronger arousal when the sounds played.",
-          "scene": "research",
-          "search": "research report",
+          "scene": "city-night",
+          "search": "las vegas night",
           "card": "THE EFFECT",
           "gap": 0.7
         },
@@ -13553,20 +13553,20 @@
         },
         {
           "text": "Your ears reward you, even when your wallet does not.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "city-night",
+          "search": "las vegas night",
           "gap": 0.4
         },
         {
           "text": "That is the trap: it feels better, so you keep going.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "cash",
+          "search": "cash hand",
           "gap": 0.4
         },
         {
           "text": "Before you play, decide the most you will spend.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "casino",
+          "search": "slot machine",
           "card": "YOUR RULES",
           "gap": 0.7
         },
@@ -13578,20 +13578,20 @@
         },
         {
           "text": "Check your real balance, not how it feels.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "coins",
+          "search": "coins falling",
           "gap": 0.4
         },
         {
           "text": "Slot machines also show credits instead of dollars, which hides the real number.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "city-night",
+          "search": "las vegas night",
           "gap": 0.4
         },
         {
           "text": "When the money is gone, the music was never about you.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "cash",
+          "search": "cash hand",
           "card": "THE TRUTH",
           "gap": 0.7
         },
@@ -13640,8 +13640,8 @@
         },
         {
           "text": "Marketers test subject lines to find the words that make people click.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "phone-shopping",
+          "search": "phone email",
           "gap": 0.4
         },
         {
@@ -13652,8 +13652,8 @@
         },
         {
           "text": "Those messages make you act before you think.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "laptop-shopping",
+          "search": "laptop email",
           "card": "THE NUDGE",
           "gap": 0.7
         },
@@ -13671,14 +13671,14 @@
         },
         {
           "text": "Senders must include a way to opt out, and honor it within ten business days.",
-          "scene": "bills-documents",
-          "search": "law paper",
+          "scene": "phone-shopping",
+          "search": "phone email",
           "gap": 0.4
         },
         {
           "text": "Even so, unsubscribing yourself is still the surest fix.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "home-sofa",
+          "search": "woman phone",
           "gap": 0.4
         },
         {
@@ -13696,14 +13696,14 @@
         },
         {
           "text": "Make a second email address just for shopping.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "office-meeting",
+          "search": "marketing team",
           "gap": 0.4
         },
         {
           "text": "Keep the main inbox for bills, friends and work.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "phone-shopping",
+          "search": "phone email",
           "gap": 0.4
         },
         {
@@ -13720,14 +13720,14 @@
         },
         {
           "text": "You will see fewer deals, and you will spend less.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "laptop-shopping",
+          "search": "laptop email",
           "gap": 0.4
         },
         {
           "text": "Silence is the cheapest discount you can get.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "home-sofa",
+          "search": "woman phone",
           "card": "THE SAVINGS",
           "gap": 0.7
         },
@@ -13770,8 +13770,8 @@
         },
         {
           "text": "A bottle at ninety eight dollars and seventy six cents looks odd.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "gifts",
+          "search": "gift box",
           "gap": 0.4
         },
         {
@@ -13782,15 +13782,15 @@
         },
         {
           "text": "They found round prices felt right when a purchase was driven by feelings.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "price-tags",
+          "search": "price tag",
           "card": "THE FEELING",
           "gap": 0.7
         },
         {
           "text": "And non round prices felt right when a purchase was practical.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "grocery-food",
+          "search": "chocolate treats",
           "gap": 0.4
         },
         {
@@ -13826,27 +13826,27 @@
         },
         {
           "text": "An odd price says this is a smart buy.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "wine",
+          "search": "wine bottle",
           "gap": 0.4
         },
         {
           "text": "Notice which price style is being used on you.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "gifts",
+          "search": "gift box",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Then ask what you actually want, not how the number sounds.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "price-tags",
+          "search": "price tag",
           "gap": 0.4
         },
         {
           "text": "Prices speak to feelings, so listen with your head.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "grocery-food",
+          "search": "chocolate treats",
           "card": "THE MIND",
           "gap": 0.7
         },
@@ -13908,8 +13908,8 @@
         },
         {
           "text": "A new date feels like a clean page, with the old mistakes left behind.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "morning coffee",
           "gap": 0.4
         },
         {
@@ -13933,14 +13933,14 @@
         },
         {
           "text": "The effect is short, so plan for week three.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "calendar",
+          "search": "calendar january",
           "gap": 0.4
         },
         {
           "text": "Use the fresh start for one money goal.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "home-sofa",
+          "search": "morning coffee",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -13964,8 +13964,8 @@
         },
         {
           "text": "You do not need January to begin.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "clock-time",
+          "search": "clock time",
           "card": "THE RESET",
           "gap": 0.7
         },
@@ -14027,8 +14027,8 @@
         },
         {
           "text": "One group of shoppers spent about twenty percent more when a simple scent filled the air.",
-          "scene": "bills-documents",
-          "search": "research report",
+          "scene": "grocery-food",
+          "search": "bread bakery",
           "gap": 0.4
         },
         {
@@ -14039,8 +14039,8 @@
         },
         {
           "text": "The point is that smell works below your attention.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "grocery-food",
+          "search": "bread bakery",
           "gap": 0.4
         },
         {
@@ -14064,14 +14064,14 @@
         },
         {
           "text": "A hungry shopper tends to buy more than planned.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "supermarket-aisle",
+          "search": "supermarket bakery",
           "gap": 0.4
         },
         {
           "text": "Eat something before you go grocery shopping.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "coffee-shop",
+          "search": "coffee cup",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -14083,14 +14083,14 @@
         },
         {
           "text": "Buy the bread, if you love it, and keep the rest as planned.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "crowd-shopping",
+          "search": "shoppers market",
           "gap": 0.4
         },
         {
           "text": "Noticing a trick is half the way to beating it.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "grocery-food",
+          "search": "bread bakery",
           "card": "THE AWARENESS",
           "gap": 0.7
         },
@@ -14145,27 +14145,27 @@
         },
         {
           "text": "It reminded them to clearly disclose paid relationships.",
-          "scene": "bills-documents",
-          "search": "letter paper",
+          "scene": "laptop-shopping",
+          "search": "laptop video",
           "card": "THE LETTERS",
           "gap": 0.7
         },
         {
           "text": "Brands pay influencers with money, products or free trips.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "phone-shopping",
+          "search": "phone social media",
           "gap": 0.4
         },
         {
           "text": "The agency pointed to its Endorsement Guides.",
-          "scene": "research",
-          "search": "report paper",
+          "scene": "home-sofa",
+          "search": "woman phone sofa",
           "gap": 0.4
         },
         {
           "text": "Why does it matter? We trust people more than ads.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "office-meeting",
+          "search": "marketing meeting",
           "gap": 0.4
         },
         {
@@ -14189,14 +14189,14 @@
         },
         {
           "text": "That does not make the product bad.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "home-sofa",
+          "search": "woman phone sofa",
           "gap": 0.4
         },
         {
           "text": "Look for words like ad, sponsored or paid partnership.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "phone-shopping",
+          "search": "phone social media",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -14208,8 +14208,8 @@
         },
         {
           "text": "Compare the price with other options.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "office-meeting",
+          "search": "marketing meeting",
           "gap": 0.4
         },
         {
@@ -14220,14 +14220,14 @@
         },
         {
           "text": "If you buy, buy because you need it.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "home-sofa",
+          "search": "woman phone sofa",
           "gap": 0.4
         },
         {
           "text": "Trust the facts more than the face.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "phone-shopping",
+          "search": "phone social media",
           "card": "THE RULE",
           "gap": 0.7
         },
@@ -14295,21 +14295,21 @@
         },
         {
           "text": "Why did it work? Collecting made shoppers feel they earned something.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "grocery-food",
+          "search": "grocery store",
           "gap": 0.4
         },
         {
           "text": "It also brought them back to the same store.",
-          "scene": "research",
-          "search": "researcher notes",
+          "scene": "vintage",
+          "search": "vintage shop",
           "card": "THE LOYALTY TRAP",
           "gap": 0.7
         },
         {
           "text": "A full stamp book felt like money you would waste if you left.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "grocery-food",
+          "search": "grocery store",
           "gap": 0.4
         },
         {
@@ -14332,39 +14332,39 @@
         },
         {
           "text": "Ask how much you spend to get one dollar back.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "credit-card",
+          "search": "loyalty card",
           "gap": 0.4
         },
         {
           "text": "That is the sunk cost trap in a loyalty card.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelves",
           "gap": 0.4
         },
         {
           "text": "Join programs for stores you already shop at.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "vintage",
+          "search": "vintage shop",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Do not buy extra to reach a point goal.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "grocery-food",
+          "search": "grocery store",
           "gap": 0.4
         },
         {
           "text": "Check how long your points last.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "credit-card",
+          "search": "loyalty card",
           "gap": 0.4
         },
         {
           "text": "A reward is a gift only if you wanted to buy anyway.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "supermarket-aisle",
+          "search": "supermarket shelves",
           "card": "THE VALUE",
           "gap": 0.7
         },
@@ -14407,8 +14407,8 @@
         },
         {
           "text": "It was a real shed in his garden, not a restaurant.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "restaurant",
+          "search": "restaurant table",
           "gap": 0.4
         },
         {
@@ -14426,8 +14426,8 @@
         },
         {
           "text": "Eventually he admitted the joke, and removed the listing.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "thinking",
+          "search": "woman thinking",
           "gap": 0.4
         },
         {
@@ -14445,14 +14445,14 @@
         },
         {
           "text": "They paid more than three hundred and fifty thousand dollars.",
-          "scene": "bills-documents",
-          "search": "news report",
+          "scene": "laptop-shopping",
+          "search": "laptop reviews",
           "gap": 0.4
         },
         {
           "text": "In twenty twenty four, the Federal Trade Commission finalized a rule banning fake reviews.",
-          "scene": "research",
-          "search": "report paper",
+          "scene": "phone-shopping",
+          "search": "phone reviews",
           "gap": 0.4
         },
         {
@@ -14463,8 +14463,8 @@
         },
         {
           "text": "Read the three star reviews first.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "phone-shopping",
+          "search": "phone reviews",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -14488,14 +14488,14 @@
         },
         {
           "text": "Trust patterns, not stars.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "restaurant",
+          "search": "restaurant table",
           "gap": 0.4
         },
         {
           "text": "A product with thousands of five star reviews and no complaints should worry you.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "thinking",
+          "search": "woman thinking",
           "gap": 0.4
         },
         {
@@ -14550,8 +14550,8 @@
         },
         {
           "text": "The price makes the next dish feel like a reasonable decision.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "gap": 0.4
         },
         {
@@ -14562,8 +14562,8 @@
         },
         {
           "text": "That is anchoring: the first number sets your sense of normal.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "card": "THE REFERENCE",
           "gap": 0.7
         },
@@ -14581,8 +14581,8 @@
         },
         {
           "text": "Menu consultants teach restaurants to use the same effect.",
-          "scene": "bills-documents",
-          "search": "restaurant consultants menu",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "gap": 0.4
         },
         {
@@ -14593,27 +14593,27 @@
         },
         {
           "text": "The average bottle then looks fairly priced.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "gap": 0.4
         },
         {
           "text": "Decide how much you want to spend before you read the menu.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "price-tags",
+          "search": "menu price",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Ignore the top price when you judge the rest.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "restaurant",
+          "search": "restaurant menu",
           "gap": 0.4
         },
         {
           "text": "Compare dishes with each other on the same scale.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "wine",
+          "search": "wine dinner",
           "gap": 0.4
         },
         {
@@ -14624,14 +14624,14 @@
         },
         {
           "text": "Order what fits your plan, not what feels cheap next to the anchor.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "coffee-shop",
+          "search": "cafe table",
           "gap": 0.4
         },
         {
           "text": "A menu is a story about price.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "price-tags",
+          "search": "menu price",
           "card": "THE POWER",
           "gap": 0.7
         },
@@ -14675,7 +14675,7 @@
         {
           "text": "By March, you have been twice.",
           "scene": "calendar",
-          "search": "calendar planner",
+          "search": "calendar month",
           "gap": 0.4
         },
         {
@@ -14699,8 +14699,8 @@
         },
         {
           "text": "That is more than eight hundred dollars a year, for a few visits.",
-          "scene": "bills-documents",
-          "search": "bills papers",
+          "scene": "home-sofa",
+          "search": "gym treadmill",
           "gap": 0.4
         },
         {
@@ -14711,33 +14711,33 @@
         },
         {
           "text": "That works out to more than seventeen dollars a visit.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "calendar",
+          "search": "calendar month",
           "gap": 0.4
         },
         {
           "text": "But the clubs also sold ten visit passes for ten dollars a visit.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "phone-shopping",
+          "search": "phone cancel",
           "gap": 0.4
         },
         {
           "text": "The authors said people overestimate how often they will go.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "gym treadmill",
           "card": "OVERCONFIDENT",
           "gap": 0.7
         },
         {
           "text": "On average, members lost around six hundred dollars over their membership.",
-          "scene": "bills-documents",
-          "search": "research report",
+          "scene": "calendar",
+          "search": "calendar month",
           "gap": 0.4
         },
         {
           "text": "Start with a pay per visit option or a short trial.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "phone-shopping",
+          "search": "phone cancel",
           "card": "BEAT IT",
           "gap": 0.7
         },
@@ -14749,8 +14749,8 @@
         },
         {
           "text": "Gyms also make it hard to cancel in some cases.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "gym treadmill",
           "gap": 0.4
         },
         {
@@ -14761,8 +14761,8 @@
         },
         {
           "text": "Divide the fee by your visits, and see what you pay.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "calendar",
+          "search": "calendar month",
           "card": "THE REAL COST",
           "gap": 0.7
         },
@@ -14818,8 +14818,8 @@
         },
         {
           "text": "It is called hidden city ticketing.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -14843,8 +14843,8 @@
         },
         {
           "text": "In twenty nineteen, Lufthansa sued a passenger in Germany who skipped his last flight.",
-          "scene": "research",
-          "search": "report paper",
+          "scene": "travel-airport",
+          "search": "airport flight",
           "gap": 0.4
         },
         {
@@ -14855,8 +14855,8 @@
         },
         {
           "text": "This is not legal advice, but the practical risks are real.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "phone-shopping",
+          "search": "phone travel app",
           "card": "THE RISKS",
           "gap": 0.7
         },
@@ -14868,21 +14868,21 @@
         },
         {
           "text": "If an early flight changes, the rest of your ticket may be cancelled.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "bills-documents",
+          "search": "ticket paper",
           "gap": 0.4
         },
         {
           "text": "Compare normal fares on several dates first.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "travel-airport",
+          "search": "airport flight",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Know the rules of your airline, and the risk to your miles.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -14930,15 +14930,15 @@
         },
         {
           "text": "It also lifts your spending power.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "credit-card",
+          "search": "credit card",
           "card": "THE LIFT",
           "gap": 0.7
         },
         {
           "text": "You see room, and your brain wants to fill it.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "bank",
+          "search": "bank building",
           "gap": 0.4
         },
         {
@@ -14949,8 +14949,8 @@
         },
         {
           "text": "They found that when limits rose, people borrowed more soon after.",
-          "scene": "bills-documents",
-          "search": "study data paper",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
@@ -14961,8 +14961,8 @@
         },
         {
           "text": "That means a one thousand dollar increase can lead to about one hundred and thirty dollars more debt.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "shopping-bags",
+          "search": "shopping bags",
           "gap": 0.4
         },
         {
@@ -14980,15 +14980,15 @@
         },
         {
           "text": "You can say no to an increase.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "phone-shopping",
+          "search": "phone bank app",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Ask for a smaller limit if it helps you stay in control.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "credit-card",
+          "search": "credit card",
           "gap": 0.4
         },
         {
@@ -14999,14 +14999,14 @@
         },
         {
           "text": "Use a spending cap that you set yourself.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "bank",
+          "search": "bank building",
           "gap": 0.4
         },
         {
           "text": "A good limit is one you never need.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "shopping-bags",
+          "search": "shopping bags",
           "gap": 0.4
         },
         {
@@ -15049,8 +15049,8 @@
         },
         {
           "text": "You collect them for years, and then the rules shift.",
-          "scene": "wallet",
-          "search": "wallet card",
+          "scene": "credit-card",
+          "search": "credit card travel",
           "gap": 0.4
         },
         {
@@ -15061,8 +15061,8 @@
         },
         {
           "text": "In the mid twenty tens, the big airlines switched to rewarding miles by dollars spent.",
-          "scene": "bills-documents",
-          "search": "loyalty program paper",
+          "scene": "travel-airport",
+          "search": "airplane window",
           "card": "THE SHIFT",
           "gap": 0.7
         },
@@ -15074,20 +15074,20 @@
         },
         {
           "text": "Appraisals valued American's program at between nineteen and thirty one billion dollars.",
-          "scene": "research",
-          "search": "report paper",
+          "scene": "credit-card",
+          "search": "credit card travel",
           "gap": 0.4
         },
         {
           "text": "These programs are worth huge sums, and analysts say sometimes more than the airline itself.",
-          "scene": "cash",
-          "search": "cash dollars",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
           "text": "That is why they print miles like a currency.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "phone-shopping",
+          "search": "phone travel app",
           "card": "THE CURRENCY",
           "gap": 0.7
         },
@@ -15099,21 +15099,21 @@
         },
         {
           "text": "The more miles in the world, the less each one can be worth.",
-          "scene": "calculator",
-          "search": "calculator numbers",
+          "scene": "travel-airport",
+          "search": "airplane window",
           "gap": 0.4
         },
         {
           "text": "Do not hoard miles for a someday trip.",
-          "scene": "journal-list",
-          "search": "notebook pen",
+          "scene": "credit-card",
+          "search": "credit card travel",
           "card": "BEAT IT",
           "gap": 0.7
         },
         {
           "text": "Use them when you find a good deal.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "laptop-shopping",
+          "search": "laptop flight booking",
           "gap": 0.4
         },
         {
@@ -15124,14 +15124,14 @@
         },
         {
           "text": "Never pay interest on a card to earn miles.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "travel-airport",
+          "search": "airplane window",
           "gap": 0.4
         },
         {
           "text": "Miles are worth most when they are fresh.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "credit-card",
+          "search": "credit card travel",
           "card": "THE TIP",
           "gap": 0.7
         },
@@ -15174,8 +15174,8 @@
         },
         {
           "text": "Many people take the fifty.",
-          "scene": "thinking",
-          "search": "man thinking",
+          "scene": "clock-time",
+          "search": "clock time",
           "gap": 0.4
         },
         {
@@ -15187,26 +15187,26 @@
         },
         {
           "text": "He showed that people discount the near future much harder than the far one.",
-          "scene": "bills-documents",
-          "search": "research paper",
+          "scene": "clock-time",
+          "search": "clock time",
           "gap": 0.4
         },
         {
           "text": "Researchers also call this hyperbolic discounting.",
-          "scene": "brain",
-          "search": "brain head",
+          "scene": "home-sofa",
+          "search": "man sofa",
           "gap": 0.4
         },
         {
           "text": "We are patient when we plan, and impatient when the moment arrives.",
-          "scene": "clock-time",
-          "search": "clock hands",
+          "scene": "shopping-bags",
+          "search": "shopping bags",
           "gap": 0.4
         },
         {
           "text": "Tomorrow's you looks like a stranger to today's you.",
-          "scene": "cash",
-          "search": "cash coins",
+          "scene": "bank",
+          "search": "bank savings",
           "gap": 0.4
         },
         {
@@ -15229,8 +15229,8 @@
         },
         {
           "text": "The fix is to decide in advance, when you are patient.",
-          "scene": "wallet",
-          "search": "wallet cash",
+          "scene": "calendar",
+          "search": "calendar year",
           "card": "THE FIX",
           "gap": 0.7
         },
@@ -15242,14 +15242,14 @@
         },
         {
           "text": "Even twenty dollars a week adds up over a full year.",
-          "scene": "savings-jar",
-          "search": "savings jar",
+          "scene": "clock-time",
+          "search": "clock time",
           "gap": 0.4
         },
         {
           "text": "Make the future step the default one.",
-          "scene": "calendar",
-          "search": "calendar planner",
+          "scene": "home-sofa",
+          "search": "man sofa",
           "gap": 0.4
         },
         {
