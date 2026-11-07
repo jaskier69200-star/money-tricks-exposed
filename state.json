@@ -1,1 +1,41 @@
-{"en": [], "slots": {"en": {"2026-11-07 08:00": "launch-day-evening-only"}}}
+{
+  "en": [
+    "the-middle-size-trap"
+  ],
+  "slots": {
+    "en": {
+      "2026-11-07 08:00": "launch-day-evening-only",
+      "2026-11-07 20:00": "the-middle-size-trap"
+    }
+  },
+  "posts": [
+    {
+      "id": "6aef0ddbc498b3f6459edc47",
+      "lang": "en",
+      "topic": "the-middle-size-trap",
+      "title": "The middle size trap",
+      "when": "2026-11-07T19:52:00"
+    }
+  ],
+  "recent_clips": [
+    "cinema-popcorn-4",
+    "pixabay_25058",
+    "cinema-popcorn-1",
+    "checkout-4",
+    "pixabay_247343",
+    "pixabay_6391",
+    "cinema-popcorn-3",
+    "pixabay_51722",
+    "cinema-popcorn-2",
+    "pixabay_40353",
+    "thinking-5",
+    "pixabay_1735",
+    "coffee-shop-3",
+    "pixabay_233382",
+    "journal-list-4",
+    "restaurant-2",
+    "pixabay_50623",
+    "pixabay_2795",
+    "city-night-1"
+  ]
+}
