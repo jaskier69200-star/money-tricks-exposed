@@ -1,0 +1,7137 @@
+[
+ {
+  "id": "fake-original-prices",
+  "lines": [
+   {
+    "text": "That crossed out price may never have been real.",
+    "scene": "store-sale",
+    "search": "clothing store sale",
+    "card": "THE FAKE PRICE",
+    "gap": 0.7
+   },
+   {
+    "text": "Picture a shirt with a tag that says sixty dollars, now thirty.",
+    "scene": "price-tags",
+    "search": "shirt price tag",
+    "gap": 0.4
+   },
+   {
+    "text": "You feel like you just saved thirty dollars.",
+    "scene": "thinking",
+    "search": "woman shopping clothes",
+    "gap": 0.4
+   },
+   {
+    "text": "But what if the shirt was never sold for sixty?",
+    "scene": "shopping-bags",
+    "search": "shopping bags woman",
+    "gap": 0.4
+   },
+   {
+    "text": "The Federal Trade Commission says a former price should be one the store really charged.",
+    "scene": "government",
+    "search": "federal building washington",
+    "gap": 0.4
+   },
+   {
+    "text": "Critics say some stores post a high price just to cross it out.",
+    "scene": "store-sale",
+    "search": "sale sign store",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty fifteen, J C Penney agreed to pay fifty million dollars to settle a California sale price lawsuit.",
+    "scene": "courtroom",
+    "search": "courtroom gavel",
+    "card": "THE LAWSUIT",
+    "gap": 0.7
+   },
+   {
+    "text": "One shopper said her blouses were marked down from thirty dollars to about eighteen.",
+    "scene": "receipt",
+    "search": "receipt hand",
+    "gap": 0.4
+   },
+   {
+    "text": "The company denied the claims, but agreed to change its pricing practices.",
+    "scene": "clock-time",
+    "search": "clock wall",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it work? Your brain grabs the first number it sees.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE ANCHOR",
+    "gap": 0.7
+   },
+   {
+    "text": "Psychologists call it anchoring.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "Once sixty is in your head, thirty feels like a gift.",
+    "scene": "thinking",
+    "search": "man thinking shopping",
+    "gap": 0.4
+   },
+   {
+    "text": "So let us break the spell.",
+    "scene": "laptop-shopping",
+    "search": "laptop online shopping",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare the item at two other stores before you decide.",
+    "scene": "phone-shopping",
+    "search": "phone price comparison",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Watch the price for a week, and see where it really sits.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask yourself one question: would I pay this if the tag said nothing else?",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "The only number that matters is the one you actually pay.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "WHAT YOU PAY",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tricks that stores hope you never notice.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "That crossed out original price on the tag may never have been real, so here is how to spot fake discounts and save money.",
+  "hashtags": "#moneytips #savemoney #shoppingtips #sales"
+ },
+ {
+  "id": "money-and-happiness",
+  "lines": [
+   {
+    "text": "More money does not buy happiness, except when it does.",
+    "scene": "brain",
+    "search": "brain thinking",
+    "card": "MONEY AND JOY",
+    "gap": 0.7
+   },
+   {
+    "text": "For years, people repeated one famous number.",
+    "scene": "thinking",
+    "search": "man thinking window",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty ten, Daniel Kahneman and Angus Deaton reported that daily happiness stopped rising near seventy five thousand dollars.",
+    "scene": "research",
+    "search": "scientist notes",
+    "gap": 0.4
+   },
+   {
+    "text": "It became a headline everywhere.",
+    "scene": "office-meeting",
+    "search": "office meeting",
+    "gap": 0.4
+   },
+   {
+    "text": "Then in twenty twenty one, Matthew Killingsworth found happiness kept rising with income.",
+    "scene": "research",
+    "search": "researcher laptop",
+    "card": "THE TWIST",
+    "gap": 0.7
+   },
+   {
+    "text": "Two respected experts, and two different answers.",
+    "scene": "coins",
+    "search": "coins stack",
+    "gap": 0.4
+   },
+   {
+    "text": "So they teamed up, and Kahneman joined the new study in twenty twenty three.",
+    "scene": "office-meeting",
+    "search": "professors meeting",
+    "gap": 0.4
+   },
+   {
+    "text": "Their answer was that both were partly right.",
+    "scene": "research",
+    "search": "data chart screen",
+    "gap": 0.4
+   },
+   {
+    "text": "For most people, happiness kept rising as income rose.",
+    "scene": "home-sofa",
+    "search": "woman sofa smiling",
+    "gap": 0.4
+   },
+   {
+    "text": "For the unhappiest group, it rose and then flattened out.",
+    "scene": "thinking",
+    "search": "sad woman window",
+    "card": "THE EXCEPTION",
+    "gap": 0.7
+   },
+   {
+    "text": "The researchers said that group faces problems money cannot fix, like grief or depression.",
+    "scene": "bills-documents",
+    "search": "bills desk",
+    "gap": 0.4
+   },
+   {
+    "text": "So money helps most when it buys you less stress.",
+    "scene": "wallet",
+    "search": "wallet money",
+    "gap": 0.4
+   },
+   {
+    "text": "Think of bills paid on time, and a small cushion for emergencies.",
+    "scene": "calendar",
+    "search": "calendar family",
+    "gap": 0.4
+   },
+   {
+    "text": "That cushion may buy more calm than any big purchase.",
+    "scene": "savings-jar",
+    "search": "savings jar coins",
+    "card": "THE CUSHION",
+    "gap": 0.7
+   },
+   {
+    "text": "Money is a tool for a calmer life, not a score.",
+    "scene": "cash",
+    "search": "cash hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Spend on what you will still smile about next year.",
+    "scene": "journal-list",
+    "search": "notebook writing",
+    "card": "WORTH IT",
+    "gap": 0.7
+   },
+   {
+    "text": "If this helped, follow for more money truths.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Does more money make you happier? A big study found a surprising answer about income, happiness and how to spend smart.",
+  "hashtags": "#moneytips #psychology #happiness #personalfinance"
+ },
+ {
+  "id": "phantom-debt",
+  "lines": [
+   {
+    "text": "You may owe more than you think you do.",
+    "scene": "phone-shopping",
+    "search": "phone checkout online",
+    "card": "THE HIDDEN DEBT",
+    "gap": 0.7
+   },
+   {
+    "text": "Imagine a jacket for two hundred dollars.",
+    "scene": "checkout",
+    "search": "online checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "At checkout, you see four easy payments of fifty dollars.",
+    "scene": "credit-card",
+    "search": "credit card hand",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels small. It feels harmless.",
+    "scene": "thinking",
+    "search": "woman phone smiling",
+    "gap": 0.4
+   },
+   {
+    "text": "Then you do it again for shoes, and again for a gift.",
+    "scene": "calendar",
+    "search": "calendar months",
+    "gap": 0.4
+   },
+   {
+    "text": "Soon you have six plans running at once, each with its own date.",
+    "scene": "laptop-shopping",
+    "search": "laptop shopping woman",
+    "gap": 0.4
+   },
+   {
+    "text": "None of them looks big, but together they add up.",
+    "scene": "bills-documents",
+    "search": "bills stack",
+    "card": "THE PILE",
+    "gap": 0.7
+   },
+   {
+    "text": "The Consumer Financial Protection Bureau has studied this kind of borrowing.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "A twenty twenty five report found about six in ten borrowers held several loans at once.",
+    "scene": "research",
+    "search": "report papers",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it work? Splitting a price makes it feel lighter.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Researchers call it the pain of paying, and small slices numb it.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "Meanwhile your bank account sees every payment on its due date.",
+    "scene": "bank",
+    "search": "bank account",
+    "gap": 0.4
+   },
+   {
+    "text": "Miss one, and fees can follow.",
+    "scene": "thinking",
+    "search": "man worried bills",
+    "gap": 0.4
+   },
+   {
+    "text": "So how do you beat it?",
+    "scene": "journal-list",
+    "search": "notebook list",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Add up every payment plan you have, and write the total.",
+    "scene": "calculator",
+    "search": "calculator desk",
+    "gap": 0.4
+   },
+   {
+    "text": "Then ask if you could pay the full price today.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "If you could not, wait and save first.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to see what is really hiding in the fine print.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Buy now pay later splits a purchase into small bites, and that can hide how much you really owe.",
+  "hashtags": "#moneytips #buynowpaylater #debt #personalfinance"
+ },
+ {
+  "id": "the-light-bulb-cartel",
+  "lines": [
+   {
+    "text": "Light bulbs were once designed to burn out sooner.",
+    "scene": "factory",
+    "search": "light bulb factory",
+    "card": "THE BULB CARTEL",
+    "gap": 0.7
+   },
+   {
+    "text": "Think about the bulb in your reading lamp at home.",
+    "scene": "home-sofa",
+    "search": "lamp light bulb",
+    "gap": 0.4
+   },
+   {
+    "text": "In nineteen twenty four, bulb makers met in Geneva, in Switzerland.",
+    "scene": "vintage",
+    "search": "vintage light bulb",
+    "gap": 0.4
+   },
+   {
+    "text": "Companies from four countries sat at one table.",
+    "scene": "office-meeting",
+    "search": "business meeting men",
+    "gap": 0.4
+   },
+   {
+    "text": "They formed a group called Phoebus, and agreed to cap the life of a household bulb at one thousand hours.",
+    "scene": "factory",
+    "search": "factory production line",
+    "card": "THE PHOEBUS DEAL",
+    "gap": 0.7
+   },
+   {
+    "text": "Before that, historians say, bulbs often lasted fifteen hundred hours.",
+    "scene": "research",
+    "search": "laboratory testing",
+    "gap": 0.4
+   },
+   {
+    "text": "Each factory sent samples to a lab in Switzerland, and paid fines if its bulbs lasted too long.",
+    "scene": "bills-documents",
+    "search": "fine paper documents",
+    "gap": 0.4
+   },
+   {
+    "text": "Yes, fines for making a better bulb.",
+    "scene": "clock-time",
+    "search": "clock hours",
+    "gap": 0.4
+   },
+   {
+    "text": "The logic was simple: a bulb that dies sooner gets bought again sooner.",
+    "scene": "brain",
+    "search": "brain thinking",
+    "card": "THE LOGIC",
+    "gap": 0.7
+   },
+   {
+    "text": "The group faded by the nineteen forties, as patents expired and wars broke old deals apart.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "Meanwhile, a bulb in a California fire station has glowed since nineteen oh one.",
+    "scene": "vintage",
+    "search": "old light bulb fire station",
+    "card": "THE SURVIVOR",
+    "gap": 0.7
+   },
+   {
+    "text": "Not every product is built to fail, but the idea has a name: planned obsolescence.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "You can protect your wallet from it.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Check the warranty length before you buy anything expensive.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "WARRANTY FIRST",
+    "gap": 0.7
+   },
+   {
+    "text": "Search whether the item can be repaired, and whether spare parts exist.",
+    "scene": "laptop-shopping",
+    "search": "repair laptop",
+    "gap": 0.4
+   },
+   {
+    "text": "Keep receipts for big purchases, so a warranty claim is easy.",
+    "scene": "receipt",
+    "search": "receipt hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Sometimes the cheapest option is paying more for something that lasts.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "BUY ONCE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more stories about who really profits when things break.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Light bulb makers once agreed to cap bulb life at one thousand hours, a true story about planned obsolescence and how to buy things that last.",
+  "hashtags": "#moneytips #history #planedobsolescence #savemoney"
+ },
+ {
+  "id": "no-clocks-no-windows",
+  "lines": [
+   {
+    "text": "Casinos hiding every clock is only half true.",
+    "scene": "casino",
+    "search": "casino floor",
+    "card": "THE CLOCK MYTH",
+    "gap": 0.7
+   },
+   {
+    "text": "The usual story goes like this.",
+    "scene": "thinking",
+    "search": "man thinking watch",
+    "gap": 0.4
+   },
+   {
+    "text": "No clocks, no windows, so you lose track of time.",
+    "scene": "casino",
+    "search": "casino slot machines",
+    "gap": 0.4
+   },
+   {
+    "text": "But casino designer Bill Friedman, who wrote a famous design book, called that a myth.",
+    "scene": "research",
+    "search": "book library",
+    "gap": 0.4
+   },
+   {
+    "text": "He said serious players asked for fewer distractions, not casino owners.",
+    "scene": "city-night",
+    "search": "las vegas night",
+    "gap": 0.4
+   },
+   {
+    "text": "And the Bellagio in Las Vegas was built with high ceilings, skylights and antique clocks.",
+    "scene": "casino",
+    "search": "casino chandelier",
+    "gap": 0.4
+   },
+   {
+    "text": "What Friedman did recommend was a maze of machines and low ceilings.",
+    "scene": "gaming",
+    "search": "slot machine",
+    "card": "THE REAL DESIGN",
+    "gap": 0.7
+   },
+   {
+    "text": "Winding paths keep you walking past one more game, and one more chance to play.",
+    "scene": "crowd-shopping",
+    "search": "crowd casino",
+    "gap": 0.4
+   },
+   {
+    "text": "Writers on gambling describe a trance called the machine zone.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "It is the feeling that hours vanished while you played.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "You do not need a hidden clock to lose track of time.",
+    "scene": "clock-time",
+    "search": "clock face",
+    "card": "THE LOST HOURS",
+    "gap": 0.7
+   },
+   {
+    "text": "You only need to be absorbed.",
+    "scene": "home-sofa",
+    "search": "phone alarm bed",
+    "gap": 0.4
+   },
+   {
+    "text": "So set your limits before you walk in.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Pick a number of minutes, and put an alarm on your phone.",
+    "scene": "phone-shopping",
+    "search": "phone alarm",
+    "card": "SET AN ALARM",
+    "gap": 0.7
+   },
+   {
+    "text": "Bring only the cash you can afford to lose, and leave your cards in the room.",
+    "scene": "cash",
+    "search": "cash envelope",
+    "gap": 0.4
+   },
+   {
+    "text": "When the money is gone, the night is over.",
+    "scene": "wallet",
+    "search": "wallet money",
+    "gap": 0.4
+   },
+   {
+    "text": "Entertainment should have a price you set first.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "YOUR CALL",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for the real design secrets behind places built to hold your attention.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The idea that casinos hide clocks to trap you is half myth, and here is what casino design really does and how to stay in control.",
+  "hashtags": "#moneytips #casino #psychology #personalfinance"
+ },
+ {
+  "id": "the-thirty-day-list",
+  "lines": [
+   {
+    "text": "The best sale might be the one you skip.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THIRTY DAY LIST",
+    "gap": 0.7
+   },
+   {
+    "text": "You are scrolling, and a gadget catches your eye.",
+    "scene": "phone-shopping",
+    "search": "phone online store",
+    "gap": 0.4
+   },
+   {
+    "text": "Two taps and it is yours.",
+    "scene": "checkout",
+    "search": "online checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "There is a trick for that moment, and it costs nothing at all.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Federal law gives a short cooling off period for some sales made at your home.",
+    "scene": "government",
+    "search": "government building law",
+    "card": "THE LAW GAP",
+    "gap": 0.7
+   },
+   {
+    "text": "But for most store and online purchases, there is no such rule.",
+    "scene": "shopping-mall",
+    "search": "shopping mall store",
+    "gap": 0.4
+   },
+   {
+    "text": "So you have to build your own.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Start a note on your phone called the thirty day list.",
+    "scene": "journal-list",
+    "search": "notebook list pen",
+    "card": "THE LIST",
+    "gap": 0.7
+   },
+   {
+    "text": "When you want something, write it down with the date and the price.",
+    "scene": "phone-shopping",
+    "search": "phone notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Then wait a full thirty days before you buy it.",
+    "scene": "calendar",
+    "search": "calendar month",
+    "gap": 0.4
+   },
+   {
+    "text": "Most urges fade, because the excitement was never really about the item.",
+    "scene": "thinking",
+    "search": "man thinking window",
+    "gap": 0.4
+   },
+   {
+    "text": "Psychologists say wanting and liking are different things in the brain.",
+    "scene": "research",
+    "search": "researcher laptop",
+    "gap": 0.4
+   },
+   {
+    "text": "Wanting is the rush, and the rush passes.",
+    "scene": "cash",
+    "search": "cash hand",
+    "gap": 0.4
+   },
+   {
+    "text": "If you still want it, you buy it with a clear head.",
+    "scene": "savings-jar",
+    "search": "savings jar coins",
+    "card": "MOVE IT",
+    "gap": 0.7
+   },
+   {
+    "text": "If not, move the price into your savings.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Add up what you skipped at the end of the year.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Follow for more habits that quietly beat the tricks.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A simple thirty day list can stop impulse buys, save money and help you buy only what you truly want.",
+  "hashtags": "#moneytips #savemoney #impulsebuying #budgeting"
+ },
+ {
+  "id": "anchoring-prices",
+  "lines": [
+   {
+    "text": "A random number can change what things seem worth.",
+    "scene": "casino",
+    "search": "roulette wheel",
+    "card": "THE ANCHOR",
+    "gap": 0.7
+   },
+   {
+    "text": "In nineteen seventy four, psychologists Amos Tversky and Daniel Kahneman ran a strange experiment.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "They spun a wheel that was rigged to stop at ten or sixty five.",
+    "scene": "casino",
+    "search": "wheel of fortune",
+    "gap": 0.4
+   },
+   {
+    "text": "Then they asked people what percent of African countries were in the United Nations.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "People who saw ten guessed about twenty five.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE RESULT",
+    "gap": 0.7
+   },
+   {
+    "text": "People who saw sixty five guessed about forty five.",
+    "scene": "research",
+    "search": "results chart",
+    "gap": 0.4
+   },
+   {
+    "text": "The wheel meant nothing, and still it pulled their answers a long way.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores use that pull every day.",
+    "scene": "price-tags",
+    "search": "price tag",
+    "gap": 0.4
+   },
+   {
+    "text": "A car with a high sticker price makes the discount feel generous.",
+    "scene": "car-dealership",
+    "search": "car dealership",
+    "gap": 0.4
+   },
+   {
+    "text": "A fancy dish on the menu makes the next one look fair.",
+    "scene": "restaurant",
+    "search": "restaurant menu",
+    "gap": 0.4
+   },
+   {
+    "text": "Whoever names the first number sets the frame for everything after it.",
+    "scene": "price-tags",
+    "search": "price tags rack",
+    "gap": 0.4
+   },
+   {
+    "text": "To beat it, decide your own number before you look.",
+    "scene": "wallet",
+    "search": "wallet money",
+    "card": "THE FIX",
+    "gap": 0.7
+   },
+   {
+    "text": "Write down what the item is worth to you.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "gap": 0.4
+   },
+   {
+    "text": "Then compare real prices from three different places.",
+    "scene": "laptop-shopping",
+    "search": "laptop price comparison",
+    "gap": 0.4
+   },
+   {
+    "text": "If you negotiate, say your number first.",
+    "scene": "office-meeting",
+    "search": "business negotiation",
+    "card": "NAME IT FIRST",
+    "gap": 0.7
+   },
+   {
+    "text": "You will drag the final price toward your side.",
+    "scene": "coins",
+    "search": "coins hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Follow for more ways your brain gets nudged without you noticing.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Anchoring is the quiet trick that makes the first price you see feel normal, and a famous wheel of fortune experiment proves it.",
+  "hashtags": "#moneytips #psychology #anchoring #negotiation"
+ },
+ {
+  "id": "the-shelf-at-your-kids-eye-level",
+  "lines": [
+   {
+    "text": "The best shelf spot is not at your eye level.",
+    "scene": "supermarket-aisle",
+    "search": "cereal aisle supermarket",
+    "card": "EYE LEVEL",
+    "gap": 0.7
+   },
+   {
+    "text": "Walk down the cereal aisle with a child, and watch the boxes.",
+    "scene": "grocery-food",
+    "search": "cereal boxes",
+    "gap": 0.4
+   },
+   {
+    "text": "The sugary ones are often lower down.",
+    "scene": "crowd-shopping",
+    "search": "child shopping cart",
+    "gap": 0.4
+   },
+   {
+    "text": "Marketers know that children ask, and tired parents often give in.",
+    "scene": "thinking",
+    "search": "mother child supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "The trade even has a name for it: pester power.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE PESTER POWER",
+    "gap": 0.7
+   },
+   {
+    "text": "Shelf space is also something food companies can pay for, and pay a lot.",
+    "scene": "factory",
+    "search": "food factory",
+    "gap": 0.4
+   },
+   {
+    "text": "These payments are called slotting fees, and the Federal Trade Commission has studied them.",
+    "scene": "bills-documents",
+    "search": "contract documents",
+    "card": "THE SHELF FEE",
+    "gap": 0.7
+   },
+   {
+    "text": "The best spots can go to whoever pays the store, not whoever is cheapest for you.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "So the box in front of you is not always the best deal.",
+    "scene": "price-tags",
+    "search": "shelf price label",
+    "gap": 0.4
+   },
+   {
+    "text": "Look at the top shelf and the bottom shelf instead.",
+    "scene": "grocery-food",
+    "search": "oatmeal cereal bag",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare the price per ounce, not the price of the box.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Tell your kids the rule before you even enter the store.",
+    "scene": "journal-list",
+    "search": "shopping list",
+    "gap": 0.4
+   },
+   {
+    "text": "Let them choose one treat, and put it on the list.",
+    "scene": "checkout",
+    "search": "supermarket checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "A clear plan turns begging into a small game they can win.",
+    "scene": "shopping-bags",
+    "search": "shopping cart groceries",
+    "gap": 0.4
+   },
+   {
+    "text": "You keep the budget, and they keep a say.",
+    "scene": "home-sofa",
+    "search": "family kitchen",
+    "card": "THE WIN",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow if you want to shop smarter than the shelf expects.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The cereal your child begs for sits low on purpose, and here is how supermarket shelf placement works and how to shop smarter.",
+  "hashtags": "#moneytips #supermarket #parenting #savemoney"
+ },
+ {
+  "id": "scarcity-marketing",
+  "lines": [
+   {
+    "text": "Only two left in stock may mean nothing at all.",
+    "scene": "phone-shopping",
+    "search": "phone online store",
+    "card": "ONLY TWO LEFT",
+    "gap": 0.7
+   },
+   {
+    "text": "In nineteen seventy five, psychologist Stephen Worchel ran a cookie experiment.",
+    "scene": "cinema-popcorn",
+    "search": "cookie jar",
+    "gap": 0.4
+   },
+   {
+    "text": "People tasted cookies from a jar with ten, or a jar with two.",
+    "scene": "home-sofa",
+    "search": "cookies plate",
+    "gap": 0.4
+   },
+   {
+    "text": "They liked the cookies from the almost empty jar more.",
+    "scene": "thinking",
+    "search": "woman tasting",
+    "card": "THE COOKIE JAR",
+    "gap": 0.7
+   },
+   {
+    "text": "Same cookie, but fewer of them.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "When something looks rare, your brain assumes it must be good.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Travel sites use that all the time.",
+    "scene": "travel-airport",
+    "search": "hotel room",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty nineteen, a British consumer group tested hotel booking messages.",
+    "scene": "laptop-shopping",
+    "search": "laptop hotel booking",
+    "gap": 0.4
+   },
+   {
+    "text": "Britain's Competition and Markets Authority had pushed booking sites to be clearer.",
+    "scene": "government",
+    "search": "government regulator",
+    "gap": 0.4
+   },
+   {
+    "text": "The group found about half of the only one room left messages on one big site gave a misleading picture.",
+    "scene": "bills-documents",
+    "search": "report paper",
+    "card": "THE TEST",
+    "gap": 0.7
+   },
+   {
+    "text": "Online stores add countdowns, low stock bars and limited editions.",
+    "scene": "store-sale",
+    "search": "sale sign",
+    "gap": 0.4
+   },
+   {
+    "text": "Sometimes the shortage is real, but often it is a nudge.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "Wait one day, and see if the item returns.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Set a price alert, and let the store come to you.",
+    "scene": "phone-shopping",
+    "search": "phone price alert",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask if you would want it at all without the warning.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Real bargains can wait for a calm mind.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "CALM WINS",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow so you never miss the next trick, because we are not running out.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Only two left! Scarcity makes things feel more valuable, and a famous cookie jar study shows why, with ways to stay calm when you shop.",
+  "hashtags": "#moneytips #scarcity #psychology #shoppingtips"
+ },
+ {
+  "id": "the-psychology-of-christmas-shopping",
+  "lines": [
+   {
+    "text": "Some money spent on gifts may be wasted.",
+    "scene": "gifts",
+    "search": "christmas gifts",
+    "card": "THE GIFT PROBLEM",
+    "gap": 0.7
+   },
+   {
+    "text": "In nineteen ninety three, economist Joel Waldfogel decided to measure it.",
+    "scene": "research",
+    "search": "economist office",
+    "gap": 0.4
+   },
+   {
+    "text": "He surveyed students about gifts they got at Christmas.",
+    "scene": "bills-documents",
+    "search": "survey questionnaire",
+    "gap": 0.4
+   },
+   {
+    "text": "They said they valued the gifts at about eighty four cents for every dollar spent.",
+    "scene": "thinking",
+    "search": "student thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "That means a gap between what givers pay and what receivers value.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "card": "THE GAP",
+    "gap": 0.7
+   },
+   {
+    "text": "Later studies disagreed on the size, and some found little gap at all.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "But the idea still helps you think before you buy.",
+    "scene": "gifts",
+    "search": "gift wrap",
+    "gap": 0.4
+   },
+   {
+    "text": "Malls turn on lights, music and sales to make buying feel like love.",
+    "scene": "shopping-mall",
+    "search": "shopping mall christmas",
+    "gap": 0.4
+   },
+   {
+    "text": "Deadlines like last day for delivery add a little panic.",
+    "scene": "store-sale",
+    "search": "store sale christmas",
+    "card": "THE PRESSURE",
+    "gap": 0.7
+   },
+   {
+    "text": "Panic makes people pay more, think less, and buy things nobody needed.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Start with a budget, then divide it by the names on your list.",
+    "scene": "journal-list",
+    "search": "gift list notebook",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Ask people for a wish list, or ask what they actually need.",
+    "scene": "phone-shopping",
+    "search": "phone wish list",
+    "gap": 0.4
+   },
+   {
+    "text": "A gift card is often better than a guess.",
+    "scene": "gifts",
+    "search": "gift card",
+    "gap": 0.4
+   },
+   {
+    "text": "Remember that time and attention are gifts too, and they cost nothing.",
+    "scene": "home-sofa",
+    "search": "family christmas dinner",
+    "gap": 0.4
+   },
+   {
+    "text": "Spend well on the people, not on the pressure.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE GOAL",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more holiday tricks before the next shopping rush.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Why holiday gifts and sales can make us overspend, and what economists found when they asked whether Christmas gifts are worth what we pay.",
+  "hashtags": "#moneytips #christmas #giftideas #savemoney"
+ },
+ {
+  "id": "why-we-have-price-tags",
+  "lines": [
+   {
+    "text": "Once, nothing in the shop had a price.",
+    "scene": "vintage",
+    "search": "old market street",
+    "card": "PRICE TAGS",
+    "gap": 0.7
+   },
+   {
+    "text": "You walked in and the seller looked you over.",
+    "scene": "crowd-shopping",
+    "search": "market haggling",
+    "gap": 0.4
+   },
+   {
+    "text": "A rich looking customer might hear a higher price.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "A poor looking one might get a lower one.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "In eighteen sixty one, John Wanamaker opened Oak Hall in Philadelphia.",
+    "scene": "vintage",
+    "search": "old store philadelphia",
+    "card": "THE ONE PRICE",
+    "gap": 0.7
+   },
+   {
+    "text": "He is often credited with spreading a new idea: put the price right on the goods.",
+    "scene": "price-tags",
+    "search": "price tag",
+    "gap": 0.4
+   },
+   {
+    "text": "His motto was one price, and goods returnable.",
+    "scene": "shopping-bags",
+    "search": "shopping bags",
+    "gap": 0.4
+   },
+   {
+    "text": "He was not the only merchant to try fixed prices.",
+    "scene": "research",
+    "search": "historian books",
+    "gap": 0.4
+   },
+   {
+    "text": "But department stores helped make it normal.",
+    "scene": "shopping-mall",
+    "search": "department store",
+    "gap": 0.4
+   },
+   {
+    "text": "Fixed prices meant everyone walking in paid the same price.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE TRUST",
+    "gap": 0.7
+   },
+   {
+    "text": "That made shopping faster, and fairer for people who hated haggling.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Today your phone can show you the same item in ten different stores.",
+    "scene": "laptop-shopping",
+    "search": "laptop online shopping",
+    "gap": 0.4
+   },
+   {
+    "text": "But the tag still has a few tricks left in it.",
+    "scene": "thinking",
+    "search": "woman phone smiling",
+    "card": "THE TWIST",
+    "gap": 0.7
+   },
+   {
+    "text": "The number printed on it is only the start of the story.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Check what is included, what is extra, and what it costs per use.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "gap": 0.4
+   },
+   {
+    "text": "A price tag is information, not a verdict.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "SMARTER NOW",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more money history that explains your wallet today.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Before price tags, shoppers haggled over everything, so here is the story of how fixed prices changed shopping forever.",
+  "hashtags": "#moneytips #history #pricetags #shopping"
+ },
+ {
+  "id": "one-click-buying",
+  "lines": [
+   {
+    "text": "The easiest button on your phone is the costliest.",
+    "scene": "phone-shopping",
+    "search": "phone buy button",
+    "card": "ONE CLICK",
+    "gap": 0.7
+   },
+   {
+    "text": "Online shopping used to need forms, long steps and a lot of typing.",
+    "scene": "laptop-shopping",
+    "search": "laptop online order",
+    "gap": 0.4
+   },
+   {
+    "text": "Every step gave you a little time to think twice about it.",
+    "scene": "checkout",
+    "search": "online checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "In nineteen ninety seven, Amazon filed a patent for one click ordering.",
+    "scene": "vintage",
+    "search": "patent paper office",
+    "card": "THE PATENT",
+    "gap": 0.7
+   },
+   {
+    "text": "It was granted in nineteen ninety nine.",
+    "scene": "bills-documents",
+    "search": "patent document",
+    "gap": 0.4
+   },
+   {
+    "text": "Apple licensed the idea in two thousand.",
+    "scene": "tap-to-pay",
+    "search": "tap to pay phone",
+    "gap": 0.4
+   },
+   {
+    "text": "The patent expired in twenty seventeen, and now buy now buttons are everywhere.",
+    "scene": "clock-time",
+    "search": "calendar date",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it work? Paying hurts a little, and friction makes the hurt feel real.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "PAIN OF PAYING",
+    "gap": 0.7
+   },
+   {
+    "text": "Researchers call this the pain of paying.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "Remove the steps and the pain disappears before you notice.",
+    "scene": "credit-card",
+    "search": "credit card",
+    "gap": 0.4
+   },
+   {
+    "text": "You are left holding the item, and later the bill.",
+    "scene": "thinking",
+    "search": "man thinking phone",
+    "gap": 0.4
+   },
+   {
+    "text": "To beat it, turn off one click ordering if you can.",
+    "scene": "phone-shopping",
+    "search": "phone settings",
+    "card": "ADD FRICTION",
+    "gap": 0.7
+   },
+   {
+    "text": "Put things in your cart, and leave them there overnight.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "In the morning, ask yourself whether you still really want it.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "gap": 0.4
+   },
+   {
+    "text": "If you do, it will still be there.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A single night is the cheapest brake you will ever own.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE PAUSE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow to learn which other buttons are built to hurry you.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "One click buying removes the pause where you might change your mind, so here is the patent story and how to put friction back.",
+  "hashtags": "#moneytips #onlineshopping #amazon #savemoney"
+ },
+ {
+  "id": "menu-engineering",
+  "lines": [
+   {
+    "text": "Your menu was designed before you ever sat down.",
+    "scene": "restaurant",
+    "search": "restaurant menu",
+    "card": "MENU ENGINEERING",
+    "gap": 0.7
+   },
+   {
+    "text": "Restaurants study which dishes make money and which only look good.",
+    "scene": "coffee-shop",
+    "search": "restaurant waiter",
+    "gap": 0.4
+   },
+   {
+    "text": "Then they arrange the menu to steer you.",
+    "scene": "thinking",
+    "search": "woman reading menu",
+    "gap": 0.4
+   },
+   {
+    "text": "In a Cornell University study, diners got menus with prices written three ways.",
+    "scene": "research",
+    "search": "researcher laptop",
+    "gap": 0.4
+   },
+   {
+    "text": "With dollar signs, with numbers only, or spelled out in words.",
+    "scene": "price-tags",
+    "search": "menu prices",
+    "card": "THE DOLLAR SIGN",
+    "gap": 0.7
+   },
+   {
+    "text": "The numbers only menu got the highest spending.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Researchers think the dollar sign may remind you that you are paying.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Another study looked at where dishes sit in a list.",
+    "scene": "research",
+    "search": "menu study notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Items at the beginning or end of a category were up to twice as popular as those in the middle.",
+    "scene": "restaurant",
+    "search": "menu list dishes",
+    "card": "THE EDGES",
+    "gap": 0.7
+   },
+   {
+    "text": "So the dish in the middle may be the one you never see.",
+    "scene": "wine",
+    "search": "wine glass table",
+    "gap": 0.4
+   },
+   {
+    "text": "Menus also use boxes, photos and flowery names to pull your eyes.",
+    "scene": "thinking",
+    "search": "man thinking restaurant",
+    "gap": 0.4
+   },
+   {
+    "text": "None of that is illegal, and some of it is just good design.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Read the whole menu, middle included.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Pick what you want first, then look at the price.",
+    "scene": "cash",
+    "search": "cash tip",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask yourself if you would order it without the fancy words.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Once you see the design, it loses its grip.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE POWER",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more secrets from behind the menu.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Restaurant menus are designed to guide your order, with tricks like dollar signs, boxes and positions, and here is how to read them.",
+  "hashtags": "#moneytips #restaurants #menu #psychology"
+ },
+ {
+  "id": "seat-selection-fees",
+  "lines": [
+   {
+    "text": "Picking your seat is a business of its own.",
+    "scene": "travel-airport",
+    "search": "airplane seat",
+    "card": "SEAT FEES",
+    "gap": 0.7
+   },
+   {
+    "text": "You find a flight for ninety nine dollars.",
+    "scene": "thinking",
+    "search": "woman booking flight",
+    "gap": 0.4
+   },
+   {
+    "text": "Then the seat map shows little squares with prices on them.",
+    "scene": "laptop-shopping",
+    "search": "laptop flight booking",
+    "gap": 0.4
+   },
+   {
+    "text": "Choose a seat, and the flight suddenly gets more expensive.",
+    "scene": "thinking",
+    "search": "woman thinking airport",
+    "gap": 0.4
+   },
+   {
+    "text": "Airlines call this unbundling: sell the flight cheap, then charge for every extra.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THE UNBUNDLE",
+    "gap": 0.7
+   },
+   {
+    "text": "Families have felt it most.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "A twenty twenty four law told the Department of Transportation to ban fees for seating young children beside a parent.",
+    "scene": "bills-documents",
+    "search": "law paper",
+    "card": "THE FAMILY RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "The rule was proposed that August, but check its status before you fly.",
+    "scene": "research",
+    "search": "report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "The fee works because you fear a middle seat and a bad trip.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "That fear is the real product being sold to you.",
+    "scene": "travel-airport",
+    "search": "airport check in",
+    "gap": 0.4
+   },
+   {
+    "text": "Seats are often assigned free at check in.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Check in as early as you can, because the best free seats go first.",
+    "scene": "phone-shopping",
+    "search": "phone airline app",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare the total price with the fee included, then decide.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "gap": 0.4
+   },
+   {
+    "text": "Sometimes a pricier fare with the seat included is actually the cheaper choice.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Do the math before you click yes, and keep the saved money.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE MATH",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more travel tricks before you book your next flight.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Airlines charge to choose your seat, and here is why basic fares leave you stuck, what the family seating rules say, and how to skip the fee.",
+  "hashtags": "#moneytips #travel #airlines #savemoney"
+ },
+ {
+  "id": "how-credit-card-interest-grows",
+  "lines": [
+   {
+    "text": "A small credit card balance can grow while you sleep.",
+    "scene": "credit-card",
+    "search": "credit card",
+    "card": "COMPOUND PAIN",
+    "gap": 0.7
+   },
+   {
+    "text": "Most cards charge interest every single day.",
+    "scene": "bank",
+    "search": "bank statement",
+    "gap": 0.4
+   },
+   {
+    "text": "It is added to your balance, then tomorrow you pay interest on that too.",
+    "scene": "calculator",
+    "search": "calculator interest",
+    "gap": 0.4
+   },
+   {
+    "text": "The Federal Reserve reported that accounts charged interest averaged about twenty two percent in twenty twenty five.",
+    "scene": "research",
+    "search": "research report",
+    "card": "THE RATE",
+    "gap": 0.7
+   },
+   {
+    "text": "That is far more than most savings accounts pay you.",
+    "scene": "thinking",
+    "search": "woman thinking bills",
+    "gap": 0.4
+   },
+   {
+    "text": "Now picture a thousand dollars left unpaid.",
+    "scene": "bills-documents",
+    "search": "credit card bill",
+    "gap": 0.4
+   },
+   {
+    "text": "Pay only the minimum, and the balance barely moves for months.",
+    "scene": "calendar",
+    "search": "calendar months",
+    "gap": 0.4
+   },
+   {
+    "text": "The minimum payment is set to feel easy.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE MINIMUM TRAP",
+    "gap": 0.7
+   },
+   {
+    "text": "A federal law from two thousand nine made cards print how long minimum payments would take.",
+    "scene": "government",
+    "search": "government building law",
+    "gap": 0.4
+   },
+   {
+    "text": "Look for that line on your statement.",
+    "scene": "bills-documents",
+    "search": "statement papers",
+    "gap": 0.4
+   },
+   {
+    "text": "It is usually much longer than people expect.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Pay the full statement balance every month if you can.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "If you cannot, put extra money toward the card with the highest rate.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Set up automatic payments so you never pay a late fee on top.",
+    "scene": "phone-shopping",
+    "search": "phone bank app",
+    "gap": 0.4
+   },
+   {
+    "text": "Small extra payments shrink the snowball fast.",
+    "scene": "cash",
+    "search": "cash hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Interest works for banks, unless you make it work for you.",
+    "scene": "coins",
+    "search": "coins stack",
+    "card": "THE FLIP",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to keep the math on your side.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Credit card interest grows quietly every day, so here is how it works, what average rates look like and how to stop it from snowballing.",
+  "hashtags": "#moneytips #creditcards #debt #personalfinance"
+ },
+ {
+  "id": "streaming-price-hikes",
+  "lines": [
+   {
+    "text": "Your streaming bill keeps rising, quietly.",
+    "scene": "home-sofa",
+    "search": "tv streaming couch",
+    "card": "THE SLOW HIKE",
+    "gap": 0.7
+   },
+   {
+    "text": "In January twenty twenty five, Netflix raised its standard plan in the United States.",
+    "scene": "phone-shopping",
+    "search": "phone streaming app",
+    "gap": 0.4
+   },
+   {
+    "text": "It went from fifteen dollars and forty nine cents to seventeen dollars and ninety nine cents.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "That is a bump of two dollars and fifty cents every single month.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Over a year, it adds thirty dollars.",
+    "scene": "calendar",
+    "search": "calendar year",
+    "gap": 0.4
+   },
+   {
+    "text": "Most people just keep paying, because switching feels like work.",
+    "scene": "thinking",
+    "search": "man thinking tv",
+    "gap": 0.4
+   },
+   {
+    "text": "That is the point of a small increase.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE DEFAULT",
+    "gap": 0.7
+   },
+   {
+    "text": "It is too small to feel, while cancelling takes time and effort.",
+    "scene": "research",
+    "search": "researcher laptop",
+    "gap": 0.4
+   },
+   {
+    "text": "Services also push you toward bundles and annual plans.",
+    "scene": "bills-documents",
+    "search": "bills papers",
+    "gap": 0.4
+   },
+   {
+    "text": "Meanwhile, you may have signed up for five of them over the years.",
+    "scene": "laptop-shopping",
+    "search": "laptop streaming accounts",
+    "gap": 0.4
+   },
+   {
+    "text": "Make a list of every service and its monthly price.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Keep one or two at a time, and rotate each month.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Set a reminder to cancel the day after a show ends.",
+    "scene": "phone-shopping",
+    "search": "phone reminder",
+    "gap": 0.4
+   },
+   {
+    "text": "Cheaper plans with ads can cut the cost, if you can live with the breaks.",
+    "scene": "coins",
+    "search": "coins hand",
+    "gap": 0.4
+   },
+   {
+    "text": "You can still watch everything you love, just not all at the same time.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE ROTATION",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to take back your monthly bills.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Streaming prices keep going up, so here is how small monthly increases add up and how to keep your entertainment budget under control.",
+  "hashtags": "#moneytips #streaming #netflix #subscriptions"
+ },
+ {
+  "id": "loss-aversion",
+  "lines": [
+   {
+    "text": "Losing money hurts more than finding it feels good.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "LOSS AVERSION",
+    "gap": 0.7
+   },
+   {
+    "text": "Psychologists call it loss aversion.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "Daniel Kahneman and Amos Tversky made the idea famous, and Kahneman later won a Nobel Prize.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "In a study from nineteen ninety, researchers gave some students a coffee mug.",
+    "scene": "research",
+    "search": "coffee mugs experiment",
+    "card": "THE MUG TEST",
+    "gap": 0.7
+   },
+   {
+    "text": "They asked the mug owners what price they would sell it for.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Students without a mug were asked what they would be willing to pay.",
+    "scene": "coins",
+    "search": "coins hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Sellers asked for about seven dollars, more than twice as much.",
+    "scene": "calculator",
+    "search": "results chart",
+    "gap": 0.4
+   },
+   {
+    "text": "Buyers offered about three.",
+    "scene": "wallet",
+    "search": "wallet money",
+    "gap": 0.4
+   },
+   {
+    "text": "Owning the mug, even for a few minutes, made giving it up feel like a loss.",
+    "scene": "thinking",
+    "search": "woman holding mug",
+    "card": "THE OWNERSHIP",
+    "gap": 0.7
+   },
+   {
+    "text": "Stores know this, and use it on purpose.",
+    "scene": "store-sale",
+    "search": "store free trial",
+    "gap": 0.4
+   },
+   {
+    "text": "Free trials and money back offers let you own something first.",
+    "scene": "shopping-bags",
+    "search": "shopping bags return",
+    "gap": 0.4
+   },
+   {
+    "text": "Giving it back then feels like losing something that was already yours.",
+    "scene": "laptop-shopping",
+    "search": "laptop subscription",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask yourself if you would buy it today, at this price.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Treat every free trial as a test with a hard end date.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Set the cancel reminder the moment you sign up.",
+    "scene": "phone-shopping",
+    "search": "phone reminder",
+    "gap": 0.4
+   },
+   {
+    "text": "Notice the feeling, name it, and let your head make the final call.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE SHIFT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more mind tricks that cost people money.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Losing hurts more than winning feels good, a bias called loss aversion, so here is how a famous coffee mug experiment shows it and how to use it.",
+  "hashtags": "#moneytips #psychology #lossaversion #behavioraleconomics"
+ },
+ {
+  "id": "compare-at-prices",
+  "lines": [
+   {
+    "text": "Compare at is not the same as was.",
+    "scene": "price-tags",
+    "search": "price tag compare",
+    "card": "COMPARE AT",
+    "gap": 0.7
+   },
+   {
+    "text": "You see a jacket for fifty dollars and compare at one hundred and twenty.",
+    "scene": "store-sale",
+    "search": "store sale rack",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels like a steal.",
+    "scene": "thinking",
+    "search": "woman shopping",
+    "gap": 0.4
+   },
+   {
+    "text": "But compare at to what, and where?",
+    "scene": "laptop-shopping",
+    "search": "laptop price comparison",
+    "gap": 0.4
+   },
+   {
+    "text": "The Federal Trade Commission warns that a comparison price must be honest.",
+    "scene": "government",
+    "search": "government building",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "California also requires that a former price was the prevailing price in the last three months.",
+    "scene": "courtroom",
+    "search": "courtroom judge",
+    "gap": 0.4
+   },
+   {
+    "text": "Rules like these exist because of games played with price tags.",
+    "scene": "bills-documents",
+    "search": "law book",
+    "gap": 0.4
+   },
+   {
+    "text": "Shoppers often assume outlets sell leftovers from the main store.",
+    "scene": "shopping-mall",
+    "search": "outlet store",
+    "card": "THE OUTLET WORLD",
+    "gap": 0.7
+   },
+   {
+    "text": "Some items are made only for outlets, in different quality.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Either way, compare at invites you to feel smart.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Search the exact product name and model number online.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Use a price history tool, and see what it really sold for in recent months.",
+    "scene": "phone-shopping",
+    "search": "phone price check",
+    "gap": 0.4
+   },
+   {
+    "text": "Judge by quality and need, not by the crossed out number on the tag.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "The only discount that matters is against what you would have paid.",
+    "scene": "cash",
+    "search": "cash wallet",
+    "gap": 0.4
+   },
+   {
+    "text": "Is this worth the money I will actually hand over today?",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE QUESTION",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tag tricks and how to read them like a pro.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The compare at price on the tag may not be what anyone paid, so here is how to read it and how to find the real price.",
+  "hashtags": "#moneytips #savemoney #shoppingtips #sales"
+ },
+ {
+  "id": "casino-carpets",
+  "lines": [
+   {
+    "text": "Casino carpets are loud on purpose, designers say.",
+    "scene": "casino",
+    "search": "casino carpet",
+    "card": "THE LOUD CARPET",
+    "gap": 0.7
+   },
+   {
+    "text": "It is bright, busy, and wild.",
+    "scene": "crowd-shopping",
+    "search": "casino floor crowd",
+    "gap": 0.4
+   },
+   {
+    "text": "The carpet is not there for you to admire.",
+    "scene": "thinking",
+    "search": "woman looking down",
+    "gap": 0.4
+   },
+   {
+    "text": "Some casino designers say loud patterns keep your eyes up on the machines, not down on the floor.",
+    "scene": "research",
+    "search": "designer notes",
+    "card": "THE DESIGN IDEA",
+    "gap": 0.7
+   },
+   {
+    "text": "They also hide spills and wear in a place with heavy foot traffic.",
+    "scene": "casino",
+    "search": "slot machines casino",
+    "gap": 0.4
+   },
+   {
+    "text": "There is little hard research on any of that, so treat it as design theory.",
+    "scene": "gaming",
+    "search": "slot machine",
+    "gap": 0.4
+   },
+   {
+    "text": "But the idea fits a much bigger pattern in how casinos are built.",
+    "scene": "thinking",
+    "search": "man thinking casino",
+    "gap": 0.4
+   },
+   {
+    "text": "Casino floors are often laid out as a maze of machines, with few straight lines.",
+    "scene": "casino",
+    "search": "casino maze",
+    "card": "THE MAZE",
+    "gap": 0.7
+   },
+   {
+    "text": "Writer Natasha Dow Schull spent years studying gamblers and machines.",
+    "scene": "city-night",
+    "search": "las vegas night",
+    "gap": 0.4
+   },
+   {
+    "text": "Her book, Addiction by Design, came out in twenty twelve.",
+    "scene": "research",
+    "search": "book researcher",
+    "gap": 0.4
+   },
+   {
+    "text": "It describes how the whole space and the machines can pull people into a rhythm.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Hours pass quietly, and the money goes with them.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "card": "THE RHYTHM",
+    "gap": 0.7
+   },
+   {
+    "text": "Decide your budget and your time before you go in.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Take only that cash, and nothing else.",
+    "scene": "cash",
+    "search": "cash envelope",
+    "gap": 0.4
+   },
+   {
+    "text": "Leave when either one runs out, no exceptions.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Never chase a loss, because the house edge does not care.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "SET LIMITS",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more on how places are built to keep you inside.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Casino carpets are loud and wild for a reason, and here is the design idea behind them and how to protect your money inside a casino.",
+  "hashtags": "#moneytips #casino #design #psychology"
+ },
+ {
+  "id": "shopping-lists",
+  "lines": [
+   {
+    "text": "The best money tool costs nothing.",
+    "scene": "grocery-food",
+    "search": "grocery cart",
+    "card": "THE LIST",
+    "gap": 0.7
+   },
+   {
+    "text": "You walk in for milk and bread.",
+    "scene": "supermarket-aisle",
+    "search": "supermarket aisle",
+    "gap": 0.4
+   },
+   {
+    "text": "You walk out with a full cart.",
+    "scene": "shopping-bags",
+    "search": "cart groceries",
+    "gap": 0.4
+   },
+   {
+    "text": "How did that happen?",
+    "scene": "thinking",
+    "search": "woman thinking grocery",
+    "gap": 0.4
+   },
+   {
+    "text": "A twenty twenty study found that wandering glances led to more unplanned purchases in the cart.",
+    "scene": "research",
+    "search": "eye tracking study",
+    "card": "WANDERING EYE",
+    "gap": 0.7
+   },
+   {
+    "text": "The researcher suggested a shopping list to keep attention on target.",
+    "scene": "bills-documents",
+    "search": "study paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Estimates of unplanned buying vary a lot, depending on how researchers count it.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "But stores plan for it anyway.",
+    "scene": "crowd-shopping",
+    "search": "crowded supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "Displays, free samples and big signs all pull your eyes away from the plan.",
+    "scene": "price-tags",
+    "search": "end display supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "A good list starts at home, in your kitchen.",
+    "scene": "journal-list",
+    "search": "notebook shopping list",
+    "card": "BUILD IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Check the fridge and the cupboards first, then write what you really need.",
+    "scene": "home-sofa",
+    "search": "kitchen fridge",
+    "gap": 0.4
+   },
+   {
+    "text": "Put a rough price next to each item, and add them up before you go.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Eat before you go, because hunger makes everything on the shelf look good.",
+    "scene": "shopping-mall",
+    "search": "supermarket entrance",
+    "gap": 0.4
+   },
+   {
+    "text": "Use your phone for the list, and stick to the aisles you need.",
+    "scene": "phone-shopping",
+    "search": "phone grocery app",
+    "gap": 0.4
+   },
+   {
+    "text": "Leave one small treat line, so that you do not feel punished.",
+    "scene": "cash",
+    "search": "cash wallet",
+    "gap": 0.4
+   },
+   {
+    "text": "A list turns a giant store into a short, easy walk.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RESULT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more grocery habits that keep money in your pocket.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A shopping list protects you from impulse buys, so here is the research on wandering eyes and how to build a list that works.",
+  "hashtags": "#moneytips #groceries #budgeting #savemoney"
+ },
+ {
+  "id": "the-first-price-you-see",
+  "lines": [
+   {
+    "text": "Even experts are fooled by the first price they see.",
+    "scene": "price-tags",
+    "search": "price tag high",
+    "card": "THE FIRST PRICE",
+    "gap": 0.7
+   },
+   {
+    "text": "In nineteen eighty seven, two researchers tested real estate agents.",
+    "scene": "office-meeting",
+    "search": "real estate agents meeting",
+    "gap": 0.4
+   },
+   {
+    "text": "Each agent toured the same house and got the same facts.",
+    "scene": "home-sofa",
+    "search": "house for sale",
+    "gap": 0.4
+   },
+   {
+    "text": "Only one thing changed: the asking price on the listing.",
+    "scene": "bills-documents",
+    "search": "listing paper house",
+    "gap": 0.4
+   },
+   {
+    "text": "Agents who saw a higher asking price valued the house at thousands of dollars more.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE ASKING PRICE",
+    "gap": 0.7
+   },
+   {
+    "text": "Agents who saw a lower one valued it lower.",
+    "scene": "thinking",
+    "search": "man thinking house",
+    "gap": 0.4
+   },
+   {
+    "text": "Afterward, the agents said the asking price had not influenced them.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "It had, and by a lot.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Car lots, furniture stores and online shops all start with a big first number.",
+    "scene": "car-dealership",
+    "search": "car dealership",
+    "gap": 0.4
+   },
+   {
+    "text": "The discount that follows feels like a gift.",
+    "scene": "shopping-mall",
+    "search": "shopping mall store",
+    "gap": 0.4
+   },
+   {
+    "text": "But the gift was measured from a number they chose.",
+    "scene": "coins",
+    "search": "coins hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Before you shop, write down what you think a fair price is.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "STEP ONE",
+    "gap": 0.7
+   },
+   {
+    "text": "Look at three sold prices, not three asking prices.",
+    "scene": "laptop-shopping",
+    "search": "laptop price comparison",
+    "gap": 0.4
+   },
+   {
+    "text": "For big buys, get a quote from a place that is not selling to you.",
+    "scene": "bank",
+    "search": "bank loan",
+    "gap": 0.4
+   },
+   {
+    "text": "Be ready to walk away from a number you did not choose.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "WALK AWAY",
+    "gap": 0.7
+   },
+   {
+    "text": "The price you pay should come from your head and your budget.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Follow to see through more of the numbers thrown at you.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The first price you see can quietly change what you think is fair, even for experts, so here is the real estate study and how to resist it.",
+  "hashtags": "#moneytips #psychology #anchoring #negotiation"
+ },
+ {
+  "id": "end-of-aisle-displays",
+  "lines": [
+   {
+    "text": "End of aisle displays are not always deals.",
+    "scene": "supermarket-aisle",
+    "search": "supermarket aisle end",
+    "card": "THE END CAP",
+    "gap": 0.7
+   },
+   {
+    "text": "Piles of soda, chips and cereal stacked into a tower.",
+    "scene": "grocery-food",
+    "search": "soda display supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "Prices on those towers are sometimes the same as on the regular shelf.",
+    "scene": "thinking",
+    "search": "woman looking display",
+    "gap": 0.4
+   },
+   {
+    "text": "It looks like a sale.",
+    "scene": "shopping-bags",
+    "search": "woman shopping grocery",
+    "gap": 0.4
+   },
+   {
+    "text": "Sometimes it is, but sometimes it is only a display.",
+    "scene": "store-sale",
+    "search": "sale sign supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "Food companies can pay for prime spots, and stores can accept.",
+    "scene": "bills-documents",
+    "search": "contract paper",
+    "card": "THE PAID SPOT",
+    "gap": 0.7
+   },
+   {
+    "text": "Retail research has long shown that displays and signs lift sales.",
+    "scene": "research",
+    "search": "retail researcher",
+    "gap": 0.4
+   },
+   {
+    "text": "One common finding is that shoppers read a display as proof of a discount.",
+    "scene": "grocery-food",
+    "search": "grocery display chips",
+    "gap": 0.4
+   },
+   {
+    "text": "Sometimes even when the price did not move.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "You see a stack and your brain says everyone else is buying it.",
+    "scene": "crowd-shopping",
+    "search": "crowded store aisle",
+    "gap": 0.4
+   },
+   {
+    "text": "It is a shortcut that saves you from comparing.",
+    "scene": "shopping-bags",
+    "search": "shopping cart",
+    "card": "THE SHORTCUT",
+    "gap": 0.7
+   },
+   {
+    "text": "The shelf tag tells you the actual price per unit, and a display often hides it.",
+    "scene": "price-tags",
+    "search": "price label shelf",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores love when you skip comparing.",
+    "scene": "receipt",
+    "search": "shelf price label",
+    "gap": 0.4
+   },
+   {
+    "text": "Treat an end display as a suggestion.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Check the price per ounce, and compare it with the regular shelf.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Look at the shelf label, not the big sign.",
+    "scene": "phone-shopping",
+    "search": "phone price check",
+    "gap": 0.4
+   },
+   {
+    "text": "Remember that a pile is not a promise of a low price.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Buy it only if it was already on your list.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A display is just a billboard made of food.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to read a store like a map.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The big display at the end of the aisle is not always a bargain, so here is why stores put products there and how to check the real price.",
+  "hashtags": "#moneytips #supermarket #groceries #savemoney"
+ },
+ {
+  "id": "social-proof",
+  "lines": [
+   {
+    "text": "You copy other people more than you think.",
+    "scene": "crowd-shopping",
+    "search": "crowd people",
+    "card": "SOCIAL PROOF",
+    "gap": 0.7
+   },
+   {
+    "text": "Imagine a card in a hotel bathroom asking you to reuse your towel.",
+    "scene": "travel-airport",
+    "search": "hotel bathroom towels",
+    "gap": 0.4
+   },
+   {
+    "text": "In a famous study, researchers changed the words on that card.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "One card talked about the environment.",
+    "scene": "thinking",
+    "search": "woman reading card",
+    "gap": 0.4
+   },
+   {
+    "text": "Another said most guests in this room reuse their towels.",
+    "scene": "home-sofa",
+    "search": "hotel room bed",
+    "card": "THE TOWEL STUDY",
+    "gap": 0.7
+   },
+   {
+    "text": "The room based message beat the usual environmental appeal.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "People follow what similar people did in a similar place.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Retailers know that a crowd makes a choice feel safe and low risk.",
+    "scene": "bank",
+    "search": "bank customers",
+    "gap": 0.4
+   },
+   {
+    "text": "Online stores use the same trick with stars, reviews and best seller badges.",
+    "scene": "laptop-shopping",
+    "search": "laptop reviews",
+    "gap": 0.4
+   },
+   {
+    "text": "Thousands of people liked this, so you might too.",
+    "scene": "phone-shopping",
+    "search": "phone app store",
+    "gap": 0.4
+   },
+   {
+    "text": "A badge tells you what is popular, not what is good for you.",
+    "scene": "store-sale",
+    "search": "best seller shelf",
+    "card": "THE BADGE",
+    "gap": 0.7
+   },
+   {
+    "text": "The crowd can be wrong, and it can also be bought.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Read the three star reviews first, because they are usually the most honest.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Ask what the product does for you, not for everyone.",
+    "scene": "laptop-shopping",
+    "search": "laptop product review",
+    "gap": 0.4
+   },
+   {
+    "text": "Check the price against what you actually need.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "If most people buy it, ask whether most people have your needs.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Popular is a fact about other people.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Your budget belongs to you alone.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "YOUR CHOICE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tricks that use the crowd against you.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "When other people do it, you feel safer doing it too, so here is the hotel towel study and how social proof is used to sell you things.",
+  "hashtags": "#moneytips #psychology #socialproof #marketing"
+ },
+ {
+  "id": "gift-cards-nobody-uses",
+  "lines": [
+   {
+    "text": "Gift cards in your drawer are free money left behind.",
+    "scene": "gifts",
+    "search": "gift card",
+    "card": "FORGOTTEN CARD",
+    "gap": 0.7
+   },
+   {
+    "text": "A Bankrate survey in twenty twenty four asked Americans about them.",
+    "scene": "wallet",
+    "search": "wallet gift cards",
+    "gap": 0.4
+   },
+   {
+    "text": "About forty three percent said they had at least one unused gift card, voucher or store credit.",
+    "scene": "research",
+    "search": "survey report",
+    "gap": 0.4
+   },
+   {
+    "text": "The average unused amount was two hundred and forty four dollars.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "And about a third said they had lost money on a gift card.",
+    "scene": "bills-documents",
+    "search": "bills papers",
+    "card": "THE LOSS",
+    "gap": 0.7
+   },
+   {
+    "text": "Twenty percent let one expire, and seventeen percent lost one.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it happen? A gift card feels like play money.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Some cards are never used, and that money stays with the store.",
+    "scene": "shopping-mall",
+    "search": "shopping mall",
+    "gap": 0.4
+   },
+   {
+    "text": "You spend a little more than the card, which is good for the store.",
+    "scene": "thinking",
+    "search": "woman thinking gift",
+    "gap": 0.4
+   },
+   {
+    "text": "Put a note on your phone with the store and the balance.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "USE IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Take a photo of the card, front and back.",
+    "scene": "phone-shopping",
+    "search": "phone reminder",
+    "gap": 0.4
+   },
+   {
+    "text": "Look for expiration dates, and use older cards first.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Use cards for things you already buy, like groceries.",
+    "scene": "grocery-food",
+    "search": "grocery store cart",
+    "gap": 0.4
+   },
+   {
+    "text": "Do not spend extra just to use up the balance.",
+    "scene": "coins",
+    "search": "coins hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Check whether the store has an online balance tool.",
+    "scene": "bank",
+    "search": "bank website",
+    "gap": 0.4
+   },
+   {
+    "text": "Can you sell or swap it for cash? Check first.",
+    "scene": "wallet",
+    "search": "wallet money",
+    "card": "THE TRADE",
+    "gap": 0.7
+   },
+   {
+    "text": "Even a partial value beats nothing.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Follow for more tricks to stop leaving money on the table.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Millions of Americans leave gift cards unused, so here is what a Bankrate survey found and how to use every dollar.",
+  "hashtags": "#moneytips #giftcards #savemoney #holidays"
+ },
+ {
+  "id": "the-first-credit-card",
+  "lines": [
+   {
+    "text": "The first credit card was almost a mistake.",
+    "scene": "vintage",
+    "search": "vintage restaurant diner",
+    "card": "THE FIRST CARD",
+    "gap": 0.7
+   },
+   {
+    "text": "In nineteen fifty, Diners Club launched in New York.",
+    "scene": "restaurant",
+    "search": "restaurant dinner",
+    "gap": 0.4
+   },
+   {
+    "text": "About two hundred people got the card, good in fourteen restaurants.",
+    "scene": "credit-card",
+    "search": "diners club card",
+    "gap": 0.4
+   },
+   {
+    "text": "The famous story says the founder forgot his wallet at dinner.",
+    "scene": "thinking",
+    "search": "man thinking dinner",
+    "gap": 0.4
+   },
+   {
+    "text": "That story may be a legend, but the card was real.",
+    "scene": "research",
+    "search": "historian books",
+    "gap": 0.4
+   },
+   {
+    "text": "Then in September nineteen fifty eight, Bank of America mailed sixty thousand cards to people in Fresno.",
+    "scene": "bank",
+    "search": "bank branch",
+    "card": "THE FRESNO DROP",
+    "gap": 0.7
+   },
+   {
+    "text": "Nobody had asked for them.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Each person got instant credit of a few hundred dollars.",
+    "scene": "city-night",
+    "search": "california town street",
+    "gap": 0.4
+   },
+   {
+    "text": "It was chaotic, and the program lost twenty million dollars in its first year.",
+    "scene": "bills-documents",
+    "search": "bills papers",
+    "gap": 0.4
+   },
+   {
+    "text": "The idea was that merchants would take cards, and banks would take a fee.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "But the idea stuck, and credit cards became part of daily life.",
+    "scene": "credit-card",
+    "search": "credit card hand",
+    "card": "THE BIG SHIFT",
+    "gap": 0.7
+   },
+   {
+    "text": "Plastic changed how we feel about spending.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "You no longer hand over cash that you can count.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Instead you sign for a bill that arrives later.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "A card is a great tool when you pay it off every month.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "USE IT WELL",
+    "gap": 0.7
+   },
+   {
+    "text": "It becomes a trap when you do not.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Treat it like cash, because the bill comes either way.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more money history that explains your wallet.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The first credit card was made of paper and mailed to strangers, and here is how Diners Club and the Fresno drop changed money forever.",
+  "hashtags": "#moneytips #history #creditcards #finance"
+ },
+ {
+  "id": "saved-cards",
+  "lines": [
+   {
+    "text": "Your saved card is making spending too easy.",
+    "scene": "credit-card",
+    "search": "credit card online",
+    "card": "SAVED CARDS",
+    "gap": 0.7
+   },
+   {
+    "text": "Remember the last time you bought something online?",
+    "scene": "laptop-shopping",
+    "search": "laptop checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "You did not type a number, because the site already had it.",
+    "scene": "phone-shopping",
+    "search": "phone checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "That small change removes a pause.",
+    "scene": "tap-to-pay",
+    "search": "tap to pay phone",
+    "gap": 0.4
+   },
+   {
+    "text": "Researchers call paying a pain, and friction is what makes you feel it.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Without friction, the pain disappears, and so does your hesitation.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "There is a safety side as well.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THE SAFETY SIDE",
+    "gap": 0.7
+   },
+   {
+    "text": "Under federal law, your liability for stolen credit card charges is limited to fifty dollars.",
+    "scene": "government",
+    "search": "government building law",
+    "gap": 0.4
+   },
+   {
+    "text": "Debit cards can be different, because the money leaves your account right away.",
+    "scene": "bank",
+    "search": "bank debit card",
+    "gap": 0.4
+   },
+   {
+    "text": "Rules for debit cards depend on how fast you report a problem.",
+    "scene": "bills-documents",
+    "search": "bills papers",
+    "gap": 0.4
+   },
+   {
+    "text": "Use a credit card for online shopping, not a debit card.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "YOUR SETUP",
+    "gap": 0.7
+   },
+   {
+    "text": "Turn off saved cards on sites you do not use much.",
+    "scene": "phone-shopping",
+    "search": "phone settings",
+    "gap": 0.4
+   },
+   {
+    "text": "Use a unique password and turn on two step login.",
+    "scene": "laptop-shopping",
+    "search": "laptop password",
+    "gap": 0.4
+   },
+   {
+    "text": "Check your statements every month for charges you do not know.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "A tiny pause before paying is a good thing.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "It gives you time to ask if you really want it.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE PAUSE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more everyday ways to protect your money.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Saved cards make paying feel painless, so here is why that costs you and how to keep your card safe online with simple settings.",
+  "hashtags": "#moneytips #onlineshopping #creditcards #security"
+ },
+ {
+  "id": "do-you-read-a-menu-like-a-book",
+  "lines": [
+   {
+    "text": "You do not read a menu like a book.",
+    "scene": "restaurant",
+    "search": "restaurant menu",
+    "card": "MENU MYTH",
+    "gap": 0.7
+   },
+   {
+    "text": "It feels like you start at the top and work down.",
+    "scene": "coffee-shop",
+    "search": "restaurant table",
+    "gap": 0.4
+   },
+   {
+    "text": "But your eyes jump around.",
+    "scene": "thinking",
+    "search": "man reading menu",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty eleven, two researchers tested menu positions.",
+    "scene": "research",
+    "search": "menu researcher",
+    "gap": 0.4
+   },
+   {
+    "text": "Dishes at the start or end of a category were up to twice as popular as those in the middle.",
+    "scene": "bills-documents",
+    "search": "menu list dishes",
+    "card": "THE EDGES",
+    "gap": 0.7
+   },
+   {
+    "text": "Your brain remembers the first and the last best.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "That is why the middle of a list can hide good value.",
+    "scene": "wine",
+    "search": "wine glass dinner",
+    "gap": 0.4
+   },
+   {
+    "text": "So restaurants may put the dishes they want to sell at the edges.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Servers add their own nudges, like today's special.",
+    "scene": "restaurant",
+    "search": "restaurant waiter menu",
+    "gap": 0.4
+   },
+   {
+    "text": "Prices at the end of a line can hide how much it all adds up.",
+    "scene": "cash",
+    "search": "cash tip",
+    "gap": 0.4
+   },
+   {
+    "text": "A special sounds exclusive, but it can be the dish they want to sell.",
+    "scene": "thinking",
+    "search": "woman reading menu",
+    "gap": 0.4
+   },
+   {
+    "text": "Scan the whole menu before you start to decide.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Look at the middle on purpose.",
+    "scene": "price-tags",
+    "search": "menu prices",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask what is good value, and what the kitchen is proud of.",
+    "scene": "cash",
+    "search": "cash tip",
+    "gap": 0.4
+   },
+   {
+    "text": "Then pick based on what you want, not where it sits.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "A menu is a map made to move your eyes.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "SEE THE GRID",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to take back control of your order.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "People think they read a menu from top to bottom, but research says the edges matter most, so here is how that changes what you order.",
+  "hashtags": "#moneytips #restaurants #menu #psychology"
+ },
+ {
+  "id": "basic-economy",
+  "lines": [
+   {
+    "text": "That cheap flight price can be a trap.",
+    "scene": "travel-airport",
+    "search": "airplane ticket",
+    "card": "BASIC ECONOMY",
+    "gap": 0.7
+   },
+   {
+    "text": "You search for flights and see two prices.",
+    "scene": "laptop-shopping",
+    "search": "laptop flight booking",
+    "gap": 0.4
+   },
+   {
+    "text": "One is cheap, and the other costs a bit more.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Delta started testing basic economy in twenty twelve.",
+    "scene": "travel-airport",
+    "search": "airport departure board",
+    "card": "THE CATCH",
+    "gap": 0.7
+   },
+   {
+    "text": "You could not pick your seat in advance, and you could not make changes.",
+    "scene": "thinking",
+    "search": "woman thinking airport",
+    "gap": 0.4
+   },
+   {
+    "text": "If you want a seat with your family, the cost can jump.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Other airlines followed with similar fares.",
+    "scene": "bills-documents",
+    "search": "ticket rules paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Some airlines even charge for a carry on bag on those fares.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Airlines use the cheap fare to win the search results.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Rules differ by airline and change over time, so read the fare details.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "The low price gets you in, and the rules push you up.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE FUNNEL",
+    "gap": 0.7
+   },
+   {
+    "text": "Add a seat fee, a bag fee and a change fee.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Suddenly the cheap fare costs more than the regular one.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "And you cannot change the ticket if your plans move.",
+    "scene": "bank",
+    "search": "bank card",
+    "gap": 0.4
+   },
+   {
+    "text": "Before you book, add up the total for your trip.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Do you need a bag, a seat or the option to change dates?",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare the final price, not the first one.",
+    "scene": "phone-shopping",
+    "search": "phone airline app",
+    "gap": 0.4
+   },
+   {
+    "text": "If your plans are certain, basic can be fine.",
+    "scene": "travel-airport",
+    "search": "airport gate",
+    "gap": 0.4
+   },
+   {
+    "text": "If they are not, the flexible fare is insurance.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE CHECK",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more travel math before you click book.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Basic economy fares look cheap but remove seat choice and flexibility, so here is how to compare the real cost before you book.",
+  "hashtags": "#moneytips #travel #airlines #basiceconomy"
+ },
+ {
+  "id": "zero-percent-offers",
+  "lines": [
+   {
+    "text": "Zero percent can cost a lot of money.",
+    "scene": "store-sale",
+    "search": "store zero percent sign",
+    "card": "ZERO PERCENT",
+    "gap": 0.7
+   },
+   {
+    "text": "You see a sofa with no interest for twelve months.",
+    "scene": "shopping-mall",
+    "search": "furniture store",
+    "gap": 0.4
+   },
+   {
+    "text": "It sounds like free money.",
+    "scene": "checkout",
+    "search": "store checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "And the store may have a financing partner that benefits from late payments.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "But some offers use deferred interest.",
+    "scene": "bills-documents",
+    "search": "contract fine print",
+    "card": "THE FINE PRINT",
+    "gap": 0.7
+   },
+   {
+    "text": "Pay it off on time, and you pay no interest.",
+    "scene": "calendar",
+    "search": "calendar months",
+    "gap": 0.4
+   },
+   {
+    "text": "Miss the deadline by a day, and interest is charged back to the first day.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Not on what is left, but on the whole original amount.",
+    "scene": "thinking",
+    "search": "woman worried",
+    "gap": 0.4
+   },
+   {
+    "text": "The Consumer Financial Protection Bureau studied this in a twenty fifteen report.",
+    "scene": "government",
+    "search": "government building report",
+    "gap": 0.4
+   },
+   {
+    "text": "It found most people paid in time, but those who missed often had most of the balance left.",
+    "scene": "research",
+    "search": "report paper",
+    "card": "THE NUMBERS",
+    "gap": 0.7
+   },
+   {
+    "text": "Another government report counted about one billion dollars in deferred interest on medical financing.",
+    "scene": "bank",
+    "search": "bank statement",
+    "gap": 0.4
+   },
+   {
+    "text": "The offer works because people think they will pay it off.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask one question: is this zero percent interest, or deferred interest?",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "If it is deferred, split the price by the months and set a reminder.",
+    "scene": "phone-shopping",
+    "search": "phone calendar",
+    "gap": 0.4
+   },
+   {
+    "text": "Aim to finish a month early.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "A true zero percent offer does not charge back interest.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE SAFE KIND",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more fine print explained in plain words.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A zero percent offer can hide deferred interest that comes back with a bite, so here is how to tell the safe kind from the risky one.",
+  "hashtags": "#moneytips #creditcards #deferredinterest #financing"
+ },
+ {
+  "id": "subscription-creep",
+  "lines": [
+   {
+    "text": "You probably pay for more things than you think.",
+    "scene": "phone-shopping",
+    "search": "phone apps subscriptions",
+    "card": "CREEPING COSTS",
+    "gap": 0.7
+   },
+   {
+    "text": "A twenty twenty two survey of a thousand Americans asked about subscriptions.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "People guessed they spent about eighty six dollars a month.",
+    "scene": "research",
+    "search": "survey report",
+    "gap": 0.4
+   },
+   {
+    "text": "When they listed every one, the average was two hundred and nineteen.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "card": "THE REAL TOTAL",
+    "gap": 0.7
+   },
+   {
+    "text": "That is a gap of a hundred and thirty three dollars.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "And forty two percent said they paid for something they no longer used.",
+    "scene": "bills-documents",
+    "search": "bank statement bills",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it happen? Each charge is small and easy to forget.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Free trials turn into paid plans, and prices drift up.",
+    "scene": "laptop-shopping",
+    "search": "laptop free trial",
+    "gap": 0.4
+   },
+   {
+    "text": "Companies count on you forgetting, because inertia is a powerful force.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "You sign up once, and the charge repeats forever.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Open your bank statement and find every recurring charge.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "AUDIT NOW",
+    "gap": 0.7
+   },
+   {
+    "text": "Look at your credit card statement too, because charges hide in both.",
+    "scene": "bank",
+    "search": "bank statement",
+    "gap": 0.4
+   },
+   {
+    "text": "Write each one down with its monthly price.",
+    "scene": "phone-shopping",
+    "search": "phone bank app",
+    "gap": 0.4
+   },
+   {
+    "text": "Cancel what you did not use last month.",
+    "scene": "coins",
+    "search": "coins stack",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask yourself whether you would sign up for it today.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Send that money straight into your savings.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Do this audit again every three months.",
+    "scene": "home-sofa",
+    "search": "woman sofa phone",
+    "gap": 0.4
+   },
+   {
+    "text": "Small leaks sink big boats.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THE SAVINGS",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to stop the quiet leaks in your budget.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Subscriptions pile up quietly, and a survey found people underestimate their monthly costs by about a hundred and thirty dollars, so here is how to audit yours.",
+  "hashtags": "#moneytips #subscriptions #savemoney #budgeting"
+ },
+ {
+  "id": "mental-accounting",
+  "lines": [
+   {
+    "text": "Your brain treats the same dollar differently.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "MENTAL BUCKETS",
+    "gap": 0.7
+   },
+   {
+    "text": "Economist Richard Thaler named it mental accounting.",
+    "scene": "research",
+    "search": "economist office",
+    "gap": 0.4
+   },
+   {
+    "text": "Here is the experiment that shows it.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "You bought a ten dollar ticket for a play, and lost it.",
+    "scene": "cinema-popcorn",
+    "search": "theater tickets",
+    "card": "THE TICKET TEST",
+    "gap": 0.7
+   },
+   {
+    "text": "Would you buy another ticket?",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Only forty six percent said yes.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Now picture this: you are about to buy the ticket, and you lose a ten dollar bill instead.",
+    "scene": "bills-documents",
+    "search": "ticket stub",
+    "gap": 0.4
+   },
+   {
+    "text": "Eighty eight percent said they would still buy the ticket.",
+    "scene": "credit-card",
+    "search": "credit card",
+    "gap": 0.4
+   },
+   {
+    "text": "The money lost is exactly the same.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "But a lost ticket goes into the entertainment bucket.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "card": "THE BUCKETS",
+    "gap": 0.7
+   },
+   {
+    "text": "And cash feels like it belongs to no bucket at all.",
+    "scene": "bank",
+    "search": "bank accounts",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores know this, and call a refund store credit or a bonus.",
+    "scene": "shopping-mall",
+    "search": "shopping mall",
+    "gap": 0.4
+   },
+   {
+    "text": "The label changes how the money feels, but the value stays the same.",
+    "scene": "brain",
+    "search": "brain thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "A tax refund feels like free money, so it gets spent differently.",
+    "scene": "home-sofa",
+    "search": "couch tax refund",
+    "gap": 0.4
+   },
+   {
+    "text": "Treat every dollar as the same dollar.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Give big windfalls a job before you spend them.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "A bonus can go half to savings and half to fun.",
+    "scene": "bank",
+    "search": "bank savings",
+    "gap": 0.4
+   },
+   {
+    "text": "Decide the job of money before it lands.",
+    "scene": "phone-shopping",
+    "search": "phone budget app",
+    "card": "THE JOB",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more money tricks happening inside your own head.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Your brain sorts money into mental buckets that do not follow logic, so here is the lost ticket experiment and how to spend smarter.",
+  "hashtags": "#moneytips #psychology #mentalaccounting #budgeting"
+ },
+ {
+  "id": "clearance-racks",
+  "lines": [
+   {
+    "text": "A bargain you do not need is not a bargain.",
+    "scene": "store-sale",
+    "search": "clearance rack clothes",
+    "card": "CLEARANCE",
+    "gap": 0.7
+   },
+   {
+    "text": "You find a coat for forty percent of the original price.",
+    "scene": "shopping-bags",
+    "search": "shopping bags woman",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels like winning.",
+    "scene": "thinking",
+    "search": "woman thinking clothes",
+    "gap": 0.4
+   },
+   {
+    "text": "That feeling is the thrill of a deal.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "But your closet already has three coats.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores mark things down in steps to clear space for new stock.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "card": "THE MARKDOWN",
+    "gap": 0.7
+   },
+   {
+    "text": "Each step makes the bargain look bigger.",
+    "scene": "price-tags",
+    "search": "price tag red",
+    "gap": 0.4
+   },
+   {
+    "text": "And the fear of missing out gets louder.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Many clearance items are final sale, with no returns.",
+    "scene": "receipt",
+    "search": "store receipt",
+    "gap": 0.4
+   },
+   {
+    "text": "Sizes can be odd, and stock may be damaged or last season.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "So the price is only one part of the cost.",
+    "scene": "cash",
+    "search": "cash wallet",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask whether you would buy it at full price.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Write down the last time you wore something like this.",
+    "scene": "home-sofa",
+    "search": "woman closet clothes",
+    "gap": 0.4
+   },
+   {
+    "text": "Divide the price by how many times you will use it.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "A one hundred dollar coat worn fifty times costs two dollars a wear.",
+    "scene": "shopping-mall",
+    "search": "shopping mall store",
+    "gap": 0.4
+   },
+   {
+    "text": "A cheap thing worn once is expensive.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Cheap but unused is the most expensive kind of cheap.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Try it on, check the seams, and read the return policy.",
+    "scene": "store-sale",
+    "search": "store sale rack",
+    "gap": 0.4
+   },
+   {
+    "text": "If you hesitate, you already know the answer.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE QUESTION",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to enjoy sales without the regret.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Clearance racks look like pure bargains, but a deal is only a deal if you needed it, so here is how to shop them without regret.",
+  "hashtags": "#moneytips #clearance #shoppingtips #savemoney"
+ },
+ {
+  "id": "free-drinks-at-the-tables",
+  "lines": [
+   {
+    "text": "The free drink is the costliest one in the casino.",
+    "scene": "casino",
+    "search": "casino cocktail",
+    "card": "FREE DRINKS",
+    "gap": 0.7
+   },
+   {
+    "text": "A waitress walks by and offers you a drink.",
+    "scene": "wine",
+    "search": "casino waitress drinks",
+    "gap": 0.4
+   },
+   {
+    "text": "It is free, and it is polite.",
+    "scene": "casino",
+    "search": "casino table cards",
+    "gap": 0.4
+   },
+   {
+    "text": "The staff are friendly, and the glass keeps you at the table.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty nineteen, researchers in Canada tested alcohol and gambling.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "People played a roulette game after a drink or a placebo.",
+    "scene": "gaming",
+    "search": "roulette table",
+    "card": "THE STUDY",
+    "gap": 0.7
+   },
+   {
+    "text": "Those who drank bet more after losses than after wins.",
+    "scene": "thinking",
+    "search": "man thinking roulette",
+    "gap": 0.4
+   },
+   {
+    "text": "Scientists call that chasing losses.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Meanwhile the cash machine in the corner makes it easy to keep playing.",
+    "scene": "bank",
+    "search": "casino cash machine",
+    "gap": 0.4
+   },
+   {
+    "text": "It was one lab study, and results from other studies are mixed.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Still, it fits a pattern: slower judgment, bigger bets.",
+    "scene": "casino",
+    "search": "casino chips",
+    "card": "THE GIFT",
+    "gap": 0.7
+   },
+   {
+    "text": "Casinos also know a free gift makes people feel they owe something back.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Psychologists call it reciprocity.",
+    "scene": "wine",
+    "search": "wine glass",
+    "gap": 0.4
+   },
+   {
+    "text": "Decide how much you can lose before you walk in.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "YOUR RULES",
+    "gap": 0.7
+   },
+   {
+    "text": "Skip the free drinks, or sip water instead.",
+    "scene": "cash",
+    "search": "cash envelope",
+    "gap": 0.4
+   },
+   {
+    "text": "Water costs nothing and keeps your head clear.",
+    "scene": "thinking",
+    "search": "woman thinking casino",
+    "gap": 0.4
+   },
+   {
+    "text": "If you do drink, lower the limit, not raise it.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "The goal is to leave with your plan, not your regret.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "PROTECT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to see the system and stay in charge.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Free drinks at the casino tables are not really free, and a study on alcohol and betting shows why, so here is how to protect your money.",
+  "hashtags": "#moneytips #casino #gambling #psychology"
+ },
+ {
+  "id": "always-check-the-unit-price",
+  "lines": [
+   {
+    "text": "Bigger does not always mean cheaper.",
+    "scene": "supermarket-aisle",
+    "search": "supermarket aisle",
+    "card": "UNIT PRICE",
+    "gap": 0.7
+   },
+   {
+    "text": "You see a large jar and a small jar of the same sauce.",
+    "scene": "grocery-food",
+    "search": "ketchup bottles shelf",
+    "gap": 0.4
+   },
+   {
+    "text": "Bigger must be cheaper per ounce, right?",
+    "scene": "thinking",
+    "search": "woman comparing",
+    "gap": 0.4
+   },
+   {
+    "text": "Bulk sounds smart and sometimes it is.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Britain's Competition and Markets Authority found bigger packs usually have a lower unit price, but not always.",
+    "scene": "research",
+    "search": "researcher notes",
+    "card": "THE CHECK",
+    "gap": 0.7
+   },
+   {
+    "text": "Consumer Reports once found a store label that understated the price per pound.",
+    "scene": "price-tags",
+    "search": "shelf price label",
+    "gap": 0.4
+   },
+   {
+    "text": "Sales on small sizes can also beat the large ones.",
+    "scene": "shopping-bags",
+    "search": "grocery cart",
+    "gap": 0.4
+   },
+   {
+    "text": "Packages can shrink in size while the price stays the same.",
+    "scene": "price-tags",
+    "search": "price tags shelf",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it work? Bigger looks like a better deal.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Brands count on that feeling.",
+    "scene": "store-sale",
+    "search": "store bulk display",
+    "gap": 0.4
+   },
+   {
+    "text": "The unit price is the cost per ounce, pound or sheet.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Look at the small number on the shelf tag.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "If it is missing, use your phone.",
+    "scene": "phone-shopping",
+    "search": "phone calculator",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare in the same unit, like ounces to ounces.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Divide the price by the amount, then compare.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Do it for items you buy often.",
+    "scene": "grocery-food",
+    "search": "grocery shelf",
+    "gap": 0.4
+   },
+   {
+    "text": "Bulk also fails if the food goes bad before you eat it.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Over a year, it adds up.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Five seconds of math can beat a coupon.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE HABIT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tiny habits that quietly save big.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The biggest package is not always the best deal, so here is how to use the unit price on the shelf tag to find the real bargain.",
+  "hashtags": "#moneytips #groceries #unitprice #savemoney"
+ },
+ {
+  "id": "was-and-now-prices",
+  "lines": [
+   {
+    "text": "A store once tried to end sales, and it backfired.",
+    "scene": "store-sale",
+    "search": "store was now price",
+    "card": "WAS AND NOW",
+    "gap": 0.7
+   },
+   {
+    "text": "In twenty twelve, J C Penney hired a new boss, Ron Johnson.",
+    "scene": "shopping-mall",
+    "search": "department store",
+    "gap": 0.4
+   },
+   {
+    "text": "He wanted to drop coupons and constant sales.",
+    "scene": "office-meeting",
+    "search": "business meeting",
+    "gap": 0.4
+   },
+   {
+    "text": "It sounded fair, clean and modern.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Instead, he wanted everyday low prices that were fair and square.",
+    "scene": "price-tags",
+    "search": "price tag",
+    "gap": 0.4
+   },
+   {
+    "text": "It sounded honest and simple.",
+    "scene": "thinking",
+    "search": "woman thinking store",
+    "card": "THE EXPERIMENT",
+    "gap": 0.7
+   },
+   {
+    "text": "Many customers loved a sale more than the lower price itself.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "The company's sales fell about twenty five percent that year.",
+    "scene": "bills-documents",
+    "search": "financial report",
+    "gap": 0.4
+   },
+   {
+    "text": "It lost nearly a billion dollars.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Johnson was out after about sixteen months, and sales returned.",
+    "scene": "vintage",
+    "search": "empty store",
+    "gap": 0.4
+   },
+   {
+    "text": "Shoppers did not want lower prices only.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE LESSON",
+    "gap": 0.7
+   },
+   {
+    "text": "They wanted a story: I found a deal.",
+    "scene": "thinking",
+    "search": "woman shopping",
+    "gap": 0.4
+   },
+   {
+    "text": "They wanted the feeling of beating the price.",
+    "scene": "store-sale",
+    "search": "sale sign",
+    "gap": 0.4
+   },
+   {
+    "text": "That feeling is a product the store sells too.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Know the real price before you shop.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Track the price for a few weeks, and look at the low.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Use a price history tool for big items.",
+    "scene": "laptop-shopping",
+    "search": "laptop price history",
+    "gap": 0.4
+   },
+   {
+    "text": "Buy when your price is hit, not when the sign shouts.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "The smartest shopper enjoys the game without playing it.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE POWER",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow to learn which prices are honest and which are theater.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A famous store tried to end sales, and customers walked away, so here is what J C Penney learned about the was and now price game.",
+  "hashtags": "#moneytips #sales #retail #psychology"
+ },
+ {
+  "id": "flowers-at-the-entrance",
+  "lines": [
+   {
+    "text": "Those flowers by the door are doing a job.",
+    "scene": "grocery-food",
+    "search": "flowers supermarket entrance",
+    "card": "THE FLOWERS",
+    "gap": 0.7
+   },
+   {
+    "text": "You walk in, and you smell and see fresh color.",
+    "scene": "supermarket-aisle",
+    "search": "supermarket entrance",
+    "gap": 0.4
+   },
+   {
+    "text": "Why do stores greet you with flowers and fruit?",
+    "scene": "thinking",
+    "search": "woman entering store",
+    "gap": 0.4
+   },
+   {
+    "text": "It is a design choice, not an accident.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Retail researcher Paco Underhill named the entrance zone the decompression zone.",
+    "scene": "research",
+    "search": "retail researcher",
+    "gap": 0.4
+   },
+   {
+    "text": "His idea, from the book Why We Buy, is that shoppers take in little just after entering.",
+    "scene": "shopping-mall",
+    "search": "store entrance doors",
+    "card": "DECOMPRESSION",
+    "gap": 0.7
+   },
+   {
+    "text": "You are adjusting from the street.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Retail designers say stores use that moment to set a mood of freshness.",
+    "scene": "grocery-food",
+    "search": "fresh produce",
+    "gap": 0.4
+   },
+   {
+    "text": "Fresh produce first makes the whole store feel fresh.",
+    "scene": "price-tags",
+    "search": "produce price label",
+    "gap": 0.4
+   },
+   {
+    "text": "Then comes the bakery, the meat, and the snacks.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "And it makes a cart feel healthy before the snacks.",
+    "scene": "shopping-bags",
+    "search": "shopping cart",
+    "gap": 0.4
+   },
+   {
+    "text": "After a few apples, a treat feels fair.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Some shoppers then feel they earned a treat.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Make your list before you step through the door.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Walk the edges, then shop the aisles on your list.",
+    "scene": "phone-shopping",
+    "search": "phone shopping list",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores put basic items at the back, so you pass many tempting products.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Buy flowers if you love them, not because the store told you to.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Noticing the design takes away its power.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE POINT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more secrets from the doorway to the checkout.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The flowers by the supermarket door are doing a job, and here is the shopping science of the entrance and how to stay on budget.",
+  "hashtags": "#moneytips #supermarket #groceries #psychology"
+ },
+ {
+  "id": "doctors-in-ads",
+  "lines": [
+   {
+    "text": "Doctors once appeared in ads for cigarettes.",
+    "scene": "vintage",
+    "search": "vintage doctor",
+    "card": "DOCTORS IN ADS",
+    "gap": 0.7
+   },
+   {
+    "text": "In nineteen forty six, Camel launched a famous slogan.",
+    "scene": "city-night",
+    "search": "vintage magazine ad",
+    "gap": 0.4
+   },
+   {
+    "text": "The ads ran across magazines and radio for years.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "More doctors smoke Camels than any other cigarette.",
+    "scene": "bills-documents",
+    "search": "ad slogan paper",
+    "gap": 0.4
+   },
+   {
+    "text": "The ads claimed a survey of over one hundred thousand doctors backed it up.",
+    "scene": "research",
+    "search": "research report",
+    "card": "THE SURVEY",
+    "gap": 0.7
+   },
+   {
+    "text": "Who could argue with a doctor?",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Ads also used dentists, nurses and even athletes.",
+    "scene": "vintage",
+    "search": "old ad nurse",
+    "gap": 0.4
+   },
+   {
+    "text": "That is the authority effect: we trust people in white coats.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE TRUST",
+    "gap": 0.7
+   },
+   {
+    "text": "Today, the Federal Trade Commission has rules for endorsements.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "That rule is about honesty, not about who looks smart.",
+    "scene": "laptop-shopping",
+    "search": "laptop supplement",
+    "gap": 0.4
+   },
+   {
+    "text": "An endorser must reflect honest opinions, and experts must really have the expertise they claim.",
+    "scene": "bills-documents",
+    "search": "law rules paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Still, health ads online keep using the same look.",
+    "scene": "laptop-shopping",
+    "search": "laptop supplement ad",
+    "gap": 0.4
+   },
+   {
+    "text": "A person in a lab coat, a chart, and a big claim.",
+    "scene": "home-sofa",
+    "search": "woman phone ad",
+    "gap": 0.4
+   },
+   {
+    "text": "The look sells before the proof does.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask who paid for the claim.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Look for a study you can find, not just a quote.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "If a product says it cures everything, it probably cures nothing.",
+    "scene": "phone-shopping",
+    "search": "phone search",
+    "gap": 0.4
+   },
+   {
+    "text": "Real medicine shows its limits and its risks.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Talk to your own doctor before you spend.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more stories where trust was used as a sales tool.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Ads once used doctors to sell cigarettes, so here is the true story of the Camel campaign and how to spot health claims that sound too good.",
+  "hashtags": "#moneytips #advertising #history #health"
+ },
+ {
+  "id": "after-christmas-returns",
+  "lines": [
+   {
+    "text": "The week after Christmas is a huge return week.",
+    "scene": "gifts",
+    "search": "gift return",
+    "card": "AFTER CHRISTMAS",
+    "gap": 0.7
+   },
+   {
+    "text": "People line up with boxes, bags and receipts.",
+    "scene": "shopping-mall",
+    "search": "store return counter",
+    "gap": 0.4
+   },
+   {
+    "text": "Some gifts are returned because they are the wrong size or color.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "The National Retail Federation expected returns in twenty twenty five to reach nearly eight hundred and fifty billion dollars.",
+    "scene": "research",
+    "search": "retail report",
+    "gap": 0.4
+   },
+   {
+    "text": "It said retailers expect about seventeen percent of holiday sales to come back.",
+    "scene": "bills-documents",
+    "search": "financial report",
+    "card": "THE RETURN RATE",
+    "gap": 0.7
+   },
+   {
+    "text": "That is a lot of unwanted stuff.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores know returns cost money, so policies are getting tougher.",
+    "scene": "receipt",
+    "search": "receipt hand",
+    "gap": 0.4
+   },
+   {
+    "text": "Some shorten the window, charge restocking fees, or require original packaging.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Some online returns cost shipping.",
+    "scene": "shopping-bags",
+    "search": "shopping bags",
+    "gap": 0.4
+   },
+   {
+    "text": "Read the return policy at the time you buy.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "YOUR PLAN",
+    "gap": 0.7
+   },
+   {
+    "text": "Take a photo of the receipt, and keep the box.",
+    "scene": "phone-shopping",
+    "search": "phone photo receipt",
+    "gap": 0.4
+   },
+   {
+    "text": "Many stores extend the holiday return window, but not all do.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask for a gift receipt, so the person can exchange it.",
+    "scene": "cash",
+    "search": "cash refund",
+    "gap": 0.4
+   },
+   {
+    "text": "Honest gifts include a way out.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Return fast, before the window closes.",
+    "scene": "gifts",
+    "search": "gift wrapped",
+    "gap": 0.4
+   },
+   {
+    "text": "If you keep a gift, use it, and do not let it sit.",
+    "scene": "home-sofa",
+    "search": "home gifts table",
+    "gap": 0.4
+   },
+   {
+    "text": "A good return turns a mistake into money again.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE WIN",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tips to keep more of your holiday money.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Returns after Christmas are big business, so here is what the National Retail Federation says about them and how to return or exchange smart.",
+  "hashtags": "#moneytips #returns #christmas #shoppingtips"
+ },
+ {
+  "id": "the-first-coupon",
+  "lines": [
+   {
+    "text": "The first coupon was a ticket for a free soda.",
+    "scene": "vintage",
+    "search": "vintage soda fountain",
+    "card": "THE FIRST COUPON",
+    "gap": 0.7
+   },
+   {
+    "text": "In the late eighteen eighties, Asa Candler took over Coca-Cola.",
+    "scene": "restaurant",
+    "search": "old coca cola bottle",
+    "gap": 0.4
+   },
+   {
+    "text": "He had salesmen hand out tickets for one free glass.",
+    "scene": "bills-documents",
+    "search": "coupon paper ticket",
+    "gap": 0.4
+   },
+   {
+    "text": "Customers went to the fountain, and tried it for free.",
+    "scene": "restaurant",
+    "search": "soda fountain counter",
+    "gap": 0.4
+   },
+   {
+    "text": "The company later said it handed out millions of those tickets.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "A free taste gave people a reason to try something new.",
+    "scene": "thinking",
+    "search": "woman tasting drink",
+    "card": "THE FREE SAMPLE",
+    "gap": 0.7
+   },
+   {
+    "text": "One estimate says about one in nine Americans got a free Coke this way.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Millions of tickets went out, and the habit grew.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Soon other brands copied the idea with mailed and printed coupons.",
+    "scene": "factory",
+    "search": "cereal factory",
+    "gap": 0.4
+   },
+   {
+    "text": "Today coupons live in apps, emails and codes.",
+    "scene": "shopping-mall",
+    "search": "supermarket coupons",
+    "card": "THE COUPON NOW",
+    "gap": 0.7
+   },
+   {
+    "text": "They work, but they also steer your choice.",
+    "scene": "phone-shopping",
+    "search": "phone coupon app",
+    "gap": 0.4
+   },
+   {
+    "text": "A coupon can make you buy a brand you did not want.",
+    "scene": "thinking",
+    "search": "woman thinking coupons",
+    "gap": 0.4
+   },
+   {
+    "text": "Check the expiration date before you plan around it.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Only use coupons for things on your list.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Compare the coupon price with the store brand.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "If the coupon makes you spend more, skip it.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A discount on something you did not need is a loss.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "A coupon should save money, not create a purchase.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more history behind the deals in your pocket.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The first coupon was a handwritten ticket for a free soda, and here is how Coca-Cola used it to build a giant brand.",
+  "hashtags": "#moneytips #coupons #history #marketing"
+ },
+ {
+  "id": "someone-just-bought-this",
+  "lines": [
+   {
+    "text": "Someone just bought this, or maybe nobody did.",
+    "scene": "phone-shopping",
+    "search": "phone notification",
+    "card": "SOMEONE BOUGHT",
+    "gap": 0.7
+   },
+   {
+    "text": "You are looking at a jacket online.",
+    "scene": "laptop-shopping",
+    "search": "laptop product page",
+    "gap": 0.4
+   },
+   {
+    "text": "A box pops up: ninety seven other people are looking at this.",
+    "scene": "thinking",
+    "search": "woman thinking laptop",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels like a race.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE CROWD EFFECT",
+    "gap": 0.7
+   },
+   {
+    "text": "In twenty nineteen, researchers from Princeton and the University of Chicago studied about eleven thousand shopping sites.",
+    "scene": "research",
+    "search": "researcher laptop",
+    "gap": 0.4
+   },
+   {
+    "text": "They found one thousand eight hundred and eighteen examples of what they called dark patterns.",
+    "scene": "bills-documents",
+    "search": "research report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Those were on about eleven percent of the sites.",
+    "scene": "shopping-mall",
+    "search": "online store",
+    "gap": 0.4
+   },
+   {
+    "text": "These tools can make a shop feel busy when it is quiet.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "The team found some activity messages used random numbers, not real data.",
+    "scene": "clock-time",
+    "search": "countdown clock",
+    "card": "THE FAKE RUSH",
+    "gap": 0.7
+   },
+   {
+    "text": "The team also found companies that sell these tricks as ready made tools.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Not every message is fake, but you cannot tell from the screen.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Treat urgency messages like noise.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Ask whether the message is a fact or a feeling.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Close the tab, and come back tomorrow.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Real deals survive a night of sleep.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "If the item is gone, another one will appear.",
+    "scene": "laptop-shopping",
+    "search": "laptop price compare",
+    "gap": 0.4
+   },
+   {
+    "text": "And it will often be cheaper.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Time is the strongest tool you have.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE POWER",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more online tricks and how to see through them.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Someone just bought this may be a trick to rush you, so here is what a study of eleven thousand shopping sites found about fake urgency.",
+  "hashtags": "#moneytips #onlineshopping #darkpatterns #savemoney"
+ },
+ {
+  "id": "decoy-dishes",
+  "lines": [
+   {
+    "text": "A dish nobody orders can sell another dish.",
+    "scene": "restaurant",
+    "search": "restaurant menu",
+    "card": "THE DECOY",
+    "gap": 0.7
+   },
+   {
+    "text": "Imagine a menu with two pasta dishes, one cheap and one fancy.",
+    "scene": "coffee-shop",
+    "search": "restaurant table dinner",
+    "gap": 0.4
+   },
+   {
+    "text": "Many people pick the cheap one, because the fancy one feels like too much.",
+    "scene": "thinking",
+    "search": "woman reading menu",
+    "gap": 0.4
+   },
+   {
+    "text": "Now add a third dish, priced just under the fancy one but clearly worse.",
+    "scene": "price-tags",
+    "search": "menu prices",
+    "gap": 0.4
+   },
+   {
+    "text": "Hardly anyone orders it, and that is exactly the point.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE DEAD OPTION",
+    "gap": 0.7
+   },
+   {
+    "text": "Next to it, the fancy dish suddenly looks like a bargain.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "In nineteen eighty two, three researchers named Huber, Payne and Puto tested this idea.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "They showed that adding a worse choice can push people toward the better one next to it.",
+    "scene": "bills-documents",
+    "search": "research paper",
+    "gap": 0.4
+   },
+   {
+    "text": "It works with cars, phone plans, hotel rooms and subscription tiers.",
+    "scene": "car-dealership",
+    "search": "car dealership",
+    "gap": 0.4
+   },
+   {
+    "text": "Look at any pricing page with three plans.",
+    "scene": "laptop-shopping",
+    "search": "laptop pricing page",
+    "gap": 0.4
+   },
+   {
+    "text": "Later research found the effect is real, but not always strong.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "card": "THE CATCH",
+    "gap": 0.7
+   },
+   {
+    "text": "Even so, businesses keep using it, because it is cheap and often works.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask which option you would pick if the decoy did not exist.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Compare the two real choices by what you need, not how they sit.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "If the middle option looks too good, find out who it is helping.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A good deal still looks good with the decoy removed.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE QUESTION",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more menu and pricing tricks, explained in plain language.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A decoy option nobody wants can make another option look like a bargain, and here is the research behind the decoy effect and how to resist it.",
+  "hashtags": "#moneytips #psychology #decoyeffect #restaurants"
+ },
+ {
+  "id": "baggage-fees",
+  "lines": [
+   {
+    "text": "You used to get your first bag free.",
+    "scene": "travel-airport",
+    "search": "airport baggage",
+    "card": "BAGGAGE FEES",
+    "gap": 0.7
+   },
+   {
+    "text": "Then in May two thousand eight, American Airlines announced a fifteen dollar fee for a first checked bag.",
+    "scene": "thinking",
+    "search": "suitcase airport check in",
+    "gap": 0.4
+   },
+   {
+    "text": "It was the first major airline to charge for it.",
+    "scene": "cash",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Other airlines followed within months.",
+    "scene": "bills-documents",
+    "search": "news report",
+    "gap": 0.4
+   },
+   {
+    "text": "Soon bag fees became normal across the industry, not a special case.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Today, bag fees are part of the business model.",
+    "scene": "thinking",
+    "search": "man thinking airport",
+    "card": "THE NEW NORMAL",
+    "gap": 0.7
+   },
+   {
+    "text": "The ticket looks cheap, then the bag makes it a regular fare.",
+    "scene": "laptop-shopping",
+    "search": "laptop flight search",
+    "gap": 0.4
+   },
+   {
+    "text": "Fees can also cost less online than at the airport counter.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Why do they work? You pay a small fee for each part, so the total feels hidden.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Researchers call it partitioned pricing.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Splitting a price into parts makes each part feel smaller than the whole.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "Add the bag fee to the ticket before you compare airlines.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Pack in a single carry on if the rules allow it.",
+    "scene": "shopping-bags",
+    "search": "suitcase packing",
+    "gap": 0.4
+   },
+   {
+    "text": "Pay for a bag online ahead of time, not at the gate.",
+    "scene": "phone-shopping",
+    "search": "phone airline app",
+    "gap": 0.4
+   },
+   {
+    "text": "Check if your airline card gives you a free bag.",
+    "scene": "credit-card",
+    "search": "credit card",
+    "gap": 0.4
+   },
+   {
+    "text": "The real price is the one with everything you need.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE TOTAL",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tips to fly without the surprise charges.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Baggage fees changed how airlines sell tickets, so here is how the first checked bag fee started in 2008 and how to pack smarter.",
+  "hashtags": "#moneytips #travel #airlines #baggagefees"
+ },
+ {
+  "id": "balance-transfer-fees",
+  "lines": [
+   {
+    "text": "Zero percent interest can still cost you money up front.",
+    "scene": "credit-card",
+    "search": "credit card offer",
+    "card": "THE TRANSFER FEE",
+    "gap": 0.7
+   },
+   {
+    "text": "You get an offer in the mail to move your credit card debt for free.",
+    "scene": "bank",
+    "search": "bank mail offer",
+    "gap": 0.4
+   },
+   {
+    "text": "Zero percent interest for more than a year sounds like a rescue.",
+    "scene": "thinking",
+    "search": "woman thinking bills",
+    "gap": 0.4
+   },
+   {
+    "text": "Look closer, and you usually find a balance transfer fee.",
+    "scene": "bills-documents",
+    "search": "fine print paper",
+    "card": "THE FEE",
+    "gap": 0.7
+   },
+   {
+    "text": "It is often between three and five percent of the amount you move.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Move five thousand dollars with a three percent fee, and you pay one hundred and fifty dollars.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "The fee is added to your balance on day one.",
+    "scene": "calendar",
+    "search": "calendar months",
+    "gap": 0.4
+   },
+   {
+    "text": "Then the clock starts on the promotional period.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "When it ends, the rate jumps back to a normal, often higher, card rate.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "card": "THE CLIFF",
+    "gap": 0.7
+   },
+   {
+    "text": "And new purchases on the card may not get the same deal.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Divide the balance by the months of the offer.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "That is the monthly payment that clears it on time.",
+    "scene": "phone-shopping",
+    "search": "phone calendar reminder",
+    "gap": 0.4
+   },
+   {
+    "text": "If you cannot afford that payment, a transfer only delays the problem.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Do not use the card for anything else until it is paid.",
+    "scene": "credit-card",
+    "search": "credit card hand",
+    "gap": 0.4
+   },
+   {
+    "text": "A fee of one hundred and fifty dollars can still save you more than months of interest.",
+    "scene": "coins",
+    "search": "coins hand",
+    "card": "THE MATH",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more card math that can save you real money.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A zero percent balance transfer can still cost three to five percent up front, so here is how to run the numbers before you move debt.",
+  "hashtags": "#moneytips #creditcards #debt #balancetransfer"
+ },
+ {
+  "id": "annual-plans",
+  "lines": [
+   {
+    "text": "Save twenty percent if you pay for the whole year.",
+    "scene": "laptop-shopping",
+    "search": "laptop subscription plan",
+    "card": "ANNUAL PLANS",
+    "gap": 0.7
+   },
+   {
+    "text": "It sounds smart, and sometimes it is.",
+    "scene": "phone-shopping",
+    "search": "phone subscription offer",
+    "gap": 0.4
+   },
+   {
+    "text": "But a year is a long time to forget something.",
+    "scene": "calendar",
+    "search": "calendar year",
+    "gap": 0.4
+   },
+   {
+    "text": "Many annual plans renew on their own, at the new price.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "card": "THE RENEWAL",
+    "gap": 0.7
+   },
+   {
+    "text": "The notice may arrive in an email you never open.",
+    "scene": "bills-documents",
+    "search": "renewal email paper",
+    "gap": 0.4
+   },
+   {
+    "text": "In September twenty twenty five, Amazon agreed to pay two and a half billion dollars to settle a government case.",
+    "scene": "government",
+    "search": "federal trade commission building",
+    "gap": 0.4
+   },
+   {
+    "text": "The agency said Prime customers were enrolled and kept in the program through confusing design.",
+    "scene": "courtroom",
+    "search": "courtroom judge",
+    "gap": 0.4
+   },
+   {
+    "text": "Amazon did not admit wrongdoing.",
+    "scene": "research",
+    "search": "report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "The deal included one billion dollars in penalties and one and a half billion in refunds.",
+    "scene": "cash",
+    "search": "cash refund",
+    "card": "THE REFUND",
+    "gap": 0.7
+   },
+   {
+    "text": "The case shows how subscription traps are built from small hurdles.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Before you pay for a year, ask if you will use it every month.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Set a reminder two weeks before renewal.",
+    "scene": "calendar",
+    "search": "calendar reminder",
+    "gap": 0.4
+   },
+   {
+    "text": "Use a virtual card or a card with an easy block.",
+    "scene": "credit-card",
+    "search": "virtual credit card",
+    "gap": 0.4
+   },
+   {
+    "text": "Read the cancel rules before you hand over your card.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A discount is only a discount if you keep the thing.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to cancel before they charge.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Annual plans look cheaper but can lock you in or renew without warning, so here is what the FTC said about Amazon Prime and how to protect yourself.",
+  "hashtags": "#moneytips #subscriptions #ftc #savemoney"
+ },
+ {
+  "id": "sunk-cost-fallacy",
+  "lines": [
+   {
+    "text": "The money you already spent should not decide anything.",
+    "scene": "cinema-popcorn",
+    "search": "theater tickets",
+    "card": "SUNK COST",
+    "gap": 0.7
+   },
+   {
+    "text": "You buy a ticket to a movie and it turns out to be terrible.",
+    "scene": "thinking",
+    "search": "man thinking movie",
+    "gap": 0.4
+   },
+   {
+    "text": "Do you stay for two hours because you paid?",
+    "scene": "home-sofa",
+    "search": "couch tv",
+    "gap": 0.4
+   },
+   {
+    "text": "In nineteen eighty five, Hal Arkes and Catherine Blumer tested this at Ohio University.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "They sold season theater tickets at different prices, some of them discounted.",
+    "scene": "cinema-popcorn",
+    "search": "theater season tickets",
+    "card": "THE TICKET STUDY",
+    "gap": 0.7
+   },
+   {
+    "text": "People who paid full price went to more plays in the first half of the season.",
+    "scene": "bills-documents",
+    "search": "ticket stubs",
+    "gap": 0.4
+   },
+   {
+    "text": "Why? They did not want to waste what they paid.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "The cost was gone either way, but the pain of waste stayed.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "The same pattern shows up in huge projects, like the Concorde jet.",
+    "scene": "government",
+    "search": "government building",
+    "card": "THE CONCORDE",
+    "gap": 0.7
+   },
+   {
+    "text": "The British and French governments kept funding it even as losses grew.",
+    "scene": "vintage",
+    "search": "concorde airplane",
+    "gap": 0.4
+   },
+   {
+    "text": "At home, it looks like a gym you hate, or a car that keeps breaking.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask this: if I had not spent anything yet, would I start today?",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "If the answer is no, stop.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "The past money is gone, but the future money is still yours.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Cutting a loss can be the smartest save of all.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE FREEDOM",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to stop paying for a mistake twice.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "The sunk cost fallacy makes us keep spending because we already spent, so here is the theater ticket study and how to cut your losses.",
+  "hashtags": "#moneytips #psychology #sunkcost #behavioraleconomics"
+ },
+ {
+  "id": "sale-signs",
+  "lines": [
+   {
+    "text": "A sale sign can sell things all by itself.",
+    "scene": "store-sale",
+    "search": "sale sign",
+    "card": "SALE SIGNS",
+    "gap": 0.7
+   },
+   {
+    "text": "You see a red sign in a store window.",
+    "scene": "shopping-mall",
+    "search": "store window sale",
+    "gap": 0.4
+   },
+   {
+    "text": "Your brain makes a quick guess: this must be cheaper.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Marketing researchers have found that sale labels can lift sales.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "One study looked at a clothing catalog and found the effect weaker when many items had the label.",
+    "scene": "bills-documents",
+    "search": "catalog paper",
+    "card": "THE LABEL",
+    "gap": 0.7
+   },
+   {
+    "text": "So a label works partly because it is rare.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores also use words like special, deal and last chance.",
+    "scene": "store-sale",
+    "search": "clearance sign",
+    "gap": 0.4
+   },
+   {
+    "text": "A word like deal makes you feel smart before you check anything.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "These words are not always tied to a real price cut.",
+    "scene": "price-tags",
+    "search": "price tags",
+    "gap": 0.4
+   },
+   {
+    "text": "Always ask what the price was before the sign went up.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Online, banners shout sale in every corner of the page.",
+    "scene": "laptop-shopping",
+    "search": "laptop sale banner",
+    "gap": 0.4
+   },
+   {
+    "text": "But a sale price is only good if it is below the usual price.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Look for the was price, and ask if it is honest.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Use a price tracker for anything above fifty dollars.",
+    "scene": "phone-shopping",
+    "search": "phone price tracker",
+    "gap": 0.4
+   },
+   {
+    "text": "Know that many items go on sale on a regular cycle.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "If you can wait, you often will see it again.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A sign is a message, not proof.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE SIGN",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more signs, labels and prices decoded.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A sale sign can raise sales all on its own, so here is how retailers use labels and what to check before you trust one.",
+  "hashtags": "#moneytips #sales #shoppingtips #psychology"
+ },
+ {
+  "id": "slot-machine-sounds",
+  "lines": [
+   {
+    "text": "Slot machines celebrate even when you lose.",
+    "scene": "gaming",
+    "search": "slot machine",
+    "card": "THE SOUNDS",
+    "gap": 0.7
+   },
+   {
+    "text": "You hear bells, chimes and a happy song.",
+    "scene": "casino",
+    "search": "casino slot machines",
+    "gap": 0.4
+   },
+   {
+    "text": "It sounds like a win, so you assume it is one.",
+    "scene": "thinking",
+    "search": "woman thinking casino",
+    "gap": 0.4
+   },
+   {
+    "text": "At the University of Waterloo, researcher Mike Dixon studied this.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "In a twenty thirteen study, ninety six gamblers played with and without sound.",
+    "scene": "casino",
+    "search": "casino players",
+    "card": "THE STUDY",
+    "gap": 0.7
+   },
+   {
+    "text": "Some spins paid back less than the bet but still played celebration sounds.",
+    "scene": "bills-documents",
+    "search": "study paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Those are called losses disguised as wins.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "With sound on, players overestimated how often they won, about twenty four percent compared with fifteen without it.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Skin tests also showed stronger arousal when the sounds played.",
+    "scene": "research",
+    "search": "research report",
+    "card": "THE EFFECT",
+    "gap": 0.7
+   },
+   {
+    "text": "Most players said they preferred the sound.",
+    "scene": "gaming",
+    "search": "slot machine lights",
+    "gap": 0.4
+   },
+   {
+    "text": "Your ears reward you, even when your wallet does not.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "That is the trap: it feels better, so you keep going.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "Before you play, decide the most you will spend.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "YOUR RULES",
+    "gap": 0.7
+   },
+   {
+    "text": "Mute the sound or wear earbuds with your own music.",
+    "scene": "phone-shopping",
+    "search": "phone timer",
+    "gap": 0.4
+   },
+   {
+    "text": "Check your real balance, not how it feels.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Slot machines also show credits instead of dollars, which hides the real number.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "When the money is gone, the music was never about you.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE TRUTH",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more on how casinos trick your ears and your head.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Slot machines make winning sounds even when you lose money, and a University of Waterloo study shows how those sounds fool the ear.",
+  "hashtags": "#moneytips #casino #slotmachines #psychology"
+ },
+ {
+  "id": "unsubscribe-from-store-emails",
+  "lines": [
+   {
+    "text": "Your inbox is a store that never closes.",
+    "scene": "phone-shopping",
+    "search": "phone email inbox",
+    "card": "THE INBOX",
+    "gap": 0.7
+   },
+   {
+    "text": "Every day brings a new sale, a new code, a new deadline.",
+    "scene": "laptop-shopping",
+    "search": "laptop email sale",
+    "gap": 0.4
+   },
+   {
+    "text": "Each one is a small nudge to spend.",
+    "scene": "thinking",
+    "search": "woman thinking inbox",
+    "gap": 0.4
+   },
+   {
+    "text": "Marketers test subject lines to find the words that make people click.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Last chance, ends tonight, only a few hours left.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "Those messages make you act before you think.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE NUDGE",
+    "gap": 0.7
+   },
+   {
+    "text": "Fear of missing out beats good judgment, again and again.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "The CAN-SPAM Act of two thousand three set rules for commercial email.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "Senders must include a way to opt out, and honor it within ten business days.",
+    "scene": "bills-documents",
+    "search": "law paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Even so, unsubscribing yourself is still the surest fix.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Click unsubscribe at the bottom of emails from stores you know.",
+    "scene": "phone-shopping",
+    "search": "phone unsubscribe",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Do not click anything in a spam email that you do not recognize.",
+    "scene": "home-sofa",
+    "search": "woman sofa phone",
+    "gap": 0.4
+   },
+   {
+    "text": "Make a second email address just for shopping.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "gap": 0.4
+   },
+   {
+    "text": "Keep the main inbox for bills, friends and work.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Spend ten minutes a week cleaning the rest.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Then check which stores you shop at only because of emails.",
+    "scene": "bank",
+    "search": "bank statement",
+    "gap": 0.4
+   },
+   {
+    "text": "You will see fewer deals, and you will spend less.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Silence is the cheapest discount you can get.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE SAVINGS",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more habits that reclaim your attention and your money.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Store emails push you to spend with urgency and offers, so here is how to unsubscribe safely and what the law says about it.",
+  "hashtags": "#moneytips #email #savemoney #impulsebuying"
+ },
+ {
+  "id": "round-prices-for-treats",
+  "lines": [
+   {
+    "text": "Why do luxury items often have round prices?",
+    "scene": "price-tags",
+    "search": "price tag round",
+    "card": "ROUND PRICES",
+    "gap": 0.7
+   },
+   {
+    "text": "A bottle of champagne priced at one hundred dollars looks smooth.",
+    "scene": "wine",
+    "search": "champagne glasses",
+    "gap": 0.4
+   },
+   {
+    "text": "A bottle at ninety eight dollars and seventy six cents looks odd.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "In a study published in twenty fifteen, researchers Monica Wadhwa and Kuangjie Zhang tested this.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "They found round prices felt right when a purchase was driven by feelings.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "card": "THE FEELING",
+    "gap": 0.7
+   },
+   {
+    "text": "And non round prices felt right when a purchase was practical.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "In one test, a camera for a family vacation was favored at a round price.",
+    "scene": "home-sofa",
+    "search": "woman vacation",
+    "gap": 0.4
+   },
+   {
+    "text": "A camera for a class project was favored at a price with odd cents.",
+    "scene": "laptop-shopping",
+    "search": "laptop camera class",
+    "gap": 0.4
+   },
+   {
+    "text": "A later replication did not support the full effect, so treat it as an idea, not a law.",
+    "scene": "bills-documents",
+    "search": "research paper",
+    "card": "THE CAVEAT",
+    "gap": 0.7
+   },
+   {
+    "text": "Still, stores use both styles for different moods.",
+    "scene": "store-sale",
+    "search": "price tag treat",
+    "gap": 0.4
+   },
+   {
+    "text": "A round price says treat yourself.",
+    "scene": "gifts",
+    "search": "gift treat store",
+    "gap": 0.4
+   },
+   {
+    "text": "An odd price says this is a smart buy.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Notice which price style is being used on you.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Then ask what you actually want, not how the number sounds.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Prices speak to feelings, so listen with your head.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE MIND",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tricks hidden inside ordinary numbers.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Round prices feel right for treats and non round prices for practical buys, so here is what one study found and a caveat on later tests.",
+  "hashtags": "#moneytips #pricing #psychology #shoppingtips"
+ },
+ {
+  "id": "the-fresh-start-effect",
+  "lines": [
+   {
+    "text": "January first makes people feel like a new person.",
+    "scene": "calendar",
+    "search": "calendar new year",
+    "card": "FRESH START",
+    "gap": 0.7
+   },
+   {
+    "text": "It is the day of diets, gym cards and big money plans.",
+    "scene": "thinking",
+    "search": "woman thinking window",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty fourteen, researchers Hengchen Dai, Katherine Milkman and Jason Riis named it the fresh start effect.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "They looked at Google searches for diet, and found jumps after New Year.",
+    "scene": "bank",
+    "search": "data chart screen",
+    "card": "THE DATA",
+    "gap": 0.7
+   },
+   {
+    "text": "They also found more gym visits at the start of a week, a month or a semester.",
+    "scene": "calendar",
+    "search": "gym calendar",
+    "gap": 0.4
+   },
+   {
+    "text": "A new date feels like a clean page, with the old mistakes left behind.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Look at your bills, and pick the one you can cut first.",
+    "scene": "bills-documents",
+    "search": "bills papers",
+    "gap": 0.4
+   },
+   {
+    "text": "Retailers know that, and put diet, fitness and organizing sales on the calendar.",
+    "scene": "shopping-mall",
+    "search": "shopping mall january sale",
+    "card": "THE SALES",
+    "gap": 0.7
+   },
+   {
+    "text": "You may sign up before the motivation fades.",
+    "scene": "phone-shopping",
+    "search": "phone gym membership",
+    "gap": 0.4
+   },
+   {
+    "text": "The effect is short, so plan for week three.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "Use the fresh start for one money goal.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Pick a small, clear one, like saving twenty dollars a week.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Automate the transfer so that the plan does not need willpower.",
+    "scene": "phone-shopping",
+    "search": "phone budget app",
+    "gap": 0.4
+   },
+   {
+    "text": "Use other fresh starts, like your birthday or a Monday.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "You do not need January to begin.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THE RESET",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more small money habits that last past the first week.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "New Year and other fresh starts motivate us to change, and marketers know it, so here is the fresh start effect and how to use it for money.",
+  "hashtags": "#moneytips #newyear #habits #budgeting"
+ },
+ {
+  "id": "the-smell-of-fresh-bread",
+  "lines": [
+   {
+    "text": "The smell in a store is not an accident.",
+    "scene": "grocery-food",
+    "search": "bakery bread",
+    "card": "SCENT MARKETING",
+    "gap": 0.7
+   },
+   {
+    "text": "You walk in and smell fresh bread, vanilla or oranges.",
+    "scene": "supermarket-aisle",
+    "search": "supermarket bakery",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels like home, and it makes you hungry.",
+    "scene": "thinking",
+    "search": "woman smelling bread",
+    "gap": 0.4
+   },
+   {
+    "text": "Smell goes straight to the parts of the brain tied to memory and mood.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE NOSE",
+    "gap": 0.7
+   },
+   {
+    "text": "In a Swiss study in a home decoration shop, researchers tested scents over eighteen days.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "One group of shoppers spent about twenty percent more when a simple scent filled the air.",
+    "scene": "bills-documents",
+    "search": "research report",
+    "gap": 0.4
+   },
+   {
+    "text": "It was one study, and results across stores vary.",
+    "scene": "shopping-mall",
+    "search": "shopping mall store",
+    "gap": 0.4
+   },
+   {
+    "text": "The point is that smell works below your attention.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "But retailers use scent, music and light to set a mood.",
+    "scene": "store-sale",
+    "search": "store fragrance",
+    "card": "THE ATMOSPHERE",
+    "gap": 0.7
+   },
+   {
+    "text": "A bakery near the entrance can make the whole store feel warm.",
+    "scene": "grocery-food",
+    "search": "fresh produce supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "You feel good, so you feel relaxed about spending.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "A hungry shopper tends to buy more than planned.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Eat something before you go grocery shopping.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Stick to your list, even if the bread smells amazing.",
+    "scene": "phone-shopping",
+    "search": "phone shopping list",
+    "gap": 0.4
+   },
+   {
+    "text": "Buy the bread, if you love it, and keep the rest as planned.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Noticing a trick is half the way to beating it.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE AWARENESS",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tricks hiding in plain sight.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Stores use scent to shape your mood, and a Swiss shop study found a simple smell raised spending, so shop smart.",
+  "hashtags": "#moneytips #psychology #supermarket #shopping"
+ },
+ {
+  "id": "influencer-marketing",
+  "lines": [
+   {
+    "text": "That recommendation from your favorite creator may be an ad.",
+    "scene": "phone-shopping",
+    "search": "phone influencer",
+    "card": "INFLUENCER ADS",
+    "gap": 0.7
+   },
+   {
+    "text": "They smile, hold up a product and say they love it.",
+    "scene": "home-sofa",
+    "search": "woman phone social",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels like a friend telling you a tip.",
+    "scene": "thinking",
+    "search": "man thinking phone",
+    "gap": 0.4
+   },
+   {
+    "text": "In April twenty seventeen, the Federal Trade Commission sent about ninety letters to influencers and brands.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "It reminded them to clearly disclose paid relationships.",
+    "scene": "bills-documents",
+    "search": "letter paper",
+    "card": "THE LETTERS",
+    "gap": 0.7
+   },
+   {
+    "text": "Brands pay influencers with money, products or free trips.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "The agency pointed to its Endorsement Guides.",
+    "scene": "research",
+    "search": "report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Why does it matter? We trust people more than ads.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "A paid post works because it does not look like an ad.",
+    "scene": "laptop-shopping",
+    "search": "laptop social video",
+    "gap": 0.4
+   },
+   {
+    "text": "The more real it feels, the more money it can make.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Discount codes and links are common signs of a deal.",
+    "scene": "store-sale",
+    "search": "discount code phone",
+    "card": "THE CODE",
+    "gap": 0.7
+   },
+   {
+    "text": "That does not make the product bad.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Look for words like ad, sponsored or paid partnership.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Search for reviews from people with no link to the brand.",
+    "scene": "laptop-shopping",
+    "search": "laptop product review",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare the price with other options.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Check whether a cheaper version exists.",
+    "scene": "phone-shopping",
+    "search": "phone price compare",
+    "gap": 0.4
+   },
+   {
+    "text": "If you buy, buy because you need it.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Trust the facts more than the face.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE RULE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to see the sale behind the smile.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Influencer posts can be paid ads, so here is what the FTC told influencers in 2017 and how to spot an ad in your feed.",
+  "hashtags": "#moneytips #influencers #advertising #ftc"
+ },
+ {
+  "id": "the-first-loyalty-stamps",
+  "lines": [
+   {
+    "text": "Loyalty programs started with tiny pieces of paper.",
+    "scene": "vintage",
+    "search": "vintage stamps book",
+    "card": "GREEN STAMPS",
+    "gap": 0.7
+   },
+   {
+    "text": "In eighteen ninety six, Sperry and Hutchinson began offering stamps to retailers.",
+    "scene": "grocery-food",
+    "search": "vintage supermarket",
+    "gap": 0.4
+   },
+   {
+    "text": "Shoppers got stamps with each purchase.",
+    "scene": "shopping-mall",
+    "search": "grocery checkout",
+    "gap": 0.4
+   },
+   {
+    "text": "They pasted them in a book, and traded the book for goods.",
+    "scene": "journal-list",
+    "search": "stamp book",
+    "gap": 0.4
+   },
+   {
+    "text": "By the nineteen sixties, stamps were everywhere.",
+    "scene": "shopping-mall",
+    "search": "vintage store",
+    "card": "THE BOOM",
+    "gap": 0.7
+   },
+   {
+    "text": "The company said it printed more stamps than the Postal Service.",
+    "scene": "factory",
+    "search": "printing factory",
+    "gap": 0.4
+   },
+   {
+    "text": "Why did it work? Collecting made shoppers feel they earned something.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "It also brought them back to the same store.",
+    "scene": "research",
+    "search": "researcher notes",
+    "card": "THE LOYALTY TRAP",
+    "gap": 0.7
+   },
+   {
+    "text": "A full stamp book felt like money you would waste if you left.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Today the stamps are apps, points and tiers.",
+    "scene": "phone-shopping",
+    "search": "phone rewards app",
+    "gap": 0.4
+   },
+   {
+    "text": "The same idea sits behind store cards and miles.",
+    "scene": "credit-card",
+    "search": "credit card rewards",
+    "gap": 0.4
+   },
+   {
+    "text": "The reward may be real, but so is the cost to earn it.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask how much you spend to get one dollar back.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "That is the sunk cost trap in a loyalty card.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Join programs for stores you already shop at.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Do not buy extra to reach a point goal.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Check how long your points last.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A reward is a gift only if you wanted to buy anyway.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE VALUE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more history behind the rewards in your wallet.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Loyalty programs started with paper stamps, so here is the story of S and H Green Stamps and how rewards still shape what you buy.",
+  "hashtags": "#moneytips #history #loyalty #rewards"
+ },
+ {
+  "id": "fake-reviews",
+  "lines": [
+   {
+    "text": "A shed once became the best restaurant in London.",
+    "scene": "restaurant",
+    "search": "restaurant empty table",
+    "card": "FAKE REVIEWS",
+    "gap": 0.7
+   },
+   {
+    "text": "In twenty seventeen, writer Oobah Butler made a listing for The Shed at Dulwich.",
+    "scene": "laptop-shopping",
+    "search": "laptop tripadvisor",
+    "gap": 0.4
+   },
+   {
+    "text": "It was a real shed in his garden, not a restaurant.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "He had friends post glowing reviews, and the listing climbed the ranks.",
+    "scene": "phone-shopping",
+    "search": "phone reviews",
+    "card": "THE SHED",
+    "gap": 0.7
+   },
+   {
+    "text": "Within months, it was number one among London restaurants on the site.",
+    "scene": "crowd-shopping",
+    "search": "crowd people",
+    "gap": 0.4
+   },
+   {
+    "text": "Eventually he admitted the joke, and removed the listing.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "Fake reviews are not just a prank.",
+    "scene": "government",
+    "search": "government building",
+    "card": "THE LAW",
+    "gap": 0.7
+   },
+   {
+    "text": "In twenty thirteen, the New York attorney general reached settlements with nineteen companies over fake reviews.",
+    "scene": "courtroom",
+    "search": "courtroom judge",
+    "gap": 0.4
+   },
+   {
+    "text": "They paid more than three hundred and fifty thousand dollars.",
+    "scene": "bills-documents",
+    "search": "news report",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty twenty four, the Federal Trade Commission finalized a rule banning fake reviews.",
+    "scene": "research",
+    "search": "report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "It allows penalties of over fifty thousand dollars per violation.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Read the three star reviews first.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Look for details, not just praise.",
+    "scene": "laptop-shopping",
+    "search": "laptop reviews",
+    "gap": 0.4
+   },
+   {
+    "text": "Real reviews mention small things, like a delay or a broken zipper.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Check if many reviews arrived on the same day.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Trust patterns, not stars.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A product with thousands of five star reviews and no complaints should worry you.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Five minutes of doubt can save fifty dollars.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE HABIT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more online tricks and how they get caught.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Fake reviews can fool you, and a shed once became the top restaurant on TripAdvisor, so here is the story and how to spot fake praise.",
+  "hashtags": "#moneytips #reviews #onlineshopping #tripadvisor"
+ },
+ {
+  "id": "the-expensive-dish-as-an-anchor",
+  "lines": [
+   {
+    "text": "The most expensive dish may not be there to sell.",
+    "scene": "restaurant",
+    "search": "restaurant menu steak",
+    "card": "THE ANCHOR DISH",
+    "gap": 0.7
+   },
+   {
+    "text": "You open a menu and see a steak for eighty dollars.",
+    "scene": "coffee-shop",
+    "search": "restaurant waiter",
+    "gap": 0.4
+   },
+   {
+    "text": "You would never order it.",
+    "scene": "thinking",
+    "search": "woman reading menu",
+    "gap": 0.4
+   },
+   {
+    "text": "The price makes the next dish feel like a reasonable decision.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "But then the thirty dollar chicken looks like a deal.",
+    "scene": "price-tags",
+    "search": "menu prices",
+    "gap": 0.4
+   },
+   {
+    "text": "That is anchoring: the first number sets your sense of normal.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE REFERENCE",
+    "gap": 0.7
+   },
+   {
+    "text": "In a famous experiment, a spinning wheel changed what people guessed.",
+    "scene": "research",
+    "search": "scientist laboratory",
+    "gap": 0.4
+   },
+   {
+    "text": "A random number pulled their answers up or down.",
+    "scene": "casino",
+    "search": "roulette wheel",
+    "gap": 0.4
+   },
+   {
+    "text": "Menu consultants teach restaurants to use the same effect.",
+    "scene": "bills-documents",
+    "search": "restaurant consultants menu",
+    "gap": 0.4
+   },
+   {
+    "text": "Wine lists use it too, with a few very high bottles at the top.",
+    "scene": "wine",
+    "search": "wine list",
+    "gap": 0.4
+   },
+   {
+    "text": "The average bottle then looks fairly priced.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Decide how much you want to spend before you read the menu.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Ignore the top price when you judge the rest.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare dishes with each other on the same scale.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Ask what you would pay if the expensive dish was not there.",
+    "scene": "restaurant",
+    "search": "restaurant table",
+    "gap": 0.4
+   },
+   {
+    "text": "Order what fits your plan, not what feels cheap next to the anchor.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "A menu is a story about price.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE POWER",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow to learn how to read the whole story, not just the top.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "An expensive dish on the menu makes the next dish look cheap, so here is how menu anchoring works and how to order for value.",
+  "hashtags": "#moneytips #restaurants #anchoring #menu"
+ },
+ {
+  "id": "gym-memberships-nobody-uses",
+  "lines": [
+   {
+    "text": "Your gym membership may be a donation.",
+    "scene": "phone-shopping",
+    "search": "phone gym app",
+    "card": "GYM MEMBERSHIPS",
+    "gap": 0.7
+   },
+   {
+    "text": "You sign up in January with big plans.",
+    "scene": "home-sofa",
+    "search": "woman sofa gym bag",
+    "gap": 0.4
+   },
+   {
+    "text": "By March, you have been twice.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Economists Stefano DellaVigna and Ulrike Malmendier studied this in a famous paper.",
+    "scene": "research",
+    "search": "researcher notes",
+    "gap": 0.4
+   },
+   {
+    "text": "They looked at three health clubs and thousands of members.",
+    "scene": "bank",
+    "search": "bank gym data",
+    "card": "THE STUDY",
+    "gap": 0.7
+   },
+   {
+    "text": "People on a monthly contract paid over seventy dollars a month.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "That is more than eight hundred dollars a year, for a few visits.",
+    "scene": "bills-documents",
+    "search": "bills papers",
+    "gap": 0.4
+   },
+   {
+    "text": "They went about four times a month on average.",
+    "scene": "thinking",
+    "search": "man thinking gym",
+    "gap": 0.4
+   },
+   {
+    "text": "That works out to more than seventeen dollars a visit.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "But the clubs also sold ten visit passes for ten dollars a visit.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "The authors said people overestimate how often they will go.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "OVERCONFIDENT",
+    "gap": 0.7
+   },
+   {
+    "text": "On average, members lost around six hundred dollars over their membership.",
+    "scene": "bills-documents",
+    "search": "research report",
+    "gap": 0.4
+   },
+   {
+    "text": "Start with a pay per visit option or a short trial.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Count your real visits after one month, honestly.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Gyms also make it hard to cancel in some cases.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "If you do not go, cancel the same day.",
+    "scene": "phone-shopping",
+    "search": "phone cancel",
+    "gap": 0.4
+   },
+   {
+    "text": "Divide the fee by your visits, and see what you pay.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE REAL COST",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more ways to stop paying for good intentions.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Most gym memberships go unused, and a famous study found people paid more than they needed, so here is how to avoid wasted fees.",
+  "hashtags": "#moneytips #gym #subscriptions #savemoney"
+ },
+ {
+  "id": "hidden-city-tickets",
+  "lines": [
+   {
+    "text": "A longer flight can cost less than a shorter one.",
+    "scene": "travel-airport",
+    "search": "airplane window",
+    "card": "HIDDEN CITY",
+    "gap": 0.7
+   },
+   {
+    "text": "You search for a flight to Chicago and see a high price.",
+    "scene": "laptop-shopping",
+    "search": "laptop flight search",
+    "gap": 0.4
+   },
+   {
+    "text": "Then you see a flight to a farther city, with a stop in Chicago, for less.",
+    "scene": "thinking",
+    "search": "woman thinking travel",
+    "gap": 0.4
+   },
+   {
+    "text": "Some travelers book the farther flight and leave the trip at the stop.",
+    "scene": "travel-airport",
+    "search": "airport gate",
+    "card": "THE TRICK",
+    "gap": 0.7
+   },
+   {
+    "text": "It is called hidden city ticketing.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Airlines say it breaks their contract rules.",
+    "scene": "bills-documents",
+    "search": "airline contract paper",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty fourteen, United and Orbitz sued a man who ran a site for it.",
+    "scene": "courtroom",
+    "search": "courtroom judge",
+    "card": "THE CASES",
+    "gap": 0.7
+   },
+   {
+    "text": "The case was dismissed in twenty fifteen over jurisdiction.",
+    "scene": "government",
+    "search": "government building",
+    "gap": 0.4
+   },
+   {
+    "text": "In twenty nineteen, Lufthansa sued a passenger in Germany who skipped his last flight.",
+    "scene": "research",
+    "search": "report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "A Berlin court dismissed the case, saying the airline's terms were not clear enough.",
+    "scene": "bills-documents",
+    "search": "court news",
+    "gap": 0.4
+   },
+   {
+    "text": "This is not legal advice, but the practical risks are real.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THE RISKS",
+    "gap": 0.7
+   },
+   {
+    "text": "Checked bags go to the final stop, so you must carry on.",
+    "scene": "shopping-bags",
+    "search": "suitcase luggage",
+    "gap": 0.4
+   },
+   {
+    "text": "If an early flight changes, the rest of your ticket may be cancelled.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Compare normal fares on several dates first.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Know the rules of your airline, and the risk to your miles.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Follow for more travel money tricks and the fine print behind them.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Hidden city tickets can look cheaper but come with real risks, so here is what airlines say and what courts have decided.",
+  "hashtags": "#moneytips #travel #airlines #flights"
+ },
+ {
+  "id": "credit-limit-increases",
+  "lines": [
+   {
+    "text": "A higher credit limit is not a gift.",
+    "scene": "credit-card",
+    "search": "credit card limit",
+    "card": "LIMIT INCREASE",
+    "gap": 0.7
+   },
+   {
+    "text": "Your card company sends a message: good news, your limit just went up.",
+    "scene": "bank",
+    "search": "bank email offer",
+    "gap": 0.4
+   },
+   {
+    "text": "It feels like a reward for being responsible.",
+    "scene": "thinking",
+    "search": "woman thinking phone",
+    "gap": 0.4
+   },
+   {
+    "text": "It also lifts your spending power.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE LIFT",
+    "gap": 0.7
+   },
+   {
+    "text": "You see room, and your brain wants to fill it.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Economists Jonathan Gross and Nicholas Souleles studied credit card account data.",
+    "scene": "research",
+    "search": "economist office",
+    "gap": 0.4
+   },
+   {
+    "text": "They found that when limits rose, people borrowed more soon after.",
+    "scene": "bills-documents",
+    "search": "study data paper",
+    "gap": 0.4
+   },
+   {
+    "text": "About thirteen cents of each extra dollar of limit became new debt in a few months.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "That means a one thousand dollar increase can lead to about one hundred and thirty dollars more debt.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "The effect was strongest for people near their limit.",
+    "scene": "shopping-mall",
+    "search": "shopping mall",
+    "gap": 0.4
+   },
+   {
+    "text": "More debt means more interest for the bank.",
+    "scene": "credit-card",
+    "search": "credit card hand",
+    "card": "THE BANK WINS",
+    "gap": 0.7
+   },
+   {
+    "text": "You can say no to an increase.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Ask for a smaller limit if it helps you stay in control.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Many issuers let you set a lower limit in the app.",
+    "scene": "phone-shopping",
+    "search": "phone bank app",
+    "gap": 0.4
+   },
+   {
+    "text": "Use a spending cap that you set yourself.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "A good limit is one you never need.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Your limit should serve your plan.",
+    "scene": "coins",
+    "search": "coins hand",
+    "card": "THE CHOICE",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more card tricks that look like favors.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "A credit limit increase feels like a reward, but a famous study found people spend and borrow more, so here is what to know before you say yes.",
+  "hashtags": "#moneytips #creditcards #debt #credit"
+ },
+ {
+  "id": "airline-miles-lose-value",
+  "lines": [
+   {
+    "text": "Airline miles are money the airline can change.",
+    "scene": "travel-airport",
+    "search": "airplane wing",
+    "card": "MILES LOSE VALUE",
+    "gap": 0.7
+   },
+   {
+    "text": "You collect them for years, and then the rules shift.",
+    "scene": "wallet",
+    "search": "wallet card",
+    "gap": 0.4
+   },
+   {
+    "text": "Award prices go up, and your balance buys less.",
+    "scene": "thinking",
+    "search": "woman thinking airport",
+    "gap": 0.4
+   },
+   {
+    "text": "In the mid twenty tens, the big airlines switched to rewarding miles by dollars spent.",
+    "scene": "bills-documents",
+    "search": "loyalty program paper",
+    "card": "THE SHIFT",
+    "gap": 0.7
+   },
+   {
+    "text": "In twenty twenty, United borrowed about six point eight billion dollars backed by its frequent flyer program.",
+    "scene": "bank",
+    "search": "bank loan",
+    "gap": 0.4
+   },
+   {
+    "text": "Appraisals valued American's program at between nineteen and thirty one billion dollars.",
+    "scene": "research",
+    "search": "report paper",
+    "gap": 0.4
+   },
+   {
+    "text": "These programs are worth huge sums, and analysts say sometimes more than the airline itself.",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "That is why they print miles like a currency.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "THE CURRENCY",
+    "gap": 0.7
+   },
+   {
+    "text": "Banks buy miles from airlines and hand them out for card spending.",
+    "scene": "credit-card",
+    "search": "credit card miles",
+    "gap": 0.4
+   },
+   {
+    "text": "The more miles in the world, the less each one can be worth.",
+    "scene": "calculator",
+    "search": "calculator numbers",
+    "gap": 0.4
+   },
+   {
+    "text": "Do not hoard miles for a someday trip.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "card": "BEAT IT",
+    "gap": 0.7
+   },
+   {
+    "text": "Use them when you find a good deal.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "Check the value per mile before you book.",
+    "scene": "phone-shopping",
+    "search": "phone airline app",
+    "gap": 0.4
+   },
+   {
+    "text": "Never pay interest on a card to earn miles.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "gap": 0.4
+   },
+   {
+    "text": "Miles are worth most when they are fresh.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "card": "THE TIP",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more on the rewards that are not as sweet as they look.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Airline miles can lose value overnight because airlines control the rules, so here is how loyalty programs became worth billions and how to use miles smartly.",
+  "hashtags": "#moneytips #travel #airlinemiles #rewards"
+ },
+ {
+  "id": "present-bias",
+  "lines": [
+   {
+    "text": "Your brain prefers a little now over more later.",
+    "scene": "brain",
+    "search": "brain head",
+    "card": "PRESENT BIAS",
+    "gap": 0.7
+   },
+   {
+    "text": "Would you take fifty dollars today or sixty in a month?",
+    "scene": "cash",
+    "search": "cash dollars",
+    "gap": 0.4
+   },
+   {
+    "text": "Many people take the fifty.",
+    "scene": "thinking",
+    "search": "man thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Economist David Laibson wrote about this in nineteen ninety seven.",
+    "scene": "research",
+    "search": "economist office",
+    "card": "THE EXPERTS",
+    "gap": 0.7
+   },
+   {
+    "text": "He showed that people discount the near future much harder than the far one.",
+    "scene": "bills-documents",
+    "search": "research paper",
+    "gap": 0.4
+   },
+   {
+    "text": "Researchers also call this hyperbolic discounting.",
+    "scene": "brain",
+    "search": "brain head",
+    "gap": 0.4
+   },
+   {
+    "text": "We are patient when we plan, and impatient when the moment arrives.",
+    "scene": "clock-time",
+    "search": "clock hands",
+    "gap": 0.4
+   },
+   {
+    "text": "Tomorrow's you looks like a stranger to today's you.",
+    "scene": "cash",
+    "search": "cash coins",
+    "gap": 0.4
+   },
+   {
+    "text": "Stores and apps are built for the moment.",
+    "scene": "shopping-mall",
+    "search": "shopping mall",
+    "gap": 0.4
+   },
+   {
+    "text": "Buy now, pay later, and enjoy it tonight.",
+    "scene": "phone-shopping",
+    "search": "phone buy button",
+    "gap": 0.4
+   },
+   {
+    "text": "Your future self gets the bill.",
+    "scene": "credit-card",
+    "search": "credit card",
+    "gap": 0.4
+   },
+   {
+    "text": "The fix is to decide in advance, when you are patient.",
+    "scene": "wallet",
+    "search": "wallet cash",
+    "card": "THE FIX",
+    "gap": 0.7
+   },
+   {
+    "text": "Set up an automatic transfer to a savings account on payday.",
+    "scene": "bank",
+    "search": "bank transfer",
+    "gap": 0.4
+   },
+   {
+    "text": "Even twenty dollars a week adds up over a full year.",
+    "scene": "savings-jar",
+    "search": "savings jar",
+    "gap": 0.4
+   },
+   {
+    "text": "Make the future step the default one.",
+    "scene": "calendar",
+    "search": "calendar planner",
+    "gap": 0.4
+   },
+   {
+    "text": "If you never see the money, you will never miss it.",
+    "scene": "thinking",
+    "search": "woman thinking",
+    "gap": 0.4
+   },
+   {
+    "text": "Write down one goal, and give it a date on the calendar.",
+    "scene": "journal-list",
+    "search": "notebook pen",
+    "gap": 0.4
+   },
+   {
+    "text": "Your future self will thank you quietly.",
+    "scene": "home-sofa",
+    "search": "woman smiling couch",
+    "card": "THE GIFT",
+    "gap": 0.7
+   },
+   {
+    "text": "Follow for more tricks to help the you of tomorrow.",
+    "scene": "city-night",
+    "search": "city street night",
+    "card": "FOLLOW",
+    "gap": 0.7
+   }
+  ],
+  "caption": "Present bias makes us choose now over later, and economists study why, so here is how to make your future self win with simple money habits.",
+  "hashtags": "#moneytips #psychology #savings #habits"
+ }
+]
