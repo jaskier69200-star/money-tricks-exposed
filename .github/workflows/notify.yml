@@ -4,8 +4,11 @@ name: Check posts and send Telegram alerts (Money Tricks Exposed)
 
 on:
   schedule:
-    # 05:15-08:45 and 17:15-20:45 UTC covers the morning and evening posts, winter and summer time
-    - cron: "15,45 5-8,17-20 * * *"
+    # Posts go out ~18:00 and ~23:30 Paris (English-speaking audience: 12:00 and 17:30 New York, 17:00 and 22:30 London)
+    # = 16:00-17:00 and 21:30-22:30 UTC (summer / winter), +-35 min. 15:00-18:30 and 20:00-00:30 UTC cover both,
+    # all year; 06:15 UTC catches anything still pending overnight.
+    - cron: "*/30 0,15-18,20-23 * * *"
+    - cron: "15 6 * * *"
   workflow_dispatch:     # "Run workflow" button; "test" sends a Telegram test message from GitHub
     inputs:
       mode:
