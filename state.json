@@ -2,14 +2,20 @@
   "en": [
     "the-middle-size-trap",
     "why-the-milk-is-at-the-back",
-    "losses-disguised-as-wins"
+    "losses-disguised-as-wins",
+    "cards-feel-like-play-money",
+    "fake-countdown-timers",
+    "the-minimum-payment-trap"
   ],
   "slots": {
     "en": {
       "2026-11-07 08:00": "launch-day-evening-only",
       "2026-11-07 20:00": "the-middle-size-trap",
       "2026-11-08 08:00": "why-the-milk-is-at-the-back",
-      "2026-11-08 20:00": "losses-disguised-as-wins"
+      "2026-11-08 20:00": "losses-disguised-as-wins",
+      "2026-11-09 17:00": "cards-feel-like-play-money",
+      "2026-11-09 21:30": "fake-countdown-timers",
+      "2026-11-09 02:00": "the-minimum-payment-trap"
     }
   },
   "posts": [
@@ -26,14 +32,37 @@
       "lang": "en",
       "topic": "why-the-milk-is-at-the-back",
       "title": "Why the milk is at the back",
-      "when": "2026-11-08T08:33:00"
+      "when": "2026-11-08T08:33:00",
+      "checked": true
     },
     {
       "id": "6aeff01211add52b273dd012",
       "lang": "en",
       "topic": "losses-disguised-as-wins",
       "title": "Losses disguised as wins",
-      "when": "2026-11-08T19:36:00"
+      "when": "2026-11-08T19:36:00",
+      "checked": true
+    },
+    {
+      "id": "6af13ea2f432f2d312c7804b",
+      "lang": "en",
+      "topic": "cards-feel-like-play-money",
+      "title": "Cards feel like play money",
+      "when": "2026-11-09T16:39:00"
+    },
+    {
+      "id": "6af140bdc0e11d854e06230c",
+      "lang": "en",
+      "topic": "fake-countdown-timers",
+      "title": "Fake countdown timers",
+      "when": "2026-11-09T21:10:00"
+    },
+    {
+      "id": "6af14289a729ad0e90b7c99b",
+      "lang": "en",
+      "topic": "the-minimum-payment-trap",
+      "title": "The minimum payment trap",
+      "when": "2026-11-10T02:31:00"
     }
   ],
   "recent_clips": [
@@ -91,6 +120,61 @@
     "coins-1",
     "pixabay_2745",
     "casino-4",
-    "pixabay_190484"
+    "pixabay_190484",
+    "credit-card-2",
+    "research-2",
+    "pixabay_115663",
+    "pixabay_269529",
+    "credit-card-3",
+    "pixabay_238029",
+    "pixabay_34108",
+    "shopping-bags-4",
+    "thinking-9",
+    "pixabay_50622",
+    "tap-to-pay-2",
+    "checkout-3",
+    "pixabay_50625",
+    "pixabay_1190",
+    "phone-shopping-6",
+    "pixabay_83866",
+    "savings-jar-2",
+    "pixabay_254617",
+    "laptop-shopping-3",
+    "pixabay_169445",
+    "pixabay_22515",
+    "research-1",
+    "pixabay_203260",
+    "thinking-4",
+    "clock-time-4",
+    "pixabay_66523",
+    "shopping-bags-2",
+    "pixabay_273927",
+    "pixabay_121090",
+    "laptop-shopping-2",
+    "clock-time-1",
+    "pixabay_151295",
+    "calendar-2",
+    "pixabay_291400",
+    "laptop-shopping-6",
+    "pixabay_132059",
+    "credit-card-4",
+    "bills-documents-2",
+    "pixabay_374656",
+    "pixabay_69573",
+    "bills-documents-4",
+    "pixabay_80032",
+    "thinking-10",
+    "pixabay_115816",
+    "coins-4",
+    "credit-card-1",
+    "credit-card-2",
+    "calendar-3",
+    "pixabay_71718",
+    "thinking-6",
+    "pixabay_86866",
+    "tap-to-pay-4",
+    "laptop-shopping-1",
+    "pixabay_268220",
+    "pixabay_1042"
   ]
 }
