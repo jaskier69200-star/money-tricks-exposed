@@ -5,7 +5,10 @@
     "losses-disguised-as-wins",
     "cards-feel-like-play-money",
     "fake-countdown-timers",
-    "the-minimum-payment-trap"
+    "the-minimum-payment-trap",
+    "menus-without-dollar-signs",
+    "free-trials-that-renew",
+    "made-for-outlet-products"
   ],
   "slots": {
     "en": {
@@ -15,7 +18,10 @@
       "2026-11-08 20:00": "losses-disguised-as-wins",
       "2026-11-09 17:00": "cards-feel-like-play-money",
       "2026-11-09 21:30": "fake-countdown-timers",
-      "2026-11-09 02:00": "the-minimum-payment-trap"
+      "2026-11-09 02:00": "the-minimum-payment-trap",
+      "2026-11-10 17:00": "menus-without-dollar-signs",
+      "2026-11-10 21:30": "free-trials-that-renew",
+      "2026-11-10 02:00": "made-for-outlet-products"
     }
   },
   "posts": [
@@ -48,30 +54,48 @@
       "lang": "en",
       "topic": "cards-feel-like-play-money",
       "title": "Cards feel like play money",
-      "when": "2026-11-09T16:39:00"
+      "when": "2026-11-09T16:39:00",
+      "checked": true
     },
     {
       "id": "6af140bdc0e11d854e06230c",
       "lang": "en",
       "topic": "fake-countdown-timers",
       "title": "Fake countdown timers",
-      "when": "2026-11-09T21:10:00"
+      "when": "2026-11-09T21:10:00",
+      "checked": true
     },
     {
       "id": "6af14289a729ad0e90b7c99b",
       "lang": "en",
       "topic": "the-minimum-payment-trap",
       "title": "The minimum payment trap",
-      "when": "2026-11-10T02:31:00"
+      "when": "2026-11-10T02:31:00",
+      "checked": true
+    },
+    {
+      "id": "6af2906e8f9fa85a1962bfac",
+      "lang": "en",
+      "topic": "menus-without-dollar-signs",
+      "title": "Menus without dollar signs",
+      "when": "2026-11-10T17:05:00"
+    },
+    {
+      "id": "6af292c99b568c27490a17a3",
+      "lang": "en",
+      "topic": "free-trials-that-renew",
+      "title": "Free trials that renew",
+      "when": "2026-11-10T21:39:00"
+    },
+    {
+      "id": "6af2952afcbea6c504c84c89",
+      "lang": "en",
+      "topic": "made-for-outlet-products",
+      "title": "Made for outlet products",
+      "when": "2026-11-11T02:04:00"
     }
   ],
   "recent_clips": [
-    "cinema-popcorn-4",
-    "pixabay_25058",
-    "cinema-popcorn-1",
-    "checkout-4",
-    "pixabay_247343",
-    "pixabay_6391",
     "cinema-popcorn-3",
     "pixabay_51722",
     "cinema-popcorn-2",
@@ -175,6 +199,62 @@
     "tap-to-pay-4",
     "laptop-shopping-1",
     "pixabay_268220",
-    "pixabay_1042"
+    "pixabay_1042",
+    "restaurant-1",
+    "thinking-3",
+    "pixabay_163381",
+    "pixabay_6410",
+    "credit-card-2",
+    "pixabay_3261",
+    "pixabay_10878",
+    "pixabay_322794",
+    "cash-1",
+    "restaurant-4",
+    "pixabay_29028",
+    "grocery-food-3",
+    "thinking-8",
+    "pixabay_150",
+    "wallet-2",
+    "pixabay_170117",
+    "credit-card-3",
+    "pixabay_190482",
+    "phone-shopping-4",
+    "credit-card-2",
+    "pixabay_122389",
+    "calendar-1",
+    "pixabay_1980",
+    "home-sofa-4",
+    "pixabay_201",
+    "pixabay_3614",
+    "office-meeting-3",
+    "pixabay_120177",
+    "receipt-2",
+    "pixabay_87975",
+    "coins-2",
+    "pixabay_111642",
+    "calendar-4",
+    "pixabay_6590",
+    "laptop-shopping-4",
+    "pixabay_216597",
+    "city-night-10",
+    "shopping-mall-2",
+    "store-sale-2",
+    "pixabay_74628",
+    "pixabay_1111",
+    "bills-documents-1",
+    "pixabay_206029",
+    "pixabay_36846",
+    "pixabay_44795",
+    "government-3",
+    "government-4",
+    "price-tags-2",
+    "pixabay_3626",
+    "store-sale-4",
+    "pixabay_81172",
+    "price-tags-3",
+    "pixabay_174009",
+    "pixabay_108010",
+    "shopping-mall-1",
+    "city-night-8"
   ]
 }
